@@ -1,0 +1,426 @@
+Browser tab: 17, Title: "AI Detector - ChatGPT, GPT-5, Gemini ve Daha Fazlası İçin Ücretsiz Yapay Zeka Denetleyicisi", URL: "https://copyleaks.com/tr/ai-detector".
+0 AXWebArea AI Detector - ChatGPT, GPT-5, Gemini ve Daha Fazlası İçin Ücretsiz Yapay Zeka Denetleyicisi, URL: copyleaks.com/tr/ai-detector
+	1 container
+		11 container INDWrap
+			412 text Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to people with visual disabilities who are using a screen reader; Press Control-F10 to open an accessibility menu.
+			14 pop up button (collapsed) Accessibility, ID: INDmenu-btn, Secondary Actions: Expand
+				15 image INDmenu-btn-moveArrow
+				16 image
+				17 text Accessibility
+			18 content list
+				19 button Press enter for Accessibility for blind people who use screen readers
+					20 text Press enter for Accessibility for blind people
+					21 text who use screen readers
+				22 button Press enter for Keyboard Navigation
+				23 button Press enter for Accessibility menu
+		24 container
+			25 text Yapay Zeka Destekli Video Algılama özelliği artık yayında.
+			26 link Description: Demo alın, Value: copyleaks.com/tr/ai-detector/ai-video-detector/book-a-demo
+			27 button Bannerı kapat
+		28 container Öncelik
+			29 link Description: Copyleaks ana sayfası, Value: copyleaks.com/tr
+			30 content list
+				31 button (collapsed) Ürünler, Secondary Actions: Expand
+				32 button (collapsed) Çözümler, Secondary Actions: Expand
+				33 link Description: Fiyatlandırma, Value: copyleaks.com/pricing
+				34 button (collapsed) Kaynaklar, Secondary Actions: Expand
+			35 link Description: Giriş yapmak, Value: app.copyleaks.com/dashboard/v1
+			36 link Description: Demo Alın, Value: copyleaks.com/tr/book-a-demo
+			37 link Description: Ücretsiz Başlayın, Value: app.copyleaks.com/signup
+		38 container Yapay Zeka Dedektörü
+			39 heading Yapay Zeka Dedektörü, Value: 1, ID: cl-mk-hero-title
+				40 text Yapay Zeka Dedektörü
+			41 container Description: Copyleaks AI Detector, ID: ai-content-detector
+				42 AXWebArea Copyleaks: AI & Machine Learning Powered Plagiarism Checker, URL: app.copyleaks.com/tr/v1/scan/tools/embedded?tool=ai-detector&ngsw-bypass=true
+					43 container website-container
+						44 tab group Copyleaks araçları
+							45 tab (selected, settable, boolean) Yapay zeka dedektörü, Value: 1, ID: unified-tools-ai-detector
+							46 tab (selectable, settable, boolean) Görüntü dedektörü, Value: 0, ID: unified-tools-image-detector
+							47 tab (selectable, settable, boolean) İntihal kontrol aracı, Value: 0, ID: unified-tools-plagiarism-checker
+							48 tab (selectable, settable, boolean) Metin denetimi, Value: 0, ID: unified-tools-text-moderation
+						49 container Description: Yapay zeka dedektörü, ID: unified-tools-panel
+							50 link ai insights icon
+								51 image ai insights icon
+							52 link chrome icon
+								53 image chrome icon
+							60 link google docs icon
+								61 image google docs icon
+							62 container
+								413 text entry area (disabled) Evde Çalışma Düzeni: Çevrim İçi Veli Buluşması
+
+Değerli Velilerimiz,
+
+6, 7 ve 8. sınıf velilerimizi, evde çalışma düzeni üzerine konuşacağımız çevrim içi buluşmaya davet ediyoruz. Perşembe günü saat 19.30'da başlayacak görüşme toplam 40 dakika sürecek. İlk 15 dakikada sunum yapılacak, kalan 25 dakika ise sorulara ayrılacak.
+
+Buluşmaya katılım ücretsiz ve isteğe bağlıdır; katılıp katılmamanız öğrencinizin notunu etkilemez. Önceden kayıt yaptırmanız gerekmiyor. Katılım bağlantısı, buluşmadan bir gün önce sınıf iletişim gruplarında paylaşılacak. Bu bağlantıyı kullanarak telefonunuzdan veya bilgisayarınızdan görüşmeye katılabilirsiniz. Teknik kontrol yapmak isterseniz saat 19.20'de bağlanabilirsiniz; erken bağlanmak zorunlu değildir.
+
+Görüşme boyunca kameranızı açmak zorunda değilsiniz. Sunum sırasında mikrofonların kapalı tutulmasını rica ediyoruz. Sorularınızı sohbet alanına yazabilir, söz almak isterseniz el kaldırabilirsiniz.
+
+Görüşme kaydedilmeyecek. Öğrencilerin isimlerini ve özel bilgilerini ortak sohbet alanında paylaşmamanızı rica ediyoruz. Bireysel olarak ele alınmasını istediğiniz konular için rehberlik servisinden ayrı bir görüşme talep edebilirsiniz. Bu görüşmeler için henüz bir tarih belirtilmemiştir.
+
+Buluşmaya katılamayan velilerimiz için ertesi gün sınıf gruplarında kısa bir yazılı özet paylaşılacak.
+
+								70 text İle tarama ve/veya hizmeti kullanarak, Copyleaks'in 
+								71 link Description: Kullanım koşulları, Value: copyleaks.com/legal/termsofuse
+								72 text Ve 
+								73 link Description: Gizlilik Politikası, Value: copyleaks.com/privacy-policy
+								74 button (disabled) clear text btn
+								75 container submit btn
+									76 button (disabled) Scan
+								77 button upload
+							415 container
+								416 container
+									417 image
+									418 progress indicator loading
+								419 progress indicator loading
+								420 text İçerir Kelimeler Yapay Zeka Metni
+								421 progress indicator loading
+								422 text İnsan Metni
+								423 progress indicator loading
+								424 text Hassasiyet Seviyesi 2/3
+								425 progress indicator loading
+								426 progress indicator loading
+								427 progress indicator loading
+								428 progress indicator loading
+								429 progress indicator loading
+								430 progress indicator loading
+								431 progress indicator loading
+								432 progress indicator loading
+								433 progress indicator loading
+								434 progress indicator loading
+								435 progress indicator loading
+								436 progress indicator loading
+			80 container
+				81 link Description: Bağımsız üçüncü taraf araştırmalarıyla, Value: copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party
+				82 text  desteklenen %99 doğruluk oranı.
+			83 container
+				84 link Description: Kurumsal çözüm paketimiz, Value: copyleaks.com/tr/book-a-demo
+				85 text  hakkında daha fazla bilgi edinin.
+			86 container
+				87 text Yazarlar ve öğrenciler için, Grammarly gibi bazı platformlar temel işlevler için ChatGPT ve diğer genAI modellerini kullanır ve potansiyel yapay zeka içeriği olarak işaretlenebilir. 
+				88 link Description: Makaleyi okuyun., Value: copyleaks.com/blog/do-grammar-checkers-get-flagged-as-ai
+		89 container
+			90 heading Yapay Zeka Tarafından Oluşturulan İçeriği Tespit Et, Value: 2
+				91 text Yapay Zeka Tarafından Oluşturulan İçeriği Tespit Et
+			92 text Copyleaks yapay zekâ metin dedektörü, insan yazısıyla dikkatlice harmanlanmış olsa bile, yapay zekâ tarafından yazılmış içeriği %99'un üzerinde doğrulukla bulmanıza yardımcı olur. Ödüllü yapay zekâ dedektörümüz, blog yazınızda, makalenizde, özgeçmişinizde veya sosyal medya açıklamanızda yapay zekâ desteğini daha iyi anlamanıza ve kullanmanıza yardımcı olacaktır. 30'dan fazla dili destekleyen ve ChatGPT, Gemini, Claude ve daha fazlasını tespit edebilen Copyleaks, öğrenciler, yazarlar, profesyoneller ve içerik oluşturucular için tercih edilen ücretsiz yapay zeka metin kontrol aracıdır. Yapay Zeka Dedektörü ve ödüllü 
+			93 link Description: İntihal Kontrol Aracı, Value: copyleaks.com/tr/plagiarism-checker
+			94 text  ile Copyleaks, en üst düzey içerik bütünlüğü paketini sunar.
+			95 image Yapay Zeka Dedektörü Başlığı
+			96 image Yapay zeka metin vurgulama örneği
+		97 container
+			98 heading Yapay Zeka Mantığı: Tespit. Kaynak destekli içgörüler. Güven., Value: 2
+				99 text Yapay Zeka Mantığı:  Tespit. Kaynak destekli içgörüler. Güven.
+			100 text Yapay Zeka Mantığı, metnin neden yapay zeka tarafından oluşturulduğunu göstererek tespit sürecini basitleştirir. Yapay Zeka İfadeleri, belgede görünen metni tanımlar ve bu metnin insan tarafından değil, yapay zeka tarafından oluşturulma sıklığını istatistiksel olarak gösterir. Yapay Zeka Kaynak Eşleştirme ise gönderilen metnin herhangi bir bölümünün başka bir yerde yayınlanmış içerikte zaten görünüp görünmediğini belirler.
+			101 link Description: Yapay Zeka Mantığı, Value: copyleaks.com/tr/ai-detector/ai-logic
+			102 text  hakkında daha fazla bilgi edinin.
+			103 image Yapay Zeka Mantığı
+		104 container
+			105 heading Yapay Zeka Dedektör Uzantıları ve Entegrasyonları, Value: 2
+				106 text Yapay Zeka Dedektör Uzantıları ve Entegrasyonları
+			107 heading Yapay Zeka Algılama Tarayıcı Eklentisi, Value: 3
+				108 text Yapay Zeka Algılama Tarayıcı Eklentisi
+			109 link Description: Uzantıyı İndirin, Value: chromewebstore.google.com/detail/ai-content-detector-copyl/gplcmncpklkdjiccbknjjkoidpgkcakd?hl=en
+			110 text Chrome ve Edge Tarayıcılarına Yapay Zeka Algılama Özelliğini Getirin
+			111 text Web editörlerinde, öğrenme platformlarında ve yayın sitelerinde çalışırken yapay zeka tarafından yazılmış içerikleri anında tarayın. Copyleaks Tarayıcı Eklentisi, iş akışınıza doğrudan entegre olarak, "yayınla" düğmesine basmadan önce işaretlenmiş metinleri tespit etmenize ve düzeltmenize yardımcı olur.
+			112 heading Google Dokümanlar'ı Yapay Zeka Algılama ile Kullanın, Value: 3
+				113 text Google Dokümanlar'ı Yapay Zeka Algılama ile Kullanın
+			114 link Description: Google Dokümanlar için Eklenti Yükle, Value: workspace.google.com/marketplace/app/ai_and_plagiarism_checker_copyleaks/484212953959?_gl=1*1cb4f3e*_gcl_au*MTU1MDgxNTA2My4xNzU1ODAxNDMy*_ga*MjUwNTYzNzUxLjE3NTMxMDI5OTc.*_ga_MBTGG7KX5Y*czE3NTU4MDUzOTAkbzQkZzEkdDE3NTU4MDgxNzAkajUxJGwwJGgxODAwMjQ1NDAz
+			115 text Yazma Akışınıza Entegre Edilmiş Gerçek Zamanlı Yapay Zeka Algılama
+			116 text Copyleaks Google Docs eklentisi ile çalışırken yapay zeka tarafından yazılmış içerikleri hızlıca tespit edin ve yazma süreciniz boyunca özgünlüğünüzü koruyun.
+			117 heading API aracılığıyla Kurumsal Yapay Zeka Tespiti, Value: 3
+				118 text API aracılığıyla Kurumsal Yapay Zeka Tespiti
+			119 link Description: Daha fazla bilgi edin, Value: copyleaks.com/tr/api/ai-detector
+			120 text Güçlü Yapay Zeka Algılama Özelliğini Kendi İş Akışınıza Entegre Edin
+			121 text Copyleaks AI Detector'ın gücünü, kusursuz ve tamamen beyaz etiketli API entegrasyonuyla kendi platformunuza taşıyın.
+			122 heading LMS Yapay Zeka Dedektör Entegrasyonu, Value: 3
+				123 text LMS Yapay Zeka Dedektör Entegrasyonu
+			124 link Description: Daha fazla bilgi edin, Value: copyleaks.com/tr/learning-management-systems
+			125 text Eğitimciler ve Öğrenciler İçin Özel Olarak Tasarlandı
+			126 text Basit LMS entegrasyonu, öğrencilerin öğrenme ve özgünlüklerini güçlendirirken, eğitimcilerin ihtiyaç duyduğu her şeyi tek bir kullanışlı yerde bir araya getiriyor; Canvas, D2L, Moodle, Blackboard, Schoology, Edsby ve Sakai için kullanılabilir.
+		127 container
+			128 heading Yapay Zeka Algılama Aracını Birden Çok Dilde Kullanın, Value: 2
+				129 text Yapay Zeka Algılama Aracını Birden Çok Dilde Kullanın
+			130 text Copyleaks, yapay zeka tespiti için en büyük dil veritabanlarından birine sahip olup,
+			131 link Description: ana dili İngilizce olmayan metinler, Value: copyleaks.com/blog/accuracy-of-ai-detection-models-for-non-native-english-speakers
+			132 text  için düşük yanlış pozitif oranlarıyla 30'dan fazla dili desteklemektedir. İngilizce, Fransızca, Almanca, İtalyanca, Portekizce, İspanyolca, Japonca, Çince (Basitleştirilmiş ve Geleneksel), Rusça, Felemenkçe veya daha başka dillerde içerik tarıyor olsanız da, yapay zeka dedektörümüzün tutarlı ve güvenilir sonuçlar sunacağına güvenebilirsiniz. Yapay zeka teknolojilerindeki gelişmelere, özellikle de küresel olarak en yaygın kullanılan dillere ayak uydurmak için modellerimizi sürekli olarak yeniden eğitiyor ve geliştiriyoruz. Bu da bağlam veya dil ne olursa olsun güvenebileceğiniz bir doğruluk anlamına geliyor. Titiz testlerle desteklenen teknolojimiz, çok dilli doğruluk konusunda sektörde lider konumdadır ve yapay zeka tarafından oluşturulan içeriği tespit etmenizi ve sınır ötesinde özgünlüğü doğrulamanızı sağlar. Sağdaki grafik, en son modelimizin en sık kullanılan dillerimizdeki performansını göstermektedir. Daha detaylı bilgi edinmek ister misiniz? 
+			133 link Description: Yapay Zeka Dedektör Test Metodolojimizi, Value: copyleaks.com/tr/ai-detector/testing-methodology
+			134 text  inceleyin.
+			135 content list Yapay Zeka Algılama Aracını Birden Çok Dilde Kullanın
+				136 container
+					137 text İngilizce: %99,97 (insan), %99,20 (yapay zeka)
+				138 container
+					139 text Fransızca: %99,88 (insan), %96,18 (yapay zeka)
+				140 container
+					141 text Almanca: %99,94 (insan), %95,63 (yapay zeka)
+				142 container
+					143 text İtalyan: %99,88 (insan), %97,00 (yapay zeka)
+				144 container
+					145 text Portekizce: %99,95 (insan), %93,08 (yapay zeka)
+				146 container
+					147 text İspanyol: %99,85 (insan), %98,02 (yapay zeka)
+		148 container
+			149 heading Copyleaks Yapay Zeka Dedektörünü Nasıl Kullanabilirsiniz?, Value: 2
+				150 text Copyleaks Yapay Zeka Dedektörünü Nasıl Kullanabilirsiniz?
+			151 button (disabled) Previous slide
+			152 button Next slide
+			153 container Copyleaks Yapay Zeka Dedektörünü Nasıl Kullanabilirsiniz?
+				154 container 1 of 4
+					155 heading Adım 1: İçeriğinizi Ekleyin, Value: 3
+						156 text Adım 1:  İçeriğinizi Ekleyin
+					157 container
+						158 text Giriş metni:  İçeriğinizi Yapay Zeka Dedektörüne yükleyin veya yapıştırın.
+					159 container
+						160 text Cömert tarama sınırı:  Giriş yapmadan 25.000 karaktere kadar tarama yapabilirsiniz; bu, çoğu büyük yapay zeka tespit aracından daha yüksek bir sınırdır.
+				161 container 2 of 4
+					162 heading Adım 2: Metninizi Tarayın, Value: 3
+						163 text Adım 2:  Metninizi Tarayın
+					164 container
+						165 text Nasıl çalışır:  "Tara"ya tıklayın ve gelişmiş algoritmamızın gerisini halletmesine izin verin. Copyleaks Yapay Zeka Dedektörü, hem yapay zeka hem de insan tarafından yazılmış metinlerde bulunan çeşitli dilbilimsel ve istatistiksel kalıpları kullanarak yazınızı analiz eder.
+					166 text Başlıca özellikler şunlardır:
+					167 content list
+						168 container
+							169 AXListMarker • 
+							170 text Frekans oranları:  Yapay zeka tarafından oluşturulan yazılarda daha sık kullanılan ifadeleri tespit etmek için içeriğinizi büyük veri kümeleriyle karşılaştırır.
+						171 container
+							172 AXListMarker • 
+							173 text Sözcük türleri:  Yapay zekâ benzeri kalıplar için dilbilgisel yapıyı ve sözdizimini analiz eder.
+						174 container
+							175 AXListMarker • 
+							176 text Hece dağılımı:  Metninizdeki hecelerin ritmini ve akışını inceler.
+						177 container
+							178 AXListMarker • 
+							179 text Tire kullanımı:  Yapay zekâ tarafından sıklıkla kullanılan alışılmadık veya aşırı mekanik tireleme kalıplarını işaretler.
+					180 container
+						181 text Daha da derinlemesine bilgi edinmeye hazır mısınız?  Copyleaks aboneliğinizi yükseltin ve inceleyebileceğiniz tanımlanabilir kaynaklarla yapay zeka tespitinin ardındaki "neden"i ortaya çıkaran en yeni yapay zeka tespit teknolojisi olan AI Logic'in kilidini açın.
+					182 link Description: Şimdi Yükseltin, Value: copyleaks.com/pricing
+				183 container 3 of 4
+					184 heading 3. Adım: Sonuçları Gözden Geçirin, Value: 3
+						185 text 3. Adım:  Sonuçları Gözden Geçirin
+					186 container
+						187 text Puanınızı anlayın:  Copyleaks'in kapsamlı analizine dayanarak, içeriğinizin ne kadarının yapay zeka tarafından oluşturulmuş olma olasılığının yüksek olduğunu görün.
+					188 container
+						189 text Daha derinlemesine inceleyin:  Ücretsiz bir hesap oluşturarak cümle cümle analizlere, yapay zeka tarafından yazılmış öne çıkan ifadelere ve kalıpların ayrıntılı incelemelerine tam erişim sağlayın.
+				190 container 4 of 4
+					191 heading 4. Adım: İçeriğinizi İyileştirin, Value: 3
+						192 text 4. Adım:  İçeriğinizi İyileştirin
+					193 container
+						194 text Özgüvenle gözden geçirin:  Geri bildirimleri kullanarak işaretlediğiniz ifadeleri kendi kelimelerinizle yeniden yazın.
+						195 text Metninizi yeniden tarayın:  Düzenlemeler yapın ve değişikliklerinizin sonuçları nasıl etkilediğini görmek için başka bir tarama çalıştırın.
+					196 image onay işareti
+		197 container
+			198 heading En İyi Yapay Zeka Dedektörünü Kullanın, Value: 2
+				199 text En İyi Yapay Zeka Dedektörünü Kullanın
+			200 image grafik
+			201 heading En Doğru Yapay Zeka Tespit Aracı, Value: 3
+				202 text En Doğru Yapay Zeka Tespit Aracı
+			203 text %99'un üzerinde doğruluk oranı ve sektördeki en düşük %0,03 yanlış pozitif oranıyla Copyleaks, güvenilir tespit alanında lider konumdadır.
+			204 image Uygulama
+			205 heading En Yüksek Ücretsiz Tarama Sınırı, Value: 3
+				206 text En Yüksek Ücretsiz Tarama Sınırı
+			207 text Piyasadaki diğer büyük yapay zekâ dedektörlerinden daha fazla, 25.000 karaktere kadar ücretsiz tarama yapın.
+			208 image kaydırıcılar
+			209 heading Ücretsiz Hesapla Daha Fazla Tarama Yapın, Value: 3
+				210 text Ücretsiz Hesapla Daha Fazla Tarama Yapın
+			211 text Daha fazla aylık tarama hakkı kazanmak için ücretsiz bir hesap oluşturun. Bu, alabileceğiniz en yüksek ücretsiz tarama hakkıdır.
+		212 container
+			213 heading Yapay Zeka Dedektörümüz Nasıl Çalışır?, Value: 2
+				214 text Yapay Zeka Dedektörümüz Nasıl Çalışır?
+			215 text Copyleaks, benzersiz bir hassasiyetle üretken içerikleri tespit etmek için dilbilimsel modelleme, derin öğrenme ve tescilli yapay zeka mantığımızı bir araya getiriyor. Sürecimiz:
+			216 content list
+				217 container
+					218 AXListMarker • 
+					219 text Trilyonlarca insan tarafından yazılmış belge üzerinde eğitildi.
+				220 container
+					221 AXListMarker • 
+					222 text LLM'lerin geride bıraktığı istatistiksel kalıpları tanımlar.
+				223 container
+					224 AXListMarker • 
+					225 text Karışık olsa bile yapay zeka tarafından oluşturulan metni insan girdisinden ayırır.
+			226 container Supported AI models
+				227 image OpenAI
+				228 image Claude
+				229 image Derin arama
+				230 image İkizler burcu
+				231 image Lama
+				232 checkbox Pause logo animation, Value: 0
+			233 heading ChatGPT Algılama ve Ötesi, Value: 3
+				234 text ChatGPT Algılama ve Ötesi
+			235 text Basit bir ChatGPT dedektörünün ötesine geçin; Gemini, Claude, DeepSeek ve piyasaya sürüldükçe yeni çıkacak tüm modeller dahil olmak üzere tüm yapay zeka modelleri için algılama elde edin.
+			236 heading Yapay Zeka ile İntihal ve Paraphrase Tespiti, Value: 3
+				237 text Yapay Zeka ile İntihal ve Paraphrase Tespiti
+			238 text İçeriğinizin tamamına göz atın, yapay zeka tarafından oluşturulan metinlerdeki olası intihal veya yeniden ifade etme durumlarını tespit edin.
+			239 heading API veya LMS çözümü mü arıyorsunuz?, Value: 3
+				240 text API veya LMS çözümü mü arıyorsunuz?
+			241 link Description: Satış ekibiyle görüşün, Value: copyleaks.com/tr/book-a-demo
+			242 heading Yapay Zekayı Benzeri Görülmemiş Bir Doğrulukla Tespit Edin, Value: 3
+				243 text Yapay Zekayı Benzeri Görülmemiş Bir Doğrulukla Tespit Edin
+			244 text Yapay Zeka Dedektörü, insan yazı kalıplarını tanımak üzere eğitilmiştir ve bilinen insan kalıplarından ve belirli yapay zeka sinyallerinden sapmalar tespit ettiğinde metni potansiyel üretken yapay zeka olarak işaretler.
+		245 container
+			246 heading Bu, Yapay Zekadan Kaçınma Değil, Yapay Zeka Eğitimi, Value: 2
+				247 text Bu, Yapay Zekadan Kaçınma Değil, Yapay Zeka Eğitimi
+			248 text Biz burada yapay zekâ tespitini atlatmanıza yardımcı olmak için değil, onu anlamanıza yardımcı olmak için bulunuyoruz. İster makalenizin şüpheli olup olmadığını kontrol eden bir öğrenci olun, ister içeriğinizin düşük kaliteli bir yapay zekâ ürünü gibi görünmemesini sağlamaya çalışan bir yazar olun, Copyleaks size yapay zekâ ile sorumlu, etik ve şeffaf bir şekilde çalışmanız için gerekli araçları sunar. Bu, tespit edilmekten kaçınmakla ilgili değil; yapay zekayı etkili ve sorumlu bir şekilde nasıl kullanacağınızı öğrenmekle ilgili. Hepsi bir arada platformumuz, içeriğinizi netlik ve güvenle analiz etmenize, iyileştirmenize ve doğrulamanıza yardımcı olur; böylece özgünlüğünüzü korurken yapay zekanın potansiyelini de kucaklayabilirsiniz.
+		249 container
+			250 heading İhtiyaçlarınıza Göre Tasarlanmış Bir Yapay Zeka Dedektörü, Value: 2
+				251 text İhtiyaçlarınıza Göre Tasarlanmış Bir Yapay Zeka Dedektörü
+			252 heading Öğrenciler için, Value: 3
+				253 text Öğrenciler için
+			254 text Ödevlerinizi özgüvenle başarıyla tamamlayın. Concerned that your professor might flag your paper as AI-generated? Run it through the AI Detector before you submit. Get instant clarity on what reads like AI and revise flagged phrases to make sure your work reflects  your  voice and effort. Stay ahead, stay original.
+			255 heading Profesyoneller İçin, Value: 3
+				256 text Profesyoneller İçin
+			257 text İtibarınızı ve işinizi koruyun. İster rapor, ister teklif, ister özgeçmiş gönderiyor olun, yapay zeka tarafından oluşturulan metinler şüphe uyandırabilir. Copyleaks, paylaştığınız her şeyin kusursuz, profesyonel ve insan eliyle yazılmış olduğundan emin olmanıza yardımcı olur. Kazara yapay zeka sinyallerinden kaçının ve yazdığınız her kelimenin kontrolünü elinizde tutun.
+			258 heading Yazarlar İçin, Value: 3
+				259 text Yazarlar İçin
+			260 text Yaratıcı sesinizi koruyun. Romanlardan bültenlere kadar, yazınız sizin tarzınızı yansıtmalı. Yapay zeka etkisinin düzenleme araçları veya taslak hazırlama yardımcıları aracılığıyla sızıp sızmadığını kontrol etmek için Yapay Zeka Dedektörümüzü kullanın. Geri bildirim alın, bilinçli düzeltmeler yapın ve benzersiz üslubunuzu koruyun.
+			261 heading İçerik Oluşturucular İçin, Value: 3
+				262 text İçerik Oluşturucular İçin
+			263 text Yapay zekânın egemen olduğu bir dünyada özgünlüğünüzü koruyun. Blog yazıları, alt yazılar veya video senaryoları mı yayınlıyorsunuz? İçeriğinizin özgün kalmasını sağlayarak kitlenizle güven oluşturun. Yapay zekâ ile veya yapay zekâ olmadan içerik oluşturuyor olsanız da, tespit araçlarımız her platformda içeriğinizi gözden geçirmenize, iyileştirmenize ve bütünlüğünü korumanıza yardımcı olur.
+		264 container
+			265 heading İşletmeler, Eğitim Kurumları ve Daha Fazlası İçin Kurumsal Yapay Zeka Tespiti, Value: 2
+				266 text İşletmeler, Eğitim Kurumları ve Daha Fazlası İçin Kurumsal Yapay Zeka Tespiti
+			267 text Copyleaks, sektörler genelindeki kuruluşlara içerik bütünlüğünü büyük ölçekte doğrulama olanağı sunar. İster fikri mülkiyeti koruyor olun, ister yapay zeka modelleri eğitiyor olun veya yapay zeka kullanım politikaları uyguluyor olun, kurumsal yapay zeka tespit platformumuz eşsiz doğruluk, güvenlik ve kontrol sağlar. Küresel işletmeler, devlet kurumları ve eğitim kurumları tarafından güvenilen platformumuz, uyumlu, rekabetçi ve kendinden emin kalmanıza yardımcı olur.
+			268 heading Kurumsal Yapay Zeka Dedektörü Özellikleri ve Faydaları, Value: 3
+				269 text Kurumsal Yapay Zeka Dedektörü Özellikleri ve Faydaları
+			270 heading Zaman Duyarlı Analizler için Ücretsiz Yapay Zeka Tespiti, Value: 3
+				271 text Zaman Duyarlı Analizler için Ücretsiz Yapay Zeka Tespiti
+			272 text Güçlü yapay zeka algılama motorumuzu kullanarak herhangi bir metindeki yapay zeka tarafından yazılmış içeriği hızlıca tarayın ve tespit edin; tarama başına 25.000 karaktere kadar ücretsizdir.
+			273 heading Yapay Zeka Modeli Eğitimi, Value: 3
+				274 text Yapay Zeka Modeli Eğitimi
+			275 text Eğitim verilerinin yalnızca doğrulanmış, insanlar tarafından yazılmış içerikten elde edilmesini sağlayarak yapay zeka sistemlerinizin bütünlüğünü koruyun.
+			276 link Description: Kullanım örneğine bakın., Value: copyleaks.com/tr/ai-model-training-data
+			277 heading Akademik Dürüstlük, Value: 3
+				278 text Akademik Dürüstlük
+			279 text Eğitim amaçlı kullanım durumlarına özel olarak tasarlanmış yüksek doğruluk oranına sahip tespit sistemi ile makalelerde, kaynak kodlarında ve diğer öğrenci çalışmalarında özgünlüğü sağlayın.
+			280 link Description: Kullanım örneğine bakın., Value: copyleaks.com/tr/academic-integrity
+			281 heading Yönetişim, Value: 3
+				282 text Yönetişim
+			283 text GenAI'nin benimsenmesi için güvenlik önlemleri oluşturun. Riskleri azaltın, politikaları uygulayın ve kuruluşunuz genelinde marka ve yasal uyumluluğu koruyun.
+			284 link Description: Kullanım örneğine bakın., Value: copyleaks.com/tr/governance-risk-and-compliance
+			285 heading Fikri Mülkiyet ve Telif Hakkı, Value: 3
+				286 text Fikri Mülkiyet ve Telif Hakkı
+			287 text Yetkisiz yeniden kullanımı tespit edin ve telif hakkı ve lisans uyumluluğu kapsamıyla fikri mülkiyetinizi koruyun.
+			288 link Description: Kullanım örneğine bakın., Value: copyleaks.com/tr/ip-and-copyright
+			289 heading Yetkisiz LLM Kullanımı, Value: 3
+				290 text Yetkisiz LLM Kullanımı
+			291 text Size ait olan içeriğin, izniniz olmadan üçüncü taraf dil modellerini eğitmek için kullanılmadığından emin olun.
+			292 link Description: Kullanım örneğine bakın., Value: copyleaks.com/tr/unauthorized-llm-usage
+			293 heading Kurumsal Düzeyde Güvenlik, Value: 3
+				294 text Kurumsal Düzeyde Güvenlik
+			295 text Copyleaks, kurumsal düzeyde şifreleme, GDPR uyumluluğu ve SOC 2 & SOC 3 sertifikasyonu dahil olmak üzere en yüksek veri koruma standartlarını karşılamaktadır.
+			296 heading Özelleştirilebilir Hassasiyet Seviyeleri, Value: 3
+				297 text Özelleştirilebilir Hassasiyet Seviyeleri
+			298 text Yanlış pozitifleri azaltmak veya daha incelikli yapay zeka yeniden yazmalarını ortaya çıkarmak için algılama eşiklerini hassas bir şekilde ayarlayın; bu özellik karmaşık kurumsal ihtiyaçlar için mükemmeldir.
+			299 heading Yapay Zeka Tarafından Oluşturulan Kaynak Kod Tespiti, Value: 3
+				300 text Yapay Zeka Tarafından Oluşturulan Kaynak Kod Tespiti
+			301 text Gelişmiş kod algılama motorumuzla yapay zeka tarafından oluşturulan kodları lisans ihlalleri, uygunsuz yeniden kullanım veya potansiyel güvenlik açıkları açısından tarayın ve doğrulayın.
+		302 container
+			303 heading Oakland Üniversitesi Yapay Zeka Dedektörü Vaka Çalışması, Value: 2
+				304 text Oakland Üniversitesi Yapay Zeka Dedektörü Vaka Çalışması
+			305 text Oakland Üniversitesi'nin Copyleaks'i nasıl benimsediğini ve öğretim üyeleri ve personeli arasında yapay zeka ve intihal konusundaki tartışmayı nasıl değiştirdiğini öğrenin.
+			306 link Description: Vaka incelemesinin tamamını okuyun., Value: copyleaks.com/success-story/oakland-university
+			307 image Oakland Üniversitesi
+			308 heading Kampanya Performans Göstergeleri, Value: 3
+				309 text Kampanya Performans Göstergeleri
+			310 text Kullanım kolaylığı ve entegrasyon, maliyet etkinliği, müşteri desteği, güvenlik
+		311 container
+			312 heading Copyleaks Yapay Zeka Tespit Aracı ile Bugün Başlayın, Value: 2
+				313 text Copyleaks Yapay Zeka Tespit Aracı  ile Bugün Başlayın
+			314 link Description: Demo Alın, Value: copyleaks.com/tr/book-a-demo
+		315 container
+			316 heading Yapay Zeka Tespiti Hakkında Sıkça Sorulan Sorular, Value: 2
+				317 text Yapay Zeka Tespiti Hakkında Sıkça Sorulan Sorular
+			318 heading Yapay zekâ tespiti nasıl çalışır?, Value: 3
+				319 button (expanded) Yapay zekâ tespiti nasıl çalışır?, Secondary Actions: Collapse
+			320 container Yapay zekâ tespiti nasıl çalışır?
+				321 text Büyük bir dil modeli bir cümle yazdığında, istatistiksel modellemeye dayalı olarak bir yanıt veya çıktı oluşturmak için ön eğitim verilerinin tamamını kullanır. Yapay zeka dedektörleri bu kalıbı tanıyabilir ve belirli içerikleri, insanların yazma biçiminden önemli ölçüde farklı olduğu için yapay zeka tarafından üretilmiş olarak işaretleyebilir.
+				322 text Yapay zekâ tespit sistemleri, insan tarafından yazılmış içerik örnekleri üzerinde eğitilebilir; bu sayede yapay zekâ metin üreticisinin varlığı, insan yazısına kıyasla daha belirgin hale gelir.
+			323 heading Yapay Zeka Dedektörü hangi modelleri tespit edebilir?, Value: 3
+				324 button (collapsed) Yapay Zeka Dedektörü hangi modelleri tespit edebilir?, Secondary Actions: Expand
+			325 heading Copyleaks ücretsiz bir yapay zeka tespit aracı sunuyor mu?, Value: 3
+				326 button (collapsed) Copyleaks ücretsiz bir yapay zeka tespit aracı sunuyor mu?, Secondary Actions: Expand
+			327 heading Copyleaks yapay zeka tespit modeli nasıl eğitildi?, Value: 3
+				328 button (collapsed) Copyleaks yapay zeka tespit modeli nasıl eğitildi?, Secondary Actions: Expand
+			329 heading En iyi yapay zeka dedektörü hangisidir?, Value: 3
+				330 button (collapsed) En iyi yapay zeka dedektörü hangisidir?, Secondary Actions: Expand
+			331 heading Value: 3, Bazı yapay zeka dedektörü içerik taramaları için neden minimum ve maksimum metin gereksinimi bulunmaktadır?
+				332 button (collapsed) Secondary Actions: Expand, Bazı yapay zeka dedektörü içerik taramaları için neden minimum ve maksimum metin gereksinimi bulunmaktadır?
+			333 heading Copyleaks Yapay Zeka Dedektörü Ne Kadar Doğru?, Value: 3
+				334 button (collapsed) Copyleaks Yapay Zeka Dedektörü Ne Kadar Doğru?, Secondary Actions: Expand
+			335 heading En doğru yapay zekâ tespit aracı hangisidir?, Value: 3
+				336 button (collapsed) En doğru yapay zekâ tespit aracı hangisidir?, Secondary Actions: Expand
+			337 heading Value: 3, Copyleaks Yapay Zeka Dedektörü, Grammarly gibi yazım denetleme araçlarını yapay zeka içeriği olarak işaretliyor mu?
+				338 button (collapsed) Secondary Actions: Expand, Copyleaks Yapay Zeka Dedektörü, Grammarly gibi yazım denetleme araçlarını yapay zeka içeriği olarak işaretliyor mu?
+			339 heading Copyleaks'in veri koruma önlemleri nelerdir?, Value: 3
+				340 button (collapsed) Copyleaks'in veri koruma önlemleri nelerdir?, Secondary Actions: Expand
+			341 heading Value: 3, Yapay Zeka Dedektörü, insan tarafından oluşturulan metne yapay zeka tarafından üretilen metnin eklendiği karışık metinleri tespit edebilir mi?
+				342 button (collapsed) Secondary Actions: Expand, Yapay Zeka Dedektörü, insan tarafından oluşturulan metne yapay zeka tarafından üretilen metnin eklendiği karışık metinleri tespit edebilir mi?
+		343 container
+			344 image Copyleaks logosu
+			345 text 115 E 23rd St., 7. Kat New York, NY 10010
+			346 link Description: Bize Ulaşın, Value: help.copyleaks.com/s/contactsupport
+			347 link Description: SOC II ve SOC III uyumlu rozet, Value: copyleaks.com/tr/compliance-certifications#soc2
+			348 link Description: PCI DSS uyumlu, Value: copyleaks.com/tr/compliance-certifications#pci
+			349 text Çözümler
+			350 content list
+				351 link Description: Akademik Dürüstlük, Value: copyleaks.com/tr/academic-integrity
+				352 link Description: Yönetişim ve Uyumluluk, Value: copyleaks.com/tr/governance-risk-and-compliance
+				353 link Description: Yetkisiz LLM Kullanımı, Value: copyleaks.com/tr/unauthorized-llm-usage
+				354 link Description: Yapay Zeka Modeli Eğitimi, Value: copyleaks.com/tr/ai-model-training-data
+				355 link Description: Fikri Mülkiyet ve Telif Hakkı, Value: copyleaks.com/tr/ip-and-copyright
+				356 link Description: Kod Yönetimi ve Uyumluluk, Value: copyleaks.com/tr/code-governance-and-compliance
+				357 link Description: LLM denetimi, Value: copyleaks.com/tr/llm-audit
+				358 link Description: Başlık IV Dolandırıcılığı, Value: copyleaks.com/tr/title-four-ai-fraud-detection
+			359 text Ürünler
+			360 content list
+				361 link Description: Yapay Zeka Dedektörü, Value: copyleaks.com/tr/ai-detector
+				362 link Description: Yapay Zeka Görüntü Dedektörü, Value: copyleaks.com/tr/ai-image-detector
+				363 link Description: İntihal Kontrol Aracı, Value: copyleaks.com/tr/plagiarism-checker
+				364 link Description: Dilbilgisi Denetleyicisi, Value: copyleaks.com/tr/grammar-checker
+				365 link Description: Metin Moderasyonu, Value: copyleaks.com/tr/text-moderation
+			366 text Entegrasyonlar
+			367 content list
+				368 link Description: LMS Entegrasyonu, Value: copyleaks.com/tr/learning-management-systems
+				369 link Description: Tarayıcı Eklentisi, Value: copyleaks.com/tr/ai-detector/extension
+				370 link Description: Google Dokümanlar için Copyleaks, Value: workspace.google.com/marketplace/app/ai_and_plagiarism_checker_copyleaks/484212953959
+			371 text Şirket
+			372 content list
+				373 link Description: Hakkımızda, Value: copyleaks.com/tr/about-us
+				374 link Description: Haberler ve Medya, Value: copyleaks.com/tr/about-us/news
+				375 link Description: Kariyerler, Value: copyleaks.com/careers
+				376 link Description: Bayiler, Value: copyleaks.com/tr/resellers
+				377 link Description: İştirakler, Value: copyleaks.com/tr/affiliate
+			378 text API Paketi
+			379 content list
+				380 link Description: API'ye Genel Bakış, Value: copyleaks.com/tr/api
+				381 link Description: Yapay Zeka Dedektörü API'si, Value: copyleaks.com/tr/api/ai-detector
+				382 link Description: İntihal Kontrol Aracı API'si, Value: copyleaks.com/tr/api/plagiarism-checker
+				383 link Description: Dilbilgisi Denetleyicisi API'si, Value: copyleaks.com/tr/api/grammar-checker
+				384 link Description: Metin Moderasyonu API'si, Value: copyleaks.com/tr/api/text-moderation
+			385 text Kaynaklar
+			386 content list
+				387 link Description: Yardım Merkezi, Value: help.copyleaks.com/
+				388 link Description: Blog, Value: copyleaks.com/blog
+				389 link Description: Başarı Hikayeleri, Value: copyleaks.com/success-stories
+				390 link Description: Yapay Zeka Dedektör Test Metodolojileri, Value: copyleaks.com/tr/ai-detector/testing-methodology
+				391 link Description: Metin Moderasyonu Test Metodolojileri, Value: copyleaks.com/tr/text-moderation/testing-methodology
+				392 link Description: Sürüm Notları, Value: copyleaks.com/release-notes
+			393 content list
+				394 link Description: Erişilebilirlik, Value: copyleaks.com/tr/accessibility
+				395 link Description: Uyumluluk, Value: copyleaks.com/tr/compliance-certifications
+				396 link Description: Güvenlik Uygulamaları, Value: copyleaks.com/tr/security-practices
+				397 link Description: Kullanım Şartları, Value: copyleaks.com/termsofuse
+				398 link Description: Gizlilik Politikası, Value: copyleaks.com/privacy-policy
+				399 button Çerezleri Yönet
+				400 link Description: Sistem Durumu, Value: status.copyleaks.com/
+			401 button (collapsed) TR, Secondary Actions: Expand
+				402 text TR
+			403 content list Sosyal medya
+				404 link Description: LinkedIn, Value: linkedin.com/company/copyleaks/
+				405 link Description: Instagram, Value: instagram.com/copyleaksai/
+				406 link Description: Konular, Value: threads.net/@copyleaksai
+				407 link Description: X, Value: x.com/Copyleaks
+				408 link Description: Podcast RSS, Value: feeds.buzzsprout.com/2310947.rss
+			409 text Tüm hakları saklıdır. Bu web sitesinin kullanımı, aşağıdaki şartları kabul ettiğiniz anlamına gelir.
+			410 link Description: Kullanım Şartları, Value: copyleaks.com/termsofuse
+			411 text .
+
+The focused UI element is 42 AXWebArea Copyleaks: AI & Machine Learning Powered Plagiarism Checker, URL: app.copyleaks.com/tr/v1/scan/tools/embedded?tool=ai-detector&ngsw-bypass=true

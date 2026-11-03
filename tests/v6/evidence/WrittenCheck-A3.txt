@@ -1,0 +1,353 @@
+Browser tab: 14, Title: "Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT", URL: "https://writtencheck.com/tr/".
+0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/
+	1 link Description: İçeriğe geç, Value: writtencheck.com/tr/#main
+	2 container
+		3 link Description: WrittenCheck ana sayfa, Value: writtencheck.com/tr/
+		4 container Description: Ana menü, ID: siteNav
+			5 link Description: Yapay Zeka Dedektörü, Value: writtencheck.com/tr/
+			6 link Description: Nasıl çalışır, Value: writtencheck.com/how-it-works
+			7 link Description: API, Value: writtencheck.com/ai-detector-api
+			8 link Description: Hakkımızda, Value: writtencheck.com/about
+			9 link Description: İletişim, Value: writtencheck.com/contact
+		10 button (collapsed) Description: Dil seçin, Secondary Actions: Expand
+		11 button Description: Switch to dark mode, ID: themeToggle
+		12 link Description: Hesap, Value: writtencheck.com/account
+	13 container main
+		14 container
+			15 heading Yapay zeka dedektörü: Türkçe metinler için ücretsiz kontrol, Value: 1
+				16 text Yapay zeka dedektörü: Türkçe metinler için  ücretsiz  kontrol
+			17 text Bu yapay zeka dedektörü, ödevinizin, tezinizin ya da blog yazınızın ChatGPT, Claude veya Gemini gibi bir araçla yazılmış gibi okunup okunmadığını birkaç saniyede gösterir. Hangi cümlelerin şüpheli durduğunu da tek tek işaretler.
+			18 content list
+				19 text Ücretsiz, üyeliksiz
+				20 text Türkçeye özel model
+				21 text Cümle cümle sonuç
+				22 text Metniniz saklanmaz
+			23 container checker
+				24 container Description: Metniniz, ID: wcInputPane
+					25 text Metniniz
+					26 button (disabled) Yapıştır, Help: Metin yapıştır, ID: wcPaste
+					27 button Yükle, Help: Dosya yükleyin, ID: wcUpload
+					28 text Dil
+					29 pop up button (collapsed, settable) Dil, Value: Türkçe, ID: wcLanguage, Secondary Actions: Expand
+						30 menu
+							31 Dili algıla
+							32 İngilizce
+							33 Arapça
+							34 Çince
+							35 Fransızca
+							36 Almanca
+							37 Hintçe
+							38 Endonezce
+							39 İtalyanca
+							40 Japonca
+							41 Korece
+							42 Portekizce
+							43 Rusça
+							44 İspanyolca
+							45 Tagalogca (Filipince)
+							46 Tayca
+							47 (selected) Türkçe
+							48 Urduca
+					268 container wcMarked
+						269 container Bu cümle: %3 YZ benzerliği. Sayılar ve ayrıntılar (skoru düşürdü)
+							270 text 6, 7 ve 8.
+						271 container Bu cümle: %3 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							272 text sınıf velilerimize,
+						273 container Bu cümle: %3 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							274 text Perşembe akşamı 19.
+						275 container Bu cümle: %35 YZ benzerliği. Sayılar ve ayrıntılar (skoru düşürdü)
+							276 text 30–20.
+						277 container Bu cümle: %55 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							278 text 10 arasında çevrim içi bir buluşmamız var; evde çalışma düzenini konuşacağız.
+						279 container Bu cümle: %36 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). Sayılar ve ayrıntılar (skoru düşürdü)
+							280 text İlk 15 dakika sunum, sonraki 25 dakika sorular için ayrıldı.
+						281 container Bu cümle: %14 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							282 text Sorularınızı sohbetten yazabilir ya da el kaldırıp söz isteyebilirsiniz.
+						283 container Bu cümle: %17 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							284 text Sunum yapılırken mikrofonları kapalı tutalım, kameranızı ise isterseniz açın.
+						285 container Bu cümle: %13 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							286 text Katılmak için çarşamba günü sınıf iletişim grubunda paylaşılacak bağlantıya girmeniz yeterli.
+						287 container Bu cümle: %4 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü)
+							288 text Telefon veya bilgisayar kullanabilirsiniz.
+						289 container Bu cümle: %1 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							290 text Ön kayıt gerekmiyor, ücret de yok.
+						291 container Bu cümle: %5 YZ benzerliği. Sayılar ve ayrıntılar (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							292 text Teknik kontrol yapmak isteyenler 19.
+						293 container Bu cümle: %11 YZ benzerliği. Sayılar ve ayrıntılar (skoru düşürdü)
+							294 text 20'de bağlanabilir.
+						295 container Bu cümle: %21 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							296 text Buluşmaya katılmak tamamen size kalmış; katılımın öğrencinizin notuna etkisi olmayacak.
+						297 container Bu cümle: %40 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							298 text Öğrenci adlarını ve özel bilgilerini ortak sohbete yazmayalım.
+						299 container Bu cümle: %60 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							300 text Bireysel bir konuyu ele almak isterseniz rehberlik servisinden ayrıca görüşme talep edebilirsiniz.
+						301 container Bu cümle: %19 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							302 text Bu görüşmeler için tarih belirtilmedi.
+						303 container Bu cümle: %3 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							304 text Perşembe akşamı katılamazsanız cuma günü sınıf gruplarında paylaşılacak kısa yazılı özeti okuyabilirsiniz.
+						305 container Bu cümle: %3 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							306 text Buluşmanın ses veya görüntü kaydı alınmayacak.
+					307 text Kırmızı: yapay zekaya en çok benzeyen. Turuncu: bazı YZ işaretleri. Skorunu görmek için bir cümleye tıklayın.
+					59 text Örnek deneyin:
+					60 button Yapay zeka metni
+					61 button İnsan metni
+					308 text 131 / 3.000 kelime
+					309 button Metni düzenle, ID: wcEdit
+					63 button Temizle, ID: wcClear
+					64 button Metni kontrol et, ID: wcRun
+						310 text Metni kontrol et
+				66 container Description: Sonuç Yapay zeka benzerlik skoru yüzde 100, ID: wcResultPane
+					67 text Sonuç
+					311 container wcResult
+						312 container Yapay zeka benzerlik skoru yüzde 100
+						313 container
+							314 text Büyük olasılıkla yapay zeka
+						315 text Skor, üretilmiş bölümleri yansıtıyor. Cümle haritası bunların hangileri olduğunu gösteriyor.
+						316 text Güven:
+						317 text Yüksek
+						318 heading Olası aralık, Value: 3
+							319 text Olası aralık
+						320 text 92–100%
+						321 heading Cümle cümle, Value: 3
+							322 text Cümle cümle
+						323 text 19 cümle
+						324 container wcChart
+							325 container 19 cümlenin her birinin YZ benzerliği
+						326 text YZ'ye benzer
+						327 text 0
+						328 text Bazı işaretler
+						329 text 2
+						330 text İnsana benzer
+						331 text 17
+						332 content list
+							333 container
+								334 text Dil Türkçe
+							335 container
+								336 text Kontrol edilen kelime 131
+						337 heading Sinyal dökümü, Value: 3
+							338 text Sinyal dökümü
+						339 text 0 ile 100 arası, yüksek değer YZ'ye daha yakın
+						340 container Eğitim, öğretim, blog, pazarlama, araştırma ve birçok başka alandan insan ve yapay zeka yazılarıyla eğitilmiş bir transformer modeli. Yanıt verdiğinde puanı o belirler.
+							341 text Derin dil modeli
+							342 text 100
+						343 container Karakter, kelime seçimi, ritim ve yapı kalıplarını, ayrı tutulmuş insan ve yapay zeka metinleriyle karşılaştırır.
+							344 text Yazı kalıpları (yerleşik model)
+							345 text 10
+						346 container Belgenin ritmini, ifadelerini, tekrarlarını ve ayrıntılarını tek bir yüzey kalıbı sinyalinde toplar.
+							347 text Yüzey üslup kontrolü
+							348 text 5
+						349 container Metin boyunca cümle uzunluklarının ve başlangıçlarının ne kadar benzediği.
+							350 text Cümle tekdüzeliği
+							351 text 34
+						352 container Cilalı, kalıp geçiş ifadeleri ve yapay zeka yazısında sık görülen diğer kalıplar.
+							353 text Tahmin edilebilir ifadeler
+							354 text 20
+						355 heading Skoru ne etkiledi, Value: 3
+							356 text Skoru ne etkiledi
+						357 content list
+							358 container
+								359 text Yapay zeka yazısında görülen ifadeler  YZ yönüne itti “var; evde çalışma düzenini”, “bir konuyu ele”, “isterseniz rehberlik”
+							360 container
+								361 text İnsan yazısında görülen ifadeler  insan yönüne itti “yazılı özeti okuyabilirsiniz”, “veya görüntü kaydı alınmayacak”, “Perşembe”
+							362 container
+								363 text Sayılar ve ayrıntılar  insan yönüne itti “yapmak isteyenler 19”, “ve 8”, “20'de”
+						364 button Sonuç yanlış mı? Bize bildirin
+						365 text Bu, yazı kalıplarına dayalı bir tahmindir, metni kimin yazdığının kanıtı değildir. Bir karar vermeden önce işaretlenen cümlelere ve bağlama bakın.
+			72 text %97,3 YZ metni yakalandı (14 Ekim 2026 testi) %0,22 insan metni yanlış işaretlendi 3.000 kelimeye kadar tek seferde 0 saklanan metin İnsan örneği: Ömer Seyfettin, «Kaşağı» (1919), kamu malı (Vikikaynak). Yapay zeka örneği: bu sayfa için bir yapay zeka modeli olan Claude tarafından yazıldı. 2 Ekim'deki yeniden eğitimden sonra, 3 Ekim 2026'da canlı araçla kontrol edildi: insan örneği %43 (aralık 23–63, güven düşük, Büyük olasılıkla insan yazımı); yapay zeka örneği %88 (aralık 80–96, güven yüksek, Büyük olasılıkla yapay zeka). Ömer Seyfettin'i 2 Ekim'de eklenen edebiyat metinleri arasında bulmadık, ama tanınmış eski yazarların başka eserleri daha önceki eğitim verilerinde yer alıyor olabilir. İnsan örneği kısa, yalnızca 93 kelime. Yeniden eğitimden önce 27 alıyordu, şimdi düşük güvenle 43 alıyor ve olası aralığı karışık bölgeye kadar uzanıyor. Kısa metinlerin neden daha az güvenilir olduğunu bu örnek iyi gösteriyor. Tek bir örnek doğruluğu ölçmez, yalnızca bir fikir verir.
+		73 container
+			74 text KISACA
+			75 heading WrittenCheck nedir?, Value: 2
+				76 text WrittenCheck nedir?
+			77 text WrittenCheck, ücretsiz bir çevrim içi yapay zeka dedektörüdür. Bir metnin ChatGPT, Claude veya Gemini gibi bir yapay zeka aracıyla yazılmış olma olasılığını 0 ile 100 arasında bir skorla tahmin eder ve yapay zekaya en çok benzeyen cümleleri gösterir. Türkçe, desteklenen 17 dilden biridir.
+			78 definition list
+				79 container Ücret
+					80 text Ücret
+				81 text Ücretsiz, hesap gerekmez
+				82 container Metin uzunluğu
+					83 text Metin uzunluğu
+				84 text Kontrol başına 40 ile 3.000 kelime
+				85 container Kullanım sınırı
+					86 text Kullanım sınırı
+				87 text Dakikada 8, günde 200 kontrol
+				88 container Sonuç
+					89 text Sonuç
+				90 text Skor, olası aralık, güven düzeyi, işaretli cümleler
+				91 container 14 Ekim 2026 testi
+					92 text 14 Ekim 2026 testi
+				93 text YZ metinlerinin %97,3'ü yakalandı, insan metinlerinin %0,22'si yanlış işaretlendi
+				94 container Gizlilik
+					95 text Gizlilik
+				96 text Bellekte kontrol edilir, sonra silinir
+		97 container
+			98 text KULLANIM
+			99 heading Metninizi üç adımda kontrol edin, Value: 2
+				100 text Metninizi üç adımda kontrol edin
+			101 text Program indirmeniz ya da kayıt olmanız gerekmez. Her şey bu sayfada olur.
+			102 text 1
+			103 heading Metni yapıştırın, Value: 3
+				104 text Metni yapıştırın
+			105 text En az 40 kelime gerekir, güvenilir bir sonuç için birkaç yüz kelime daha iyidir. Birkaç paragraf, tek paragraftan daha sağlıklı sonuç verir. Kaynakçayı, tabloları ve uzun alıntıları dışarıda bırakın.
+			106 text 2
+			107 heading Dile bakın, Value: 3
+				108 text Dile bakın
+			109 text "Dili algıla" Türkçeyi genelde kendisi tanır. Metinde İngilizce terimler çoksa, örneğin bir yazılım raporunda, menüden Türkçeyi kendiniz seçin.
+			110 text 3
+			111 heading Sonucu inceleyin, Value: 3
+				112 text Sonucu inceleyin
+			113 text Skora, olası aralığa ve grafiğe bakın. Grafikteki bir sütuna tıklarsanız ilgili cümleye gidersiniz.
+		114 container
+			115 text SONUCU OKUMAK
+			116 heading Skor ne anlama geliyor?, Value: 2
+				117 text Skor ne anlama geliyor?
+			118 text Skor 0 ile 100 arasındadır. Sayı yükseldikçe metin yapay zeka üretimi bir yazıya daha çok benzer. Dedektörün kullandığı üç aralık şunlar. 0–44
+			119 text Büyük olasılıkla insan yazımı Kelime seçimi ve cümle yapısı, insanların yazısında görülen çeşitliliği taşıyor. 45–69
+			120 text Karışık veya belirsiz Bazı bölümler yapay zeka gibi, bazıları değil. Düzeltilmiş YZ taslaklarında ve çok resmi yazılarda sık görülür. 70–100
+			121 text Büyük olasılıkla yapay zeka Metnin büyük kısmı yapay zeka yazısında gördüğümüz kalıplarla örtüşüyor. Skorun yanında bir  olası aralık  görürsünüz, örneğin 86 ile 100 arası. Hiçbir dedektör tam tek bir sayı veremez. Aralık, gerçek değerin büyük olasılıkla nerede olduğunu gösterir.  Güven düzeyi  (yüksek, orta, düşük) sonucun ne kadar sağlam olduğunu anlatır. Düşük güven genellikle metnin kısa olduğu ya da sinyallerin birbirini tutmadığı anlamına gelir.
+		122 container
+			123 text TÜRKÇEYE ÖZEL
+			124 heading AI dedektörü Türkçe metinlerde nasıl çalışır?, Value: 2
+				125 text AI dedektörü Türkçe metinlerde nasıl çalışır?
+			126 text Türkçenin yapısı, sonucu nasıl okumanız gerektiğini de etkiler. Bilmeniz gereken birkaç nokta var.
+			127 heading Ekler ve kelime sayısı, Value: 3
+				128 text Ekler ve kelime sayısı
+			129 text Türkçe eklemeli bir dil olduğu için tek kelime çok şey anlatır. "Yapabileceklerimizden" gibi bir kelime, İngilizcede dört beş kelimeye karşılık gelebilir. Bu yüzden 40 kelimelik bir Türkçe metin, aynı sayıdaki İngilizce metinden genellikle daha uzundur. Kesme işaretiyle ayrılan ekler de kelimeye dahil sayılır, yani "İstanbul'a" tek kelimedir.
+			130 heading Resmi dil ve akademik kalıplar, Value: 3
+				131 text Resmi dil ve akademik kalıplar
+			132 text Tezlerde ve proje raporlarında "Bu çalışmada ... amaçlanmıştır", "Sonuç olarak ... söylenebilir" gibi kalıplar çok yaygındır. Yapay zeka araçları da aynı kalıpları sever. Bu nedenle kendi yazdığınız bir giriş ya da sonuç bölümü olması gerekenden yüksek skor alabilir. Tartışma veya bulgular gibi kendi yorumunuzun yoğun olduğu bölümler daha adil bir resim verir.
+			133 heading İngilizce terimler, Value: 3
+				134 text İngilizce terimler
+			135 text "Deadline", "toplantıyı schedule etmek" ya da teknik makalelerdeki "machine learning" gibi terimler sorun değildir. Ancak bir paragrafın yarısı İngilizceyse, Türkçe ve İngilizce bölümleri ayrı ayrı kontrol etmek daha doğru olur.
+			136 heading Türkçe karakterler ve biçim, Value: 3
+				137 text Türkçe karakterler ve biçim
+			138 text En sağlıklı sonucu, metni yazıldığı haliyle yapıştırdığınızda alırsınız. "ş" yerine "s", "ı" yerine "i" yazılmış metinler doğal Türkçeden uzaklaşır, bu yüzden böyle bir metnin skorunu daha temkinli okuyun. Word veya PDF'ten kopyalarken sayfa numaraları ve dipnotlar araya karışmışsa onları silin.
+		139 container
+			140 text DOĞRULUK
+			141 heading Türkçede ne kadar doğru?, Value: 2
+				142 text Türkçede ne kadar doğru?
+			143 text Metni artık insan ve yapay zeka yazılarıyla eğitilmiş derin bir dil modeli puanlıyor. Bu model kendi sunucumuzda çalışır. Sunucu yoğunsa ya da kapalıysa yerleşik model devreye girer, böylece her kontrol yine bir sonuç alır. 14 Ekim 2026'da yaptığımız kendi testimizde, modelin daha önce hiç görmediği metinlerde dedektör Türkçe yapay zeka metinlerinin  %97,3 'ünü 45 ve üzeri skorla yakaladı. İnsan metinlerinin ise  %0,22 'si (450 metinden 1'i) yanlışlıkla 45 veya üzeri skor aldı. İngilizce dışındaki 16 dilin tamamında, 15.089 metinlik bu testte yeni model YZ metinlerinin %96,8'ini yakaladı (önceki model aynı metinlerde %95,6), insan metinlerinin %0,17'sini yanlış işaretledi; bu, önceki modelin %0,14'ünden biraz yüksek. 9 Ekim 2026 testinde eski edebiyat metinlerinde yanlış işaretleme oranı %3,6'dan %0,16'ya indi. Bunlar test sonuçlarıdır. Bir fikir verir ama garanti değildir, çünkü sizin metinleriniz test setinden daha zor ya da daha kolay olabilir. Dil bazında tüm rakamlar 
+			144 link Description: nasıl çalışır sayfasında, Value: writtencheck.com/how-it-works
+			145 text  (İngilizce) yer alıyor. ZAYIF NOKTALAR
+			146 heading Sonuca daha az güvenmeniz gereken durumlar, Value: 2
+				147 text Sonuca daha az güvenmeniz gereken durumlar
+			148 content list
+				149 text 40-150 kelimelik kısa metinler.
+				150 text Bir insanın yeniden yazdığı ya da başka sözcüklerle anlattığı YZ taslakları.
+				151 text Alışılmadık bir üslupla yazılmış YZ metinleri.
+				152 text Dilekçe veya resmi yazı gibi çok resmi insan yazıları.
+				153 text Türkçeyi ikinci dil olarak kullanan yazarlar.
+			154 text Skor bir işarettir, kanıt değildir. Kimseyi yalnızca skora dayanarak suçlamayın.
+		155 container
+			156 text KİMLER KULLANIYOR
+			157 heading Ödevden ön yazıya, ücretsiz bir ikinci göz, Value: 2
+				158 text Ödevden ön yazıya, ücretsiz bir ikinci göz
+			159 image
+			160 heading Öğrenciler, Value: 3
+				161 text Öğrenciler
+			162 text Ödevinizi, dönem projenizi ya da tez bölümünüzü teslim etmeden önce bir yapay zeka dedektöründe nasıl göründüğüne bakın.
+			163 image
+			164 heading Öğretmenler ve akademisyenler, Value: 3
+				165 text Öğretmenler ve akademisyenler
+			166 text Bir kompozisyonu veya makaleyi ikinci kez gözden geçirmek için kullanın. İşaretli cümleler öğrenciyle konuşmaya başlamak için iyi bir dayanaktır.
+			167 image
+			168 heading Editörler ve içerik alıcıları, Value: 3
+				169 text Editörler ve içerik alıcıları
+			170 text Serbest yazarlardan gelen blog yazılarını ve haber metinlerini yayına almadan önce kontrol edin.
+			171 image
+			172 heading İş arayanlar ve İK, Value: 3
+				173 text İş arayanlar ve İK
+			174 text Ön yazınız ya da niyet mektubunuz hâlâ sizin sesinizi taşıyor mu, yoksa hazır bir şablon gibi mi okunuyor, görün. İK ekipleri de skoru başvuruyu okurken ek bir not olarak kullanabilir.
+		175 container
+			176 text ANDROİD UYGULAMASI
+			177 heading WrittenCheck telefonunuzda, Value: 2
+				178 text WrittenCheck telefonunuzda
+			179 text Android için yapılmış uygulamayla metinleri yapay zeka açısından kontrol edin. Basılı bir sayfayı tarayın, bir dosya açın ya da başka bir uygulamadan metin paylaşın, her cümlenin işaretini görün.
+			180 content list
+				181 text Basılı sayfayı kamerayla tarayın
+				182 text TXT, DOCX ve PDF dosyalarını açın
+				183 text Her uygulamadan metin paylaşın
+				184 text Geçmişiniz telefonunuzda kalır
+			185 link Description: Google Play'den yükleyin, Value: play.google.com/store/apps/details?id=com.aiDetector.aiContentChecker&referrer=utm_source%3Dwrittencheck.com%26utm_medium%3Dhome_section
+			186 text Ücretsiz, kayıt yok.
+		187 container
+			188 text SSS
+			189 heading Yapay zeka dedektörü hakkında sık sorulan sorular, Value: 2
+				190 text Yapay zeka dedektörü hakkında sık sorulan sorular
+			191 button (collapsed) Bu yapay zeka dedektörü gerçekten ücretsiz mi?, Secondary Actions: Expand
+				192 text Bu yapay zeka dedektörü gerçekten ücretsiz mi?
+			193 button (collapsed) Yapay zeka dedektörü nasıl çalışır?, Secondary Actions: Expand
+				194 text Yapay zeka dedektörü nasıl çalışır?
+			195 button (collapsed) ChatGPT, Claude ve Gemini ile yazılan metinleri tespit edebilir mi?, Secondary Actions: Expand
+				196 text ChatGPT, Claude ve Gemini ile yazılan metinleri tespit edebilir mi?
+			197 button (collapsed) Türkçe metinlerde ne kadar doğru sonuç verir?, Secondary Actions: Expand
+				198 text Türkçe metinlerde ne kadar doğru sonuç verir?
+			199 button (collapsed) En iyi yapay zeka dedektörü hangisi?, Secondary Actions: Expand
+				200 text En iyi yapay zeka dedektörü hangisi?
+			201 button (collapsed) Turnitin ile aynı sonucu verir mi?, Secondary Actions: Expand
+				202 text Turnitin ile aynı sonucu verir mi?
+			203 button (collapsed) İntihal (benzerlik) kontrolü de yapıyor mu?, Secondary Actions: Expand
+				204 text İntihal (benzerlik) kontrolü de yapıyor mu?
+			205 button (collapsed) Kendi yazdığım metin yüksek skor aldı. Ne yapmalıyım?, Secondary Actions: Expand
+				206 text Kendi yazdığım metin yüksek skor aldı. Ne yapmalıyım?
+			207 button (collapsed) Öğretmen sadece bu skora bakarak öğrenciyi suçlayabilir mi?, Secondary Actions: Expand
+				208 text Öğretmen sadece bu skora bakarak öğrenciyi suçlayabilir mi?
+			209 button (collapsed) Yapıştırdığım metin saklanıyor mu?, Secondary Actions: Expand
+				210 text Yapıştırdığım metin saklanıyor mu?
+			211 button (collapsed) Neden en az 40 kelime gerekiyor?, Secondary Actions: Expand
+				212 text Neden en az 40 kelime gerekiyor?
+			213 button (collapsed) Hangi dilleri destekliyor?, Secondary Actions: Expand
+				214 text Hangi dilleri destekliyor?
+			215 text Son güncelleme: 14 Ekim 2026.
+			216 heading Metninizi şimdi kontrol edin, Value: 2
+				217 text Metninizi şimdi kontrol edin
+			218 text Ücretsiz, üyeliksiz ve metniniz saklanmıyor.
+			219 link Description: Kontrole başla, Value: writtencheck.com/tr/#checker
+	220 container
+		221 link Description: WrittenCheck ana sayfa, Value: writtencheck.com/tr/
+		222 text Nasıl karar verdiğini gösteren ücretsiz bir yapay zeka dedektörü. Metniniz kontrol edilir, sonra silinir. Pakistan'dan bağımsız bir proje.
+		223 link Description: writtenchecksupport@gmail.com, Value: mailto:writtenchecksupport@gmail.com
+		224 heading ÜRÜN, Value: 3
+			225 text ÜRÜN
+		226 content list
+			227 link Description: Yapay Zeka Dedektörü, Value: writtencheck.com/tr/
+			228 link Description: Nasıl çalışır, Value: writtencheck.com/how-it-works
+			229 link Description: API ve widget, Value: writtencheck.com/ai-detector-api
+			230 link Description: Android uygulaması, Value: play.google.com/store/apps/details?id=com.aiDetector.aiContentChecker&referrer=utm_source%3Dwrittencheck.com%26utm_medium%3Dfooter
+		231 heading ŞİRKET, Value: 3
+			232 text ŞİRKET
+		233 content list
+			234 link Description: Hakkımızda, Value: writtencheck.com/about
+			235 link Description: Yayın politikası, Value: writtencheck.com/editorial-policy
+			236 link Description: İletişim, Value: writtencheck.com/contact
+		237 heading YASAL, Value: 3
+			238 text YASAL
+		239 content list
+			240 link Description: Gizlilik, Value: writtencheck.com/privacy
+			241 link Description: Koşullar, Value: writtencheck.com/terms
+			242 link Description: Çerezler, Value: writtencheck.com/cookies
+			243 link Description: Sorumluluk reddi, Value: writtencheck.com/disclaimer
+			244 link Description: Erişilebilirlik, Value: writtencheck.com/accessibility
+			245 button Çerez ayarları
+		246 container Diller
+			247 heading DİLLER, Value: 3
+				248 text DİLLER
+			249 content list
+				250 link Description: English, Value: writtencheck.com/
+				251 link Description: Español, Value: writtencheck.com/es/
+				252 link Description: Português, Value: writtencheck.com/pt/
+				253 link Description: Français, Value: writtencheck.com/fr/
+				254 link Description: Deutsch, Value: writtencheck.com/de/
+				255 link Description: Italiano, Value: writtencheck.com/it/
+				256 link Description: Русский, Value: writtencheck.com/ru/
+				257 link Description: 日本語, Value: writtencheck.com/ja/
+				258 link Description: 한국어, Value: writtencheck.com/ko/
+				259 link Description: 繁體中文, Value: writtencheck.com/zh-hant/
+				260 link Description: العربية, Value: writtencheck.com/ar/
+				261 link Description: हिन्दी, Value: writtencheck.com/hi/
+				262 link Description: Bahasa Indonesia, Value: writtencheck.com/id/
+				263 link Description: Tagalog, Value: writtencheck.com/tl/
+				264 link Description: Türkçe, Value: writtencheck.com/tr/
+				265 link Description: ไทย, Value: writtencheck.com/th/
+				266 link Description: اردو, Value: writtencheck.com/ur/
+		267 text © 2026 WrittenCheck Skorlar tahmindir, yazarlığın kanıtı değildir. Bu sitede geçen diğer ürün adları sahiplerinin ticari markalarıdır. WrittenCheck onlarla bağlantılı değildir ve onlar tarafından onaylanmamış ya da desteklenmemiştir.
+
+The focused UI element is 0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/

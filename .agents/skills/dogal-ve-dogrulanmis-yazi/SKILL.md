@@ -15,6 +15,19 @@ Doğal anlatım, anlamı ve kullanıcı sesini koruma, gereksiz kalıpları azal
 
 Kullanıcıya her seferinde bu kuralı uyguladığını anlatma; doğrudan istenen metni sun. Dedektöre dış gönderim, her yazıda otomatik yapılacak bir işlem değildir; bunun için ilgili görevde açık test isteği gerekir. Gerçekte ölçülmeyen puanı veya dedektörden geçişi iddia etme.
 
+## Metnin yapısını yeniden kurma
+
+Yüzeysel sözcük değişimleri sonuç vermiyorsa [anlamdan yeniden kurma yöntemini](references/anlamdan-yeniden-kurma.md) uygula: okurun kararını belirle, olguları kaynak cümlelerinden ayır, bağlantılı bilgileri birlikte anlat, verilen bilgilerden güvenle hesaplanabilen ayrıntıları kontrol et ve son metni olgularla geri eşleştir. Bu yöntemi “insanlaştırma garantisi” diye sunma; yeni adayda ve ayrı görevde ölç.
+
+Birden fazla dedektör veya humanizer istendiğinde [araçlar arası karşılaştırma kuralını](references/araclar-arasi-karsilastirma.md) uygula. Bir araçta %0 görülmesi, başka araçta da geçildiği anlamına gelmez. Reklamı, kilitli önizlemeyi ve alt bileşen skorunu tamamlanmış toplam ölçüm yerine kullanma.
+
+## Sürüm 5: Kaynak metne bağlı düzenleme ve gerçek kabul ölçütü
+
+- Kullanıcı bir taslak verdiyse önce onun cümlelerini koruyarak düzenle. Yalnız somut sorunu olan yeri değiştir; her metni baştan aynı kurumsal sese dönüştürme. Taslak veya ses örneği yoksa kullanıcının kişisel üslubunu öğrendiğini söyleme.
+- Yeni metin hazırlarken verilen olguları, yazara yönelik kısıtları ve eksik bilgileri ayır. “Kişi adı verilmedi” veya “bireysel görüşme tarihi belirtilmedi” notunu otomatik olarak yayımlanacak metne ekleme. Okurun kararı için gerekli olmayan eksik ayrıntıyı uydurmadan dışarıda bırak. Kullanıcının metninde açıkça yer alan belirsizliği ise izin almadan silme.
+- Dedektör için [WrittenCheck değerlendirme akışını](references/writtencheck-degerlendirme.md) uygula. Başarı ölçütü, anlamı koruyan **tam son metnin** gerçek toplam puanıdır. Alt bileşenlerin düşmesi veya bir önceki metnin geçmesi yeni metnin geçtiği anlamına gelmez.
+- Yeni üslup kuralını yalnız bir düşük puanlı örnekten türetme. Düzenleme grubunda düşüş yoksa aynı yaklaşımı kalıcı bir “çözüm” diye ekleme. Sonuçları ayrı metinle sınamadan genelleme; başarısız denemeyi açıkça kaydet.
+
 ## Sürüm 4: Belge düzeyinde teşhis ve ölçülü tekrar
 
 Dedektör puanı yüksekse önce [puan teşhisini](references/puan-teshisi.md) oku. Bu kullanıcının açıkça istediği dedektör deneylerinde hedef **10/100 ve altıdır**; bu hedef varsayılan yazılarda otomatik dış gönderim veya başarı garantisi değildir.

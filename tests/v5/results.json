@@ -1,0 +1,170 @@
+[
+  {
+    "candidate": "R1",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 126,
+    "local_words": 124,
+    "sha256": "d5db29bf0adcf6a65b1f41a9f08e631fc8f7974cdd7a4493307dd6ac36cd1576",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:09:17.491736+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R2",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 132,
+    "local_words": 130,
+    "sha256": "b27198df60903f5a6457e80b29bb86dca3b3b1f903da8e59188814b7bb1e4d9c",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:10:01.588707+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R3",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 129,
+    "local_words": 127,
+    "sha256": "4cc9507e8d2fb0e7c9999880af3ce3f4ba795606ab4883dde700c038d9c232be",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:10:58.257994+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R4",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 144,
+    "local_words": 142,
+    "sha256": "c5d423c87725e244b52f560f5191ca54a4a4f006e0aab8dd7603162d2a959560",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:11:31.282721+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R5",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 144,
+    "local_words": 142,
+    "sha256": "4a20d24892355dfc3458ed9568ea41fe35b3321a8eb0dce31525e87b7484d88a",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:12:09.323545+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R6",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 135,
+    "local_words": 133,
+    "sha256": "0fb1eedfd681634ec753c8e34e6aecc4fabe8a5d005b19f1bfb863f9e7bad5e9",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:12:44.732171+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R7",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 116,
+    "local_words": 114,
+    "sha256": "117538b806cfe67181275710dd852d86a512eea33db0921bbb83b3738207cde0",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:13:17.293108+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R8",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 142,
+    "local_words": 140,
+    "sha256": "37352174ec125fa547f729eeff484fba7416331565ac678da798a39e6459b34f",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:14:37.510656+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "H1-email",
+    "site": "WrittenCheck",
+    "score": 100,
+    "site_words": 99,
+    "local_words": 98,
+    "sha256": "7d6586d3b5bd46cf19268594b8fb9683872251cef389ccefaf3da23cedfc96cc",
+    "confidence": "Yüksek",
+    "range": [
+      92,
+      100
+    ],
+    "observed_at_utc": "2026-11-03T12:15:36.111975+00:00",
+    "source_url": "https://writtencheck.com/tr/",
+    "status": "complete",
+    "model_version": "not exposed"
+  },
+  {
+    "candidate": "R8",
+    "site": "Seobaz",
+    "score": 23,
+    "range": [
+      13,
+      33
+    ],
+    "confidence": "Orta",
+    "site_words": 142,
+    "sha256": "37352174ec125fa547f729eeff484fba7416331565ac678da798a39e6459b34f",
+    "status": "complete",
+    "observed_at_utc": "2026-11-03T12:16:23.741321+00:00",
+    "source_url": "https://seobaz.com/yapay-zeka-dedektoru"
+  }
+]

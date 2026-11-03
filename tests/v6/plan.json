@@ -1,0 +1,18 @@
+{
+  "budget": 6,
+  "primary": "WrittenCheck",
+  "target": 10,
+  "method": "anlamdan yeniden kurma",
+  "status": "new group authorized by user request to develop a method",
+  "notes": "Adayları ölçümden önce sabitle; iyi sonuç olursa ayrı görevde sına. Yeni gruptaki denemeleri v5 başarısızlıklarıyla birlikte raporla.",
+  "A1": "Güncel yöntemle bağımsız yazım; bütün koşullar verilmiş ham notlardan kurulur.",
+  "A2": "Saat/gün ilişkilerini açık hesapla; soru kanalı sunuma, özet katılamamaya bağlanır. Ön kayıt ve ses/görüntü kaydı ayrıştırılır.",
+  "derived_checks": {
+    "19:30+40min": "20:10",
+    "Thursday-1day": "Wednesday",
+    "Thursday+1day": "Friday"
+  },
+  "A3": "A2 anlam düzeltmesi: ayrı görüşme talep etme seçeneğini emir kipinden çıkar. Diğer metin aynıdır.",
+  "A1_note": "Ajan çıktısındaki tarih belirsizliği eksikliği ölçüm öncesinde geri eklendi; özgün çıktı ayrıca korundu.",
+  "A2_note": "Bireysel görüşme talep edin ifadesi seçenek yerine yönlendirme içeriyor; nihai aday kabul edilmez."
+}

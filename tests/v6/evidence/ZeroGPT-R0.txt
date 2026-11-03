@@ -1,0 +1,256 @@
+Browser tab: 18, Title: "AI Detector - Trusted AI Checker for ChatGPT, GPT-6 & Gemini", URL: "https://www.zerogpt.com/".
+0 AXWebArea AI Detector - Trusted AI Checker for ChatGPT, GPT-6 & Gemini, URL: zerogpt.com/
+	1 container app
+		2 container navbar
+			3 link Description: ZeroGPT - Free Open AI Detection Tool, Value: zerogpt.com/
+			4 link Description:  ZeroGPT, Value: zerogpt.com/
+			5 container
+				6 text Products
+				7 image
+			8 link Description: Pricing, Value: zerogpt.com/pricing
+			9 link Description: API, Value: zerogpt.com/pricing#api
+			10 link Description: FAQ, Value: zerogpt.com/faq
+			11 container
+				12 button ✨ Remove Background
+					13 link Description: ✨ Remove Background, Value: zerogpt.com/background-remover
+				14 text Popular
+			15 container
+				16 image Layer_1
+				17 text en
+				18 image
+			19 button Get Started
+			20 link Description: Register, Value: zerogpt.com/my-account?register=true
+			21 link Description: Login, Value: zerogpt.com/my-account?login=true
+		22 heading Trusted GPT-6, ChatGPT and AI Detector tool by ZeroGPT, Value: 1
+			23 text Trusted GPT-6, ChatGPT and AI Detector tool by ZeroGPT
+		24 heading ZeroGPT the most Advanced and Reliable Chat GPT, GPT6 & AI Content Detector, Value: 2
+			25 text ZeroGPT the most Advanced and Reliable Chat GPT, GPT6 & AI Content Detector
+		26 container drawer_content
+			27 link Description: AI/GPT Detector, Value: zerogpt.com/
+			28 link Description: AI Humanizer, Value: zerogpt.com/ai-humanizer
+			29 link Description: AI Image Detector, Value: zerogpt.com/ai-image-detector
+			30 link Description: Plagiarism Checker, Value: zerogpt.com/plagiarism-checker
+			31 link Description: AI Text Summarizer, Value: zerogpt.com/summarizer
+			32 link Description: AI Paraphraser, Value: zerogpt.com/paraphraser
+			33 link Description: AI Grammar Check, Value: zerogpt.com/grammar-checker
+			34 link Description: AI Translator, Value: zerogpt.com/translator
+			35 link Description: Word Counter, Value: zerogpt.com/word-counter
+		36 text entry area (settable) ID: textArea, Value: Evde Çalışma Düzeni: Çevrim İçi Veli Buluşması
+
+Değerli Velilerimiz,
+
+6, 7 ve 8. sınıf velilerimizi, evde çalışma düzeni üzerine konuşacağımız çevrim içi buluşmaya davet ediyoruz. Perşembe günü saat 19.30'da başlayacak görüşme toplam 40 dakika sürecek. İlk 15 dakikada sunum yapılacak, kalan 25 dakika ise sorulara ayrılacak.
+
+Buluşmaya katılım ücretsiz ve isteğe bağlıdır; katılıp katılmamanız öğrencinizin notunu etkilemez. Önceden kayıt yaptırmanız gerekmiyor. Katılım bağlantısı, buluşmadan bir gün önce sınıf iletişim gruplarında paylaşılacak. Bu bağlantıyı kullanarak telefonunuzdan veya bilgisayarınızdan görüşmeye katılabilirsiniz. Teknik kontrol yapmak isterseniz saat 19.20'de bağlanabilirsiniz; erken bağlanmak zorunlu değildir.
+
+Görüşme boyunca kameranızı açmak zorunda değilsiniz. Sunum sırasında mikrofonların kapalı tutulmasını rica ediyoruz. Sorularınızı sohbet alanına yazabilir, söz almak isterseniz el kaldırabilirsiniz.
+
+Görüşme kaydedilmeyecek. Öğrencilerin isimlerini ve özel bilgilerini ortak sohbet alanında paylaşmamanızı rica ediyoruz. Bireysel olarak ele alınmasını istediğiniz konular için rehberlik servisinden ayrı bir görüşme talep edebilirsiniz. Bu görüşmeler için henüz bir tarih belirtilmemiştir.
+
+Buluşmaya katılamayan velilerimiz için ertesi gün sınıf gruplarında kısa bir yazılı özet paylaşılacak.
+
+		37 container
+			38 button Detect Text
+			39 image upload
+			40 text Upload File
+		41 container
+			206 text 1.335/15.000 Characters
+			43 text Check 350,000 characters, 
+			44 link Description: Upgrade Here, Value: zerogpt.com/pricing
+		246 text Your Text is AI/GPT Generated
+		247 container
+			248 text 93.1%
+			249 text AI GPT*
+		250 container
+			251 text Evde Çalışma Düzeni: Çevrim İçi Veli Buluşması
+
+Değerli Velilerimiz,
+
+6 , 7 ve 8. sınıf velilerimizi, evde çalışma düzeni üzerine konuşacağımız çevrim içi buluşmaya davet ediyoruz. Perşembe günü saat 19.30'da başlayacak görüşme toplam 40 dakika sürecek. İlk 15 dakikada sunum yapılacak, kalan 25 dakika ise sorulara ayrılacak. Buluşmaya katılım ücretsiz ve isteğe bağlıdır; katılıp katılmamanız öğrencinizin notunu etkilemez. Önceden kayıt yaptırmanız gerekmiyor. Katılım bağlantısı, buluşmadan bir gün önce sınıf iletişim gruplarında paylaşılacak. Bu bağlantıyı kullanarak telefonunuzdan veya bilgisayarınızdan görüşmeye katılabilirsiniz. Teknik kontrol yapmak isterseniz saat 19.20'de bağlanabilirsiniz; erken bağlanmak zorunlu değildir. Görüşme boyunca kameranızı açmak zorunda değilsiniz. Sunum sırasında mikrofonların kapalı tutulmasını rica ediyoruz. Sorularınızı sohbet alanına yazabilir, söz almak isterseniz el kaldırabilirsiniz. 
+
+Görüşme kaydedilmeyecek.  Öğrencilerin isimlerini ve özel bilgilerini ortak sohbet alanında paylaşmamanızı rica ediyoruz. Bireysel olarak ele alınmasını istediğiniz konular için rehberlik servisinden ayrı bir görüşme talep edebilirsiniz. Bu görüşmeler için henüz bir tarih belirtilmemiştir. Buluşmaya katılamayan velilerimiz için ertesi gün sınıf gruplarında kısa bir yazılı özet paylaşılacak.
+		252 container
+			253 button Humanize Text
+			254 text Make Your Text Human With Undetectable AI
+		255 container
+			256 text   Highlighted text is suspected to be most likely generated by AI*
+			257 text 1.335 Characters
+			258 text 159 Words
+		259 container
+			260 image Capa_1
+			261 text Export to PDF
+		262 container
+			263 image
+			264 text Instructions for Educators and Evaluators
+		207 container
+			208 heading Hi, Keep working with the Trusted Tools everyone loves, Value: 2
+				209 text Hi ,  Keep working with the Trusted Tools everyone loves
+			210 button Pomodoro Timer Focus sessions
+				211 image
+				212 text Pomodoro Timer
+				213 text Focus sessions
+			214 button AI Image Detector AI Image Detector Spot generated images
+				215 image AI Image Detector
+				216 text AI Image Detector
+				217 text Spot generated images
+			218 button AI Video Detector Frame-level analysis
+				219 image
+				220 text AI Video Detector
+				221 text Frame-level analysis
+			222 button Grammar Checker Grammar Checker Spelling and style
+				223 image Grammar Checker
+				224 text Grammar Checker
+				225 text Spelling and style
+			226 button Plagiarism Checker Plagiarism Checker Billions of sources
+				227 image Plagiarism Checker
+				228 text Plagiarism Checker
+				229 text Billions of sources
+			230 button AI Humanizer AI Humanizer Rewrite to pass review
+				231 image AI Humanizer
+				232 text AI Humanizer
+				233 text Rewrite to pass review
+			234 button Explore all tools
+				235 text Explore all tools
+				236 image
+		75 heading Simple and Credible Open AI, Grok, DeepSeek, and Gemini Detector Tool for Free, Value: 2
+			76 text Simple and Credible Open AI, Grok, DeepSeek, and Gemini Detector Tool for Free
+		77 text Millions of Users Trust ZeroGPT, See what sets ZeroGPT apart
+		78 image Highlight sentences detected as AI/GPT
+		79 heading Highlighted Sentences, Value: 3
+			80 text Highlighted Sentences
+		81 text Every sentence written by AI is highlighted, with a gauge showing the percentage of AI inside the text
+		82 image top notch AI tools
+		83 heading Multiple Features, Value: 3
+			84 text Multiple Features
+		85 text Enjoy our Top-notch Humanizer Plagiarism Checker, Paraphraser, Summarizer, Grammar checker, Translator, Writing Assistant…
+		86 image High accuracy ai text detection model
+		87 heading High Accuracy Model, Value: 3
+			88 text High Accuracy Model
+		89 text Advanced and premium model, trained on all languages and multiple LLM models to provide highly accurate results
+		90 image automatically generated pdf report
+		91 heading Generated Report, Value: 3
+			92 text Generated Report
+		93 text Automatically generated .pdf reports for every detection, used as a proof of AI-Free plagiarism
+		94 image High Accuracy AI Detection in all languages
+		95 heading Support All Languages, Value: 3
+			96 text Support All Languages
+		97 text Support all the languages with the highest accuracy rate of detection
+		98 image Batch files processing in the background
+		99 heading Batch Files Upload, Value: 3
+			100 text Batch Files Upload
+		101 text Simply upload multiple files at once, and they will get checked automatically in the dashboard
+		102 button Get Premium Features
+			103 image
+			104 text Get Premium Features
+			105 image
+		106 text Unlock growth potential with our API
+		107 text Our API is available for the AI Detector, Plagiarism Checker, Paraphraser, Summarizer, Grammar and Spell Checker, Chatbot & Translator
+		108 text Our team has developed a user-friendly API for organizations.
+		109 link Description: Get API access, Value: zerogpt.com/pricing#api
+		110 image Deep Analyze 
+		111 heading DeepAnalyse™ Technology, Value: 3
+			112 text DeepAnalyse™ Technology
+		113 container
+			114 text A pioneering research in the modeling of AI content detection
+			115 text Our AI detection model includes several components that analyze text to determine its origin and if it was written by AI. We use a multi-stage methodology designed to optimize accuracy while minimizing false positives and negatives. From the macro level to the micro one, this is how DeepAnalyse™ Technology works. Our model specializes in identifying AI generated content like Chat GPT, GPT 3, GPT 4, GPT 5, GPT 6, Gemini, Grok, Perplexity AI, Claude, DeepSeek, LLaMa models … Finally, we employ a comprehensive deep learning methodology, trained on extensive text collections from the internet, educational datasets, and our proprietary synthetic AI datasets produced using various language models.
+		116 link Description: Explore DeepAnalyse™ Technology, Value: zerogpt.com/deep-analyse
+		117 text 98.4% Detection accuracy <1% False positive rate 35+ LLM families covered
+		118 heading Use ZeroGPT in Whatsapp and Telegram, Value: 2
+			119 text Use ZeroGPT in Whatsapp and Telegram
+		120 text ZeroGPT is now available on WhatsApp and Telegram. Chat With ZeroGPT: Advanced ChatBot, Detect AI, Summarize, Paraphrase, Translate and Check for Grammar Errors… all these features available inside WhatsApp and Telegram.
+		121 container
+			122 image
+			123 heading WhatsApp, Value: 3
+				124 text WhatsApp
+			125 text Register your WhatsApp's number in the Dashboard (section "Social Settings") and start using all the features of ZeroGPT inside WhatsApp using the phone number 
+			126 link Description: +1 (206) 372-5474, Value: web.whatsapp.com/send?phone=12063725474
+		127 container
+			128 heading Telegram, Value: 3
+				129 text Telegram
+			130 text Register the telegram code inside your Dashboard (section "Social Settings") and start using all the features of ZeroGPT inside Telegram using the telegram bot 
+			131 link Description: zerogpt_official_bot, Value: t.me/zerogpt_official_bot
+		132 button Get Your MAX / EXPERT Subscription
+			133 text Get Your MAX / EXPERT Subscription
+		134 image
+		135 text POWERFUL TOOLS
+		136 text Explore More Tools to Enhance Your Writing Skills
+		137 container
+			138 text Fix grammar and spelling mistakes, detect AI plagiarism, check for plagiarism, generate citations,
+			139 text advanced word counter, powerful summarizer and paraphraser
+		140 link Description: AI Humanizer AI Humanizer Humanize AI text to make it sound natural and human-like., Value: zerogpt.com/ai-humanizer
+		141 link Description: AI Image Detector AI Image Detector Detect AI-generated images and edited visuals instantly., Value: zerogpt.com/ai-image-detector
+		142 link Description: AI Video Detector Analyze videos to detect AI-generated or manipulated content., Value: zerogpt.com/ai-video-detector
+		143 link Description: Plagiarism Checker Plagiarism Checker Check content originality and detect plagiarism in seconds., Value: zerogpt.com/plagiarism-checker
+		144 link Description: AI Grammar Checker AI Grammar Checker Fix grammar, spelling, punctuation and writing errors., Value: zerogpt.com/grammar-checker
+		145 link Description: AI Paraphraser AI Paraphraser Rephrase text with different tones and writing styles., Value: zerogpt.com/paraphraser
+		146 link Description: AI Summarizer Tool Summarize long text into clear, concise and meaningful abstracts., Value: zerogpt.com/summarizer
+		147 link Description: AI Translator AI Translator Translate text into multiple languages accurately., Value: zerogpt.com/translator
+		148 link Description: Word Counter Tool Word Counter Tool Count words, characters, sentences and paragraphs easily., Value: zerogpt.com/word-counter
+		149 link Description: Dictionary Dictionary Look up word meanings, synonyms, antonyms and examples., Value: zerogpt.com/dictionary
+		150 link Description: Citation Generator Generate accurate citations in APA, MLA, Chicago and more., Value: zerogpt.com/citation-generator
+		151 link Description: Pomodoro Timer Boost your productivity with smart Pomodoro timer sessions., Value: zerogpt.com/pomodoro
+		152 text FAQ
+		153 heading Your questions, answered, Value: 2
+			154 text Your questions, answered
+		155 container
+			156 text How Does ZeroGPT AI Detector work?
+		157 container
+			158 text What is the accuracy rate of ZeroGPT?
+		159 container
+			160 text Who Benefits from ZeroGPT's AI content detector?
+		161 container
+			162 text Will my text get plagiarized or be available online, if I check it on ZeroGPT?
+		163 container
+			164 text How can I integrate ZeroGPT tool in my organization or website on a large scale?
+		165 container
+			166 text Does ZeroGPT work with different languages?
+		167 container
+			168 text How can I cite the AI detector?
+		169 heading Check Our Blog created with the help of AI, Value: 2
+			170 text Check Our Blog created with the help of AI
+		171 link Description: 5 Mind Blowing Technologies we'll see in 2024, Value: zerogpt.com/en/5-mind-blowing-technologies-in-2024
+		172 link Description: 10 Ridiculous Technologies That Will Actually Make Your Life Better, Value: zerogpt.com/en/10-ridiculous-technologies-that-will-actually-make-your-life-better
+		173 image ZeroGPT - Free Open AI Detection Tool
+		174 text ZeroGPT
+		175 link linkedin.com/company/92754689
+		176 link twitter.com/ZeroGpt
+		177 link facebook.com/p/Zerogpt-100089980955511/
+		178 text 2026 Copyright © ZeroGPT.com
+		179 text More about
+		180 link Description: Pricing, Value: zerogpt.com/pricing
+		181 link Description: API, Value: zerogpt.com/pricing#api
+		182 link Description: FAQ, Value: zerogpt.com/faq
+		183 link Description: Our policy, Value: zerogpt.com/privacy-policy
+		184 link Description: Terms of use, Value: zerogpt.com/terms-of-use
+		185 link Description: DeepAnalyse™, Value: zerogpt.com/deep-analyse
+		186 text Features
+		187 link Description: AI Detector, Value: zerogpt.com/
+		188 link Description: AI Humanizer, Value: zerogpt.com/ai-humanizer
+		189 link Description: Background Remover, Value: zerogpt.com/background-remover
+		190 link Description: AI Image Detector, Value: zerogpt.com/ai-image-detector
+		191 link Description: AI Video Detector, Value: zerogpt.com/ai-video-detector
+		192 link Description: AI ZeroChat-4 & 5, Value: zerogpt.com/chat
+		193 link Description: AI Plagiarism Checker, Value: zerogpt.com/plagiarism-checker
+		194 link Description: AI Summarizer, Value: zerogpt.com/summarizer
+		195 link Description: AI Paraphraser, Value: zerogpt.com/paraphraser
+		196 link Description: AI Grammar Checker, Value: zerogpt.com/grammar-checker
+		197 link Description: AI Translator, Value: zerogpt.com/translator
+		198 link Description: Word Counter, Value: zerogpt.com/word-counter
+		199 link Description: Pomodoro Timer, Value: zerogpt.com/pomodoro
+		200 link Description: Dictionary, Value: zerogpt.com/dictionary
+		201 link Description: AI Email Helper, Value: zerogpt.com/email-helper
+		202 text You can email us at
+		203 link Description: support@zerogpt.com, Value: mailto:support@zerogpt.com
+		204 text Our support team is spread across the globe to give you answers fast
+		205 text ZeroGPT - AI detection, plagiarism checking, and writing tools. Trusted by millions of users worldwide.
+	237 container primisPlayerContainerDiv
+		238 container Description: Primis Frame, ID: google_ads_iframe_dummy_sekindoParent448
+			239 AXWebArea zerogpt.com/
+		240 container Video-Div-SekindoSPlayer6ae9d25d4c2c2
+			241 container Video-iFrame-SekindoSPlayer6ae9d25d4c2c2
+				242 container Unable to play media.
+	243 container fs-slot-footer-wrapper
+		244 button Close Ad
+		245 image Freestar
+
+The focused UI element is 0 AXWebArea AI Detector - Trusted AI Checker for ChatGPT, GPT-6 & Gemini, URL: zerogpt.com/

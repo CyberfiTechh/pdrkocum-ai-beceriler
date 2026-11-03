@@ -1,0 +1,73 @@
+Browser tab: 19, Title: "AI Detection Dashboard", URL: "https://www.pangram.com/dashboard?pendingCheck=true&pendingType=text".
+0 AXWebArea AI Detection Dashboard, URL: pangram.com/dashboard?pendingCheck=true&pendingType=text
+	1 container
+		604 link Description: Skip to main content, Value: pangram.com/dashboard?pendingCheck=true&pendingType=text#main-content
+		605 container Main
+			606 button (expanded) Description: Collapse sidebar, Secondary Actions: Collapse
+			607 container
+				608 link Description: Pangram home, Value: pangram.com/
+				609 link Description: Text Detection, Value: pangram.com/dashboard
+				610 link Description: Image Detection, Value: pangram.com/image-detection
+				611 heading HISTORY, Value: 2
+					612 text HISTORY
+				613 link Description: All Checks (sign up required), Value: pangram.com/history, ID: joyride-step-4
+				614 heading MORE FEATURES, Value: 2
+					615 text MORE FEATURES
+				616 link Description: Gmail Integration (sign up required), Value: pangram.com/gmail
+				617 link Description: API (sign up required), Value: pangram.com/apikey
+				618 button Forms (sign up required)
+				619 button Plans and pricing
+					620 image
+					621 text Plans and pricing
+				622 pop up button (collapsed) More, Secondary Actions: Expand
+					623 image
+					624 text More
+				625 link Description: Pangram for Organizations LMS, API & custom solutions, Value: pangram.com/enterprise?source=dashboard_sidebar
+				626 text Need more credits? Get extra credit, unlock Gmail integration, similarity detection, and more
+				627 button Upgrade
+					628 image
+					629 text Upgrade
+		655 link Description: Get Chrome Extension, Value: chromewebstore.google.com/detail/pangram-ai-detection/eakpippijmmohmdlpgcjnipolcgciaga
+		630 text Credits
+		631 text 20 left
+		632 button Log in
+		633 button Sign up for free
+		634 container main-content
+			635 button Choose Files
+			636 heading Detect AI in text with Pangram, Value: 1
+				637 image Detect AI in text with Pangram
+			656 container
+				657 image
+				658 text Please check the “Verify you are human” box at the bottom of the page to continue scanning.
+			638 container joyride-step-1
+				639 tab group
+					640 tab (selected, settable, boolean) Text, Value: 1
+					641 tab (selectable, settable, boolean) Upload, Value: 0, ID: joyride-step-2
+					642 tab (selectable, settable, boolean) URL, Value: 0
+				643 text 1 Credit/100 Words
+				644 container
+					645 text entry area (settable) Description: Text to check for AI, Value: Evde Çalışma Düzeni: Çevrim İçi Veli Buluşması
+
+Değerli Velilerimiz,
+
+6, 7 ve 8. sınıf velilerimizi, evde çalışma düzeni üzerine konuşacağımız çevrim içi buluşmaya davet ediyoruz. Perşembe günü saat 19.30'da başlayacak görüşme toplam 40 dakika sürecek. İlk 15 dakikada sunum yapılacak, kalan 25 dakika ise sorulara ayrılacak.
+
+Buluşmaya katılım ücretsiz ve isteğe bağlıdır; katılıp katılmamanız öğrencinizin notunu etkilemez. Önceden kayıt yaptırmanız gerekmiyor. Katılım bağlantısı, buluşmadan bir gün önce sınıf iletişim gruplarında paylaşılacak. Bu bağlantıyı kullanarak telefonunuzdan veya bilgisayarınızdan görüşmeye katılabilirsiniz. Teknik kontrol yapmak isterseniz saat 19.20'de bağlanabilirsiniz; erken bağlanmak zorunlu değildir.
+
+Görüşme boyunca kameranızı açmak zorunda değilsiniz. Sunum sırasında mikrofonların kapalı tutulmasını rica ediyoruz. Sorularınızı sohbet alanına yazabilir, söz almak isterseniz el kaldırabilirsiniz.
+
+Görüşme kaydedilmeyecek. Öğrencilerin isimlerini ve özel bilgilerini ortak sohbet alanında paylaşmamanızı rica ediyoruz. Bireysel olarak ele alınmasını istediğiniz konular için rehberlik servisinden ayrı bir görüşme talep edebilirsiniz. Bu görüşmeler için henüz bir tarih belirtilmemiştir.
+
+Buluşmaya katılamayan velilerimiz için ertesi gün sınıf gruplarında kısa bir yazılı özet paylaşılacak.
+
+					646 container
+						647 text 161  word s
+						648 button Clear text
+							649 image
+					650 button Try a sample text >
+					653 button (disabled) Checking...
+		602 container Notifications (F8)
+			603 content list
+		654 text AI Detection Dashboard
+
+The focused UI element is 0 AXWebArea AI Detection Dashboard, URL: pangram.com/dashboard?pendingCheck=true&pendingType=text

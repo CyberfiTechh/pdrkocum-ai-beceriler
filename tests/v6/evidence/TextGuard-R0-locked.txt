@@ -1,0 +1,281 @@
+Browser tab: 16, Title: "TextGuardAI", URL: "https://textguardai.com/humanizer".
+0 AXWebArea TextGuardAI, URL: textguardai.com/humanizer
+	1 container
+		2 link Description: TextGuardAI TextGuardAI, Value: textguardai.com/
+		3 container
+			4 link Description: Tespit Aracı, Value: textguardai.com/
+			5 link Description: Hümanizatör, Value: textguardai.com/humanizer
+			6 pop up button (collapsed) Diğer araçlar, Secondary Actions: Expand
+			7 link Description: Fiyatlandırma, Value: textguardai.com/pricing
+			8 link Description: SSS, Value: textguardai.com/faq
+		9 button   TR
+			10 text TR
+		163 button Temayı değiştir
+		11 link Description: Giriş Yap, Value: textguardai.com/login
+		12 container
+			13 heading Yapay Zekâ İçeriklerini Tam Güvenle Hümanize Edin, Value: 1
+				164 text Yapay Zekâ İçeriklerini Tam Güvenle 
+				15 text Hümanize Edin
+			16 text Yapay zekâ metnini anlamını koruyarak doğallaştırın.
+			17 container
+				18 container
+					19 button Tespit Aracı
+					20 button Hümanizatör
+					21 button Parafraz Aracı
+					22 pop up button (collapsed) Diğer araçlar, Secondary Actions: Expand
+				23 button Standart
+				24 button Günlük
+				25 button Akademik
+				26 container
+					27 text entry area (settable) Evde Çalışma Düzeni: Çevrim İçi Veli Buluşması
+
+Değerli Velilerimiz,
+
+6, 7 ve 8. sınıf velilerimizi, evde çalışma düzeni üzerine konuşacağımız çevrim içi buluşmaya davet ediyoruz. Perşembe günü saat 19.30'da başlayacak görüşme toplam 40 dakika sürecek. İlk 15 dakikada sunum yapılacak, kalan 25 dakika ise sorulara ayrılacak.
+
+Buluşmaya katılım ücretsiz ve isteğe bağlıdır; katılıp katılmamanız öğrencinizin notunu etkilemez. Önceden kayıt yaptırmanız gerekmiyor. Katılım bağlantısı, buluşmadan bir gün önce sınıf iletişim gruplarında paylaşılacak. Bu bağlantıyı kullanarak telefonunuzdan veya bilgisayarınızdan görüşmeye katılabilirsiniz. Teknik kontrol yapmak isterseniz saat 19.20'de bağlanabilirsiniz; erken bağlanmak zorunlu değildir.
+
+Görüşme boyunca kameranızı açmak zorunda değilsiniz. Sunum sırasında mikrofonların kapalı tutulmasını rica ediyoruz. Sorularınızı sohbet alanına yazabilir, söz almak isterseniz el kaldırabilirsiniz.
+
+Görüşme kaydedilmeyecek. Öğrencilerin isimlerini ve özel bilgilerini ortak sohbet alanında paylaşmamanızı rica ediyoruz. Bireysel olarak ele alınmasını istediğiniz konular için rehberlik servisinden ayrı bir görüşme talep edebilirsiniz. Bu görüşmeler için henüz bir tarih belirtilmemiştir.
+
+Buluşmaya katılamayan velilerimiz için ertesi gün sınıf gruplarında kısa bir yazılı özet paylaşılacak.
+
+				28 text 161  / 5,000 kelime Ctrl+Enter
+				29 button Dosya yükle
+				30 button Örnek dene
+				31 container
+					32 button Kaldır
+					33 button Metni Hümanize Et
+						34 text Metni Hümanize Et
+				35 container
+					36 button Dosya yükle PDF, DOCX, TXT — max 20MB
+						37 text Dosya yükle
+						38 container
+							39 text PDF, DOCX, TXT — max  20 MB
+					40 text Hümanize edilmiş metin, yan yana karşılaştırmayla burada görünecek.
+					41 text ⌘
+					42 text +
+					43 text Enter
+		44 container
+			45 text Nasıl Çalışır
+			46 heading Yapay zekâ içeriğini tespit etmek ve hümanize etmek için üç basit adım, Value: 2
+				47 text Yapay zekâ içeriğini tespit etmek ve hümanize etmek için üç basit adım
+			48 container
+				49 container
+					50 text 01
+				51 heading Metninizi Yapıştırın, Value: 3
+					52 text Metninizi Yapıştırın
+				53 text Analiz etmek istediğiniz metni kopyalayıp yapıştırın veya doğrudan bir .txt dosyası yükleyin.
+			54 container
+				55 container
+					56 text 02
+				57 heading Yapay Zekâ Analizi, Value: 3
+					58 text Yapay Zekâ Analizi
+				59 text Çok motorlu sistemimiz, gelişmiş tespit algoritmaları kullanarak her cümleyi analiz eder.
+			60 container
+				61 container
+					62 text 03
+				63 heading Sonuçları Alın, Value: 3
+					64 text Sonuçları Alın
+				65 text Cümle cümle döküm ve içeriği hümanize etme seçeneği ile detaylı bir skor alın.
+		66 container
+			67 text Özellikler
+			68 heading Yapay Zekâyı Tespit Etmek İçin İhtiyacınız Olan Her Şey, Value: 2
+				69 text Yapay Zekâyı Tespit Etmek İçin İhtiyacınız Olan Her Şey
+			70 text Piyasadaki en gelişmiş özelliklere sahip eksiksiz bir araç.
+			71 container
+				72 container
+					73 heading Tüm Diller, Value: 3
+						74 text Tüm Diller
+					75 text İspanyolca, İngilizce, Fransızca, Arapça, Çince ve 10'dan fazla dilde yapay zekâ içeriğini aynı doğrulukla tespit edin.
+			76 container
+				77 container
+					78 heading Detaylı PDF Raporu, Value: 3
+						79 text Detaylı PDF Raporu
+					80 text Paragraf analizi, yapay zekâ yüzdesi ve önerilerle profesyonel bir PDF raporu oluşturun.
+			81 container
+				82 container
+					83 heading Anında Sonuçlar, Value: 3
+						84 text Anında Sonuçlar
+					85 text Saniyeler içinde analiz. Bekleme yok, sıra yok. Hızlı ve doğru sonuçlar.
+			86 container
+				87 container
+					88 heading Yapay Zekâ Görsel Tespiti, Value: 3
+						89 text Yapay Zekâ Görsel Tespiti
+					90 text Midjourney, DALL-E, Stable Diffusion ve diğer görsel modelleri tarafından üretilen görselleri tanımlayın.
+			91 container
+				92 container
+					93 heading Gizliliğiniz Önceliğimiz, Value: 3
+						94 text Gizliliğiniz Önceliğimiz
+					95 text Metniniz sunucularımızda asla saklanmaz. Analiz eder ve sileriz. %100 gizli.
+			96 container
+				97 container
+					98 heading Paragraf Analizi, Value: 3
+						99 text Paragraf Analizi
+					100 text Metnin hangi bölümlerinin yapay zekâ, hangi bölümlerinin insan tarafından yazıldığını tam olarak belirleyin.
+			101 container
+				102 container
+					103 heading Tüm Modelleri Tespit Eder, Value: 3
+						104 text Tüm Modelleri Tespit Eder
+					105 text ChatGPT, GPT-4, Claude, Gemini, LLaMA ve mevcut ya da gelecekteki tüm dil modelleri.
+			106 container
+				107 container
+					108 heading Her Cihazda Çalışır, Value: 3
+						109 text Her Cihazda Çalışır
+					110 text Mobil, tablet ve masaüstü için optimize edilmiş duyarlı tasarım. Her yerde kullanın.
+		111 container
+			112 container
+				113 text 0 DOĞRULUK
+			114 container
+				115 text < 0 sn YANIT SÜRESİ
+			116 container
+				117 text 0 + DİL
+			118 container
+				119 text 0 SAKLANAN VERİ
+		120 container
+			121 text Fiyatlandırma
+			122 heading Her İhtiyaca Uygun Planlar, Value: 2
+				123 text Her İhtiyaca Uygun Planlar
+			124 text İş akışınıza en uygun planı seçin. İstediğiniz zaman yükseltin veya iptal edin.
+			165 container
+				166 text Deneme 24 saatlik tam deneme 41,00 ₺ / 24sa
+				167 button Plan seç
+				168 content list
+					169 text Sınırsız kelime
+					170 text Yüksek çözünürlükte görsel tespiti
+					171 text 30 saniyeye kadar
+					172 text 1 dakikaya kadar
+					173 text Görsel deepfake tespiti
+					174 text Metin hümanizasyonu
+					175 text Deneme sürümüne dahil
+					176 text Deneme sürümüne dahil
+					177 text Çok motorlu yapay zekâ tespiti
+					178 text Paragraf düzeyinde analiz
+					179 text 10+ dil desteği
+					180 text Kişisel panel
+					181 text Tam proje geçmişi
+					182 text Talep üzerine veri silme
+					183 text PDF rapor indirme
+					184 text Sınırsız analiz
+					185 text Öncelikli destek
+			186 container
+				187 text Basic Düzenli kullanım için 449,00 ₺ / ay
+				188 button Plan seç
+				189 content list
+					190 text 100.000 kelime / ay
+					191 text 50 görsel / ay
+					192 text 5 dk video / ay
+					193 text 10 dk ses / ay
+					194 text Görsel deepfake tespiti
+					195 text Metin hümanizasyonu
+					196 text 150.000 kelime / ay
+					197 text 150.000 kelime / ay
+					198 text Çok motorlu yapay zekâ tespiti
+					199 text Paragraf düzeyinde analiz
+					200 text 10+ dil desteği
+					201 text Kişisel panel
+					202 text Tam proje geçmişi
+					203 text Talep üzerine veri silme
+					204 text PDF rapor indirme
+					205 text Sınırsız analiz
+					206 text Öncelikli destek
+			207 text POPÜLER
+			208 container
+				209 text Gold Profesyonel kullanım için 599,00 ₺ / ay
+				210 button Plan seç
+				211 content list
+					212 text 1.000.000 kelime / ay
+					213 text 200 görsel / ay
+					214 text 30 dk video / ay
+					215 text 60 dk ses / ay
+					216 text Görsel deepfake tespiti
+					217 text Metin hümanizasyonu
+					218 text 400.000 kelime / ay
+					219 text 400.000 kelime / ay
+					220 text Çok motorlu yapay zekâ tespiti
+					221 text Paragraf düzeyinde analiz
+					222 text 10+ dil desteği
+					223 text Kişisel panel
+					224 text Tam proje geçmişi
+					225 text Talep üzerine veri silme
+					226 text PDF rapor indirme
+					227 text Sınırsız analiz
+					228 text Öncelikli destek
+			229 text Güvenli ödeme Veri korumalı SSL/TLS İstediğiniz zaman iptal Kolay abonelik iptali 41,00 ₺ bugün 24 saatlik deneme dönemi için tahsil edilir. Deneme sonrasında, daha önce iptal etmezseniz otomatik olarak Gold plan olarak yenilenir. Aboneliğinizi destek ekibimizle iletişime geçerek iptal edebilirsiniz:
+			230 link Description: support@textguardai.com, Value: mailto:support@textguardai.com
+			231 text .  Ödemeler burada belirttiğiniz karta yapılacaktır. Devam ederek, aşağıdakileri okuduğunuzu ve kabul ettiğinizi belirtmiş olursunuz:
+			232 link Description: Şartlar ve Koşullar, Value: textguardai.com/terms
+			233 text ,
+			234 link Description: Gizlilik Politikası, Value: textguardai.com/privacy
+			235 text ve Abonelik Şartları .
+		125 container
+			126 heading Kullanıcılarımız Ne Diyor, Value: 2
+				127 text Kullanıcılarımız Ne Diyor
+			128 text “ TextGuardAI, editöryel ekibimiz için vazgeçilmez bir araç haline geldi. Tespit doğruluğu etkileyici. ” EJ Emily Johnson Genel Yayın Yönetmeni, MediaDigital “ Hümanizatör inanılmaz derecede etkili. İçeriğimin özgün ve doğal duyulmasını sağlamak için platformu her gün kullanıyorum. ” JW James Wilson İçerik Yöneticisi, TechStartup “ İçerik özgünlüğünü doğrulamak için bulduğum en iyi araç. Cümle cümle analiz oyunun kurallarını değiştiriyor. ” SM Sarah Mitchell Üniversite Profesörü
+		129 container
+			130 heading Yapay Zekâ İçeriğini Tespit Etmeye Hazır mısınız ?, Value: 2
+				131 text Yapay Zekâ İçeriğini Tespit Etmeye Hazır mısınız ?
+			132 text İçeriklerini doğrulamak ve hümanize etmek için TextGuardAI'ye güvenen binlerce profesyonele katılın.
+			133 button Hemen Başla
+				134 text Hemen Başla
+			135 text %99+ Doğruluk 10+ Dil <3sn Sonuç
+		136 link Description: TextGuardAI TextGuardAI, Value: textguardai.com/
+		137 text Yapay zekâ içerik tespiti ve metin hümanizasyonu için lider platform. İçeriğinizin özgünlüğünü koruyun.
+		138 heading Ürün, Value: 3
+			139 text Ürün
+		140 content list
+			236 link Description: Tespit Aracı, Value: textguardai.com/
+			237 link Description: Hümanizatör, Value: textguardai.com/humanizer
+			238 link Description: Fiyatlandırma, Value: textguardai.com/pricing
+		144 heading Kaynaklar, Value: 3
+			145 text Kaynaklar
+		146 content list
+			239 link Description: SSS, Value: textguardai.com/faq
+		148 heading Şirket, Value: 3
+			149 text Şirket
+		150 content list
+			240 link Description: İletişim, Value: textguardai.com/contact
+		152 heading Yasal, Value: 3
+			153 text Yasal
+		154 content list
+			241 link Description: Gizlilik Politikası, Value: textguardai.com/privacy
+			242 link Description: Hizmet Şartları, Value: textguardai.com/terms
+			243 link Description: Çerez Politikası, Value: textguardai.com/cookies
+			244 link Description: Aboneliği iptal et, Value: textguardai.com/unsubscribe
+		159 container
+			160 text ©  2026  TextGuardAI.  Tüm hakları saklıdır.
+		161 button Çerez tercihleri
+		162 container Notifications alt+T
+		245 heading Gizliliğiniz önemli, Value: 2
+			246 text Gizliliğiniz önemli
+		247 container
+			248 text Oturumunuzu açık tutmak, tercihlerinizi hatırlamak ve — izninizle — kullanımı ölçüp reklamlarımızı iyileştirmek için çerezler ve benzeri teknolojiler kullanıyoruz. Karar sizin.
+			249 link Description: Çerez Politikamızı okuyun, Value: textguardai.com/cookies
+		250 button Tümünü kabul et
+		251 button Tümünü reddet
+		252 button Özelleştir
+		253 container
+			254 button Kapat
+			255 text HÜMANİZASYON TAMAMLANDI
+			256 heading Metniniz artık %100 insana özgü duyuluyor, Value: 2
+				257 text Metniniz artık %100 insana özgü duyuluyor
+			258 text Tamam! Metniniz her yapay zekâ tespit aracını geçer. Tam hümanize sürümün kilidini açmak ve anında kopyalamak için ücretsiz kaydolun.
+			259 button Hesap oluştur
+			260 button Giriş yap
+			261 button Google ile devam et
+				262 image
+				263 text Google ile devam et
+			264 text VEYA E-POSTA İLE
+			265 text field (settable)
+			266 container
+				267 text field (settable)
+				268 button Parolayı göster
+			269 button Hesap oluştur
+			270 text Hesap oluşturarak, 
+			271 link Description: Kullanım Şartları ve Sözleşmesi, Value: textguardai.com/terms
+			272 text  ve 
+			273 link Description: Gizlilik Politikası, Value: textguardai.com/privacy
+			274 text  belgelerimizi okuyup kabul ettiğinizi onaylamış olursunuz.
+
+The focused UI element is 0 AXWebArea TextGuardAI, URL: textguardai.com/humanizer

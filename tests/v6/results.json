@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-03",
+  "target": 10,
+  "language": "tr",
+  "synthetic": true,
+  "runs": [
+    {
+      "candidate": "A1",
+      "service": "WrittenCheck",
+      "score": 100,
+      "service_word_count": 136,
+      "status": "completed",
+      "text_sha256": "973f866de35565313f150cdd006389934235cf0dbf86a3de5a675aca7e797da3",
+      "evidence": "evidence/WrittenCheck-A1.txt",
+      "evidence_saved_utc": "2026-11-03T12:21:47.440103+00:00"
+    },
+    {
+      "candidate": "A2",
+      "service": "WrittenCheck",
+      "score": 100,
+      "service_word_count": 131,
+      "status": "completed",
+      "text_sha256": "ae6c4d3c198f1602769a68387f8dadd7aff8b3d9c1fb017c8b980a3de83246bf",
+      "evidence": "evidence/WrittenCheck-A2.txt",
+      "evidence_saved_utc": "2026-11-03T12:22:58.557634+00:00"
+    },
+    {
+      "candidate": "A3",
+      "service": "WrittenCheck",
+      "score": 100,
+      "service_word_count": 131,
+      "status": "completed",
+      "text_sha256": "60cb3137acce2c3647e5849c235ef51d33b383c3b3b76e656fd235cd3435c7d8",
+      "evidence": "evidence/WrittenCheck-A3.txt",
+      "evidence_saved_utc": "2026-11-03T12:29:14.781971+00:00"
+    },
+    {
+      "candidate": "R0",
+      "service": "ZeroGPT",
+      "score": 93.1,
+      "service_word_count": 159,
+      "status": "completed",
+      "text_sha256": "33a19d1ff37c38f5f80f8a7de8f801e9009c0271a7ce016d698809d745145ac7",
+      "evidence": "evidence/ZeroGPT-R0.txt",
+      "evidence_saved_utc": "2026-11-03T12:27:46.079944+00:00"
+    },
+    {
+      "candidate": "A3",
+      "service": "ZeroGPT",
+      "score": 0,
+      "service_word_count": 127,
+      "status": "completed",
+      "text_sha256": "60cb3137acce2c3647e5849c235ef51d33b383c3b3b76e656fd235cd3435c7d8",
+      "evidence": "evidence/ZeroGPT-A3.txt",
+      "evidence_saved_utc": "2026-11-03T12:28:40.465189+00:00"
+    },
+    {
+      "candidate": "R0",
+      "service": "Copyleaks",
+      "score": null,
+      "service_word_count": null,
+      "status": "human_verification_required",
+      "text_sha256": "33a19d1ff37c38f5f80f8a7de8f801e9009c0271a7ce016d698809d745145ac7",
+      "evidence": "evidence/Copyleaks-R0-blocked.txt",
+      "evidence_saved_utc": "2026-11-03T12:28:53.713497+00:00"
+    },
+    {
+      "candidate": "R0",
+      "service": "Pangram",
+      "score": null,
+      "service_word_count": null,
+      "status": "human_verification_required",
+      "text_sha256": "33a19d1ff37c38f5f80f8a7de8f801e9009c0271a7ce016d698809d745145ac7",
+      "evidence": "evidence/Pangram-R0-blocked.txt",
+      "evidence_saved_utc": "2026-11-03T12:28:53.829499+00:00"
+    },
+    {
+      "candidate": "R0",
+      "service": "TextGuard",
+      "score": null,
+      "service_word_count": null,
+      "status": "full_output_requires_account",
+      "text_sha256": "33a19d1ff37c38f5f80f8a7de8f801e9009c0271a7ce016d698809d745145ac7",
+      "evidence": "evidence/TextGuard-R0-locked.txt",
+      "evidence_saved_utc": "2026-11-03T12:28:53.473491+00:00"
+    }
+  ]
+}

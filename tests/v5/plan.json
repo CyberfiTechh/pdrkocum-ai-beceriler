@@ -1,0 +1,15 @@
+{
+  "created": "2026-11-03T12:08:47.127409+00:00",
+  "budget": 8,
+  "primary": "WrittenCheck",
+  "secondary": "Seobaz",
+  "target_max": 10,
+  "R1": "Tekrarlı katılım güvencelerini birleştir; konu ve süreyi öne al. Bilinen kurumsal özneyi koru.",
+  "R2": "Duyuru türünü koruyarak daha konuşma diline yakın yüklemler kullan; girişte amaç, devamında erişim ve gizlilik.",
+  "R3": "Zaman çizelgesini okunur duyuru listesi olarak ayır; kalan koşulları düz paragrafta koru. Tür değişmez.",
+  "R4": "Önceki 159 kelimeye yakın uzunluğu koru; soru kanalını sunum/soru süresiyle, yazılı özeti kayıt alınmamasıyla ilişkilendir.",
+  "R5": "Erişim ile ön kontrolü birleştir; hitabı sadeleştir; erişilebilir özet bilgisini kapanışın ilk cümlesine taşı.",
+  "R6": "Soru süresiyle soru kanalını ve sunumla mikrofon kuralını aynı bölümde topla; bağlantı için gereken işlemi açıkla.",
+  "R7": "Kısa, doğrudan duyuru; davet girişini çıkar, gün-saat-konu ile başla. Önceki düşük puanlı metinden içerik veya kalıp kopyalama.",
+  "R8": "Aynı olguları üçüncü kişi kurumsal anlatımla erişim ve oturum düzeni olarak iki ana bölümde ver; kişisel ses ekleme."
+}

@@ -1,0 +1,64 @@
+Browser tab: 15, Title: "AI Detector Türkçe - Yapay Zeka Dedektörü | Seobaz", URL: "https://seobaz.com/yapay-zeka-dedektoru".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 272-274
+~			43 text 1100 karakter Kalan hak: 9
+~			45 button Analiz Et
++				280 text Analiz Et
++				281 image
++			282 text %23 AI OLASILIĞI
++			283 text Büyük olasılıkla insan yazımı
++			284 text Orta güven Olası aralık: %13 - %33 Metin türü: okul duyurusu
++			285 text Metin okul duyurusuna uygun biçimde düzenli ve bilgi odaklı, cümle uzunlukları orta düzeyde değişiyor ve kalıp kullanımı çok az. Kayıt yapılmayacağı bilgisinin tekrarı ve güvence cümleleri hafif bir şüphe doğursa da kanıt zayıf kalıyor.
++			286 container adSonuc
++				287 text %23 AI OLASILIĞI
++				288 text Büyük olasılıkla insan yazımı
++				289 text Orta güven Olası aralık: %13 - %33 Metin türü: okul duyurusu Ölçüm dökümü Dilbilimsel analiz, modelden bağımsız hesaplandı
++				290 text Cümle ritmi
++				291 text 25/100
++				292 text Cümle uzunluklarında orta düzey dalgalanma var (0.46); kısa cümleler ritmi kırıyor.
++				293 text Kalıp yoğunluğu
++				294 text 15/100
++				295 text 1 kalıp eşleşti ("ayrıca"), 1/17 cümle bağlaçla açılıyor.
++				296 text Anlatım tekdüzeliği
++				297 text 19/100
++				298 text Kalıp yüklem ("-dır/-dir") oranı %0, cümle sonları farklı eklerle bitiyor, 2 farklı noktalama işareti kullanılmış.
++				299 text İnsan izi
++				300 text 8/100
++				301 text Küçük harfle cümle başı bulundu.
++				302 text Sinyal ölçümleri Değerler metinden hesaplandı, etiket değil ölçümdür
++				303 text CÜMLE RİTMİ
++				304 text Cümle uzunluğu değişkenliği 0.46 Birbirine yakın uzunlukta cümle %35 Kısa cümle oranı %41 Paragraf uzunluk dengesi ölçüldü
++				305 text KALIP YOĞUNLUĞU
++				306 text Eşleşen kalıp ifade 1 kalıp Bağlaçla başlayan cümle 1/17 "-maktadır / -mektedir" ekiyle biten 0 cümle Uzun tire (—) kullanımı 0 adet Biçimlendirme artığı (**, ##, madde imi) 0 işaret Üçlü sıralama kalıbı 1 cümle
++				307 text ANLATIM TEKDÜZELİĞİ
++				308 text "-dır / -dir" ile biten cümle %0 Cümle sonu eki çeşitliliği 0.65 Kullanılan noktalama işareti 2/9 çeşit Kelime çeşitliliği 0.97 Tekrar eden söz kalıbı %0
++				309 text İNSAN İZİ
++				310 text Kişisel deneyim ve konuşma dili bulunamadı Yazım düzensizliği 1 iz Somut veri (sayı, tarih, isim) 12.7/100 kelime Bulunan kanıtlar Kırmızı: yapay zeka izi · Yeşil: insan izi ayrıca ×1 Küçük harfle cümle başı En şüpheli cümleler Metinde birebir doğrulandı Katılıp katılmama kararı velilere ait.
++				311 text Hüküm cümlesi düz ve kalıplı, modellerin sık kurduğu güvence cümlelerine benziyor.
++				312 text Bunun öğrencinin notuna bir etkisi bulunmuyor.
++				313 text Olası endişeyi önceden gideren, aşırı öngörülü ve düzenli bir anlatım.
++				314 text Toplantı kayda alınmayacak.
++				315 text Önceki paragrafta söylenen bilgiyi yineliyor, özet niteliğinde bir kapanış gibi duruyor.
++				316 container
++					317 text Değerli Velilerimiz,
+
+6, 7 ve 8. sınıf velileri için düzenlenen çevrim içi toplantı perşembe günü saat 19.30'da başlayacak. Konusu evde çalışma düzeni, süresi 40 dakika. İlk 15 dakika sunumla geçecek, ardından 25 dakika boyunca sorular ele alınacak. Katılmak isteyenler, bir gün önce sınıf iletişim gruplarında paylaşılacak bağlantıyı telefonlarından ya da bilgisayarlarından açabilir. Ayrıca kayıt yaptırılmayacak ve ücret ödenmeyecek. Saat 19.20'de teknik kontrol için bağlanma imkânı da var; isteyenler kullanabilir.
+
+ Katılıp katılmama kararı velilere ait. Bunun öğrencinin notuna bir etkisi bulunmuyor.  Görüşmede kamera açmak isteğe bağlı, ancak sunum yapılırken mikrofonların kapalı tutulması gerekiyor. Sorular sohbet alanına yazılabilir; söz almak isteyenlerin el kaldırması yeterli. Ortak sohbette öğrenci isimleri ve özel bilgileri paylaşılmamalı. Bireysel konuların görüşülmesi için rehberlik servisinden ayrı görüşme talep edilebilir. Bu görüşmeler için tarih belirtilmedi.
+
+ Toplantı kayda alınmayacak.  Katılamayan veliler için ertesi gün sınıf gruplarında kısa bir yazılı özet bulunacak.
+
++				318 text Yorum katmanı sinyalleri Dil modeli değerlendirmesi Tür beklentisi
++				319 text Okuldan velilere giden duyuru metni doğal olarak düzenli, bilgi odaklı ve kısa cümlelerle ilerler, bu tek başına yapay zeka kanıtı sayılmaz.
++				320 text Cümle ritmi
++				321 text Cümle uzunlukları orta düzeyde dalgalanıyor, kısa cümleler ritmi kırıyor ve ham model çıktısındaki düzlük görülmüyor.
++				322 text Somut ayrıntılar
++				323 text Saat 19.30, 19.20 teknik kontrol, 15 ve 25 dakikalık bölümler gibi gerçekçi ayrıntılar metni belirli bir olaya bağlıyor.
++				324 text Tekrar eden bilgi
++				325 text Kayıt yapılmayacağı hem ikinci cümle grubunda hem son paragrafta tekrarlanıyor ve bu biraz fazla titiz duruyor.
++				326 text Kalıp azlığı
++				327 text Yalnızca bir kez 'ayrıca' geçiyor, kalıp yüklem ve bağlaçla açılan cümle neredeyse hiç yok.
++				328 text Skoru düşürmek için ne yapmalı Bu metne özel, ölçülen bulgulardan 1 Metinde yaşanmış hiçbir iz yok. Tarih, rakam, isim veya kendi deneyiminizden tek bir örnek ekleyin; bu tek başına skoru belirgin düşürür. 2 Kayıt yapılmayacağı bilgisini tek yerde bırakıp son paragraftaki tekrarı kaldırın, yerine rehberlik servisinin gerçek iletişim yolunu yazın. 3 'Katılıp katılmama kararı velilere ait' gibi kalıp cümleleri, okulun kendi üslubuna uygun daha samimi bir ifadeyle değiştirin, örneğin 'Gelemeyen velilerimiz endişelenmesin.' 4 Bazı cümleleri birleştirip bazılarını uzatın, 'Bu görüşmeler için tarih belirtilmedi.' gibi kopuk cümleye ne zaman duyurulacağını ekleyin. KELİME 142 CÜMLE 17 ORT. CÜMLE 8.4 kelime RİTİM DALGALANMASI 0.46
++				329 container
++					330 text ⚠️  Hiçbir yapay zeka dedektörü kesin sonuç veremez; bu skor bir olasılık göstergesidir, kanıt değildir. Önemli kararlarda (akademik değerlendirme, işe alım vb.) tek başına kullanmayın.
+The focused UI element is 0 AXWebArea AI Detector Türkçe - Yapay Zeka Dedektörü | Seobaz, URL: seobaz.com/yapay-zeka-dedektoru

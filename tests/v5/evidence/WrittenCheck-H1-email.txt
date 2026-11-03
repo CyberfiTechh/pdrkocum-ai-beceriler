@@ -1,0 +1,90 @@
+Browser tab: 14, Title: "Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT", URL: "https://writtencheck.com/tr/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 366-369
++					268 container wcMarked
++						269 container Bu cümle: %62 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							270 text Konu: Akıllı tahtalar için servis randevusu
++						271 container Bu cümle: %62 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							272 text Merhaba,
++						273 container Bu cümle: %48 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							274 text Önceki ziyaretinizde tamamlanamayan yazılım güncellemeleri ve dokunmatik kalibrasyonu için yeniden randevu almak istiyoruz.
++						275 container Bu cümle: %32 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							276 text Üç akıllı tahtada da aynı sorun devam ediyor: Dokunulan nokta ile imlecin konumu örtüşmüyor.
++						277 container Bu cümle: %6 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							278 text Tahtalar açılıyor ancak dokunmatik kullanımında bu uyumsuzluğu yaşıyoruz.
++						279 container Bu cümle: %11 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Sayılar ve ayrıntılar (skoru düşürdü)
++							280 text Okulumuz salı veya perşembe günü saat 16.
++						281 container Bu cümle: %1 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). Sayılar ve ayrıntılar (skoru düşürdü)
++							282 text 00’da ziyaretiniz için uygun.
++						283 container Bu cümle: %8 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							284 text Dersler bu saatte bittiği için çalışmaya başlayabilirsiniz.
++						285 container Bu cümle: %9 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							286 text Hangi gün gelebileceğinizi teyit eder misiniz?
++						287 container Bu cümle: %38 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							288 text Üç tahta için yapılacak işlemlerin yaklaşık ne kadar süreceğini de öğrenmek isteriz.
++						289 container Bu cümle: %38 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							290 text Okulda internet bağlantısı mevcut.
++						291 container Bu cümle: %58 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							292 text Güncellemeler için kurulum dosyası gerekiyorsa, ziyaret öncesinde bize haber vermenizi rica ederiz.
++						293 container Bu cümle: %58 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							294 text Teşekkür eder, iyi çalışmalar dileriz.
++					295 text Kırmızı: yapay zekaya en çok benzeyen. Turuncu: bazı YZ işaretleri. Skorunu görmek için bir cümleye tıklayın.
++					296 text 99 / 3.000 kelime
++					297 button Metni düzenle, ID: wcEdit
+~					64 button Metni kontrol et, ID: wcRun
++						298 text Metni kontrol et
+~				66 container Description: Sonuç Yapay zeka benzerlik skoru yüzde 100, ID: wcResultPane
++					299 container wcResult
++						300 container Yapay zeka benzerlik skoru yüzde 100
++						301 container
++							302 text Büyük olasılıkla yapay zeka
++						303 text Skor, üretilmiş bölümleri yansıtıyor. Cümle haritası bunların hangileri olduğunu gösteriyor.
++						304 text Güven:
++						305 text Yüksek
++						306 heading Olası aralık, Value: 3
++							307 text Olası aralık
++						308 text 92–100%
++						309 heading Cümle cümle, Value: 3
++							310 text Cümle cümle
++						311 text 13 cümle
++						312 container wcChart
++							313 container 13 cümlenin her birinin YZ benzerliği
++						314 text YZ'ye benzer
++						315 text 0
++						316 text Bazı işaretler
++						317 text 5
++						318 text İnsana benzer
++						319 text 8
++						320 content list
++							321 container
++								322 text Dil Türkçe
++							323 container
++								324 text Kontrol edilen kelime 99
++						325 heading Sinyal dökümü, Value: 3
++							326 text Sinyal dökümü
++						327 text 0 ile 100 arası, yüksek değer YZ'ye daha yakın
++						328 container Eğitim, öğretim, blog, pazarlama, araştırma ve birçok başka alandan insan ve yapay zeka yazılarıyla eğitilmiş bir transformer modeli. Yanıt verdiğinde puanı o belirler.
++							329 text Derin dil modeli
++							330 text 100
++						331 container Karakter, kelime seçimi, ritim ve yapı kalıplarını, ayrı tutulmuş insan ve yapay zeka metinleriyle karşılaştırır.
++							332 text Yazı kalıpları (yerleşik model)
++							333 text 26
++						334 container Belgenin ritmini, ifadelerini, tekrarlarını ve ayrıntılarını tek bir yüzey kalıbı sinyalinde toplar.
++							335 text Yüzey üslup kontrolü
++							336 text 6
++						337 container Metin boyunca cümle uzunluklarının ve başlangıçlarının ne kadar benzediği.
++							338 text Cümle tekdüzeliği
++							339 text 27
++						340 container Cilalı, kalıp geçiş ifadeleri ve yapay zeka yazısında sık görülen diğer kalıplar.
++							341 text Tahmin edilebilir ifadeler
++							342 text 20
++						343 heading Skoru ne etkiledi, Value: 3
++							344 text Skoru ne etkiledi
++						345 content list
++							346 container
++								347 text Yapay zeka yazısında görülen ifadeler  YZ yönüne itti “Merhaba”, “ancak dokunmatik”, “Teşekkür eder”
++							348 container
++								349 text İnsan yazısında görülen ifadeler  insan yönüne itti “bittiği için çalışmaya başlayabilirsiniz”, “veya perşembe günü saat”, “devam ediyor: Dokunulan nokta”
++						350 button Sonuç yanlış mı? Bize bildirin
++						351 text Bu, yazı kalıplarına dayalı bir tahmindir, metni kimin yazdığının kanıtı değildir. Bir karar vermeden önce işaretlenen cümlelere ve bağlama bakın.
+The focused UI element is 0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/
