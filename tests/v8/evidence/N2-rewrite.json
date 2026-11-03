@@ -1,0 +1,18 @@
+{
+  "record_type": "Extracted visible UI result, not full page transcript",
+  "measurement": {
+    "id": "N2-rewrite",
+    "service": "WrittenCheck",
+    "url": "https://writtencheck.com/tr/",
+    "date": "2026-11-03",
+    "score": 0,
+    "confidence_label": "Orta",
+    "range_display": "0–14%",
+    "builtin": 1,
+    "surface": 10,
+    "words_site": 137,
+    "words_whitespace": 137,
+    "sha256_submitted_utf8": "e044ee257c52ae08b6f18b2c822a88837ad59c5af750e969374bb4c9e0af9253"
+  },
+  "submitted_text": "1335 yılının 19 Mayıs günü Samsun’a çıktım. Karşımdaki genel durum şuydu:\n\nOsmanlı Devleti’nin içinde yer aldığı taraf Dünya Savaşı’nı kaybetmişti. Ordu her yanda yıpranmış, ağır koşullu bir ateşkes anlaşması imzalanmıştı. Yıllar süren savaş milleti yorgun ve yoksul bırakmıştı. Ülkeyi savaşa sokanlar ise canlarının derdine düşüp kaçmışlardı. Saltanat ve halifelik makamındaki Vahideddin alçalmıştı; yalnız kendisini ve tahtını güvenceye alacağını sandığı aşağılık yollar arıyordu.\n\nDamat Ferit Paşa’nın başında bulunduğu hükümet güçsüz, onursuz ve korkaktı. Padişahın isteğinden çıkmıyor, onunla birlikte kendi güvenliğini sağlayacak her duruma razı oluyordu.\n\nOrdunun silahlarına, cephanesine el konmuştu. Kalanlar da alınıyordu.\n\nİtilaf Devletleri ateşkes hükümlerine uymayı gerekli görmüyordu. Çeşitli bahanelerle donanmaları ve askerleri İstanbul’a gelmişti. Adana’yı Fransızlar; Urfa, Maraş ve Antep’i İngilizler işgal etmişti. Antalya ve Konya’da İtalyan birlikleri vardı; Merzifon ve Samsun’da da İngiliz askerleri. Yabancı subaylar, memurlar ve özel görevliler ülkenin her yanında çalışıyordu."
+}

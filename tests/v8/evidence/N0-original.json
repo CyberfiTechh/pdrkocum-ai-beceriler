@@ -1,0 +1,18 @@
+{
+  "record_type": "Extracted visible UI result, not full page transcript",
+  "measurement": {
+    "id": "N0-original",
+    "service": "WrittenCheck",
+    "url": "https://writtencheck.com/tr/",
+    "date": "2026-11-03",
+    "score": 0,
+    "confidence_label": "Orta",
+    "range_display": "0–14%",
+    "builtin": 0,
+    "surface": 4,
+    "words_site": 152,
+    "words_whitespace": 152,
+    "sha256_submitted_utf8": "9a55c3ee764131c3cca7d4ab5764d97677808777d13bac6c41ff04fafd58253c"
+  },
+  "submitted_text": "1335 senesi Mayıs’ının on dokuzuncu günü Samsun’a çıktım. Vaziyet ve manzara-i umumiye:\n\nOsmanlı Devleti’nin dahil bulunduğu grup, Harb-i Umumî’de mağlûp olmuş, Osmanlı ordusu her tarafta zedelenmiş, şerâiti ağır bir mütarekenâme imzalanmış. Büyük harbin uzun seneleri zarfında millet yorgun ve fakir bir halde. Millet ve memleketi Harb-i Umumî’ye sevk edenler kendi hayatları endişesine düşerek memleketten firâr etmişler. Saltanat ve hilâfet mevkiini işgal eden Vahideddin, mütereddi, şahsını ve yalnız tahtını temîn edebileceğini tahayyül ettiği denî tedbirler araştırmakta.\n\nDamad Ferid Paşa’nın riyâsetindeki kabine âciz, haysiyetsiz, cebîn, yalnız pâdişâhın irâdesine tâbi ve onunla beraber şahıslarını vikaye edebilecek herhangi bir vaziyete razı.\n\nOrdunun elinden esliha ve cephanesi alınmış ve alınmakta...\n\nİtilâf Devletleri, mütareke ahkâmına riayete lüzum görmüyorlar. Birer vesile ile İtilâf donanmaları ve askerleri İstanbul’da. Adana vilâyeti, Fransızlar; Urfa, Maraş, Ayıntab, İngilizler tarafından işgal edilmiş. Antalya ve Konya’da, İtalyan kıtaat-ı askeriyesi, Merzifon ve Samsun’da İngiliz askerleri bulunuyor. Her tarafta ecnebi zâbit ve memurları ve hususî adamları faaliyette."
+}

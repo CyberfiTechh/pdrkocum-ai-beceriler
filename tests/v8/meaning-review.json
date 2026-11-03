@@ -1,0 +1,8 @@
+{
+  "minimal_edits": "F1: one comma to semicolon and two removed commas; N1: three dots to ellipsis and two removed commas. No words changed.",
+  "F2": "Main scene and events retained; small stylistic differences: glance cue not explicit, dar intensified to daracık, eating described as chewing. Not an exact-preservation edit. Total score100; rejected as detector target success regardless of these differences.",
+  "N2": "First-person historical excerpt explicitly labeled AI adaptation of Atatürk; year1335 retained; place list, actor list, ongoing confiscation, evaluative author stance retained. Modernized terminology and tense. Not a verbatim quotation or independent historical fact verification.",
+  "H1": "131 whitespace words; labeled Kurmaca; fictional additions allowed by task; no claim of real user experience.",
+  "H2": "All supplied12 condition groups retained;85 whitespace/90site words; not padded to minimum.",
+  "interpretation": "No causal identification of individual wording effects. Historic works may occur in training data. Two writers plus two generated tasks are not a representative corpus. No independent human-editor comparison or repeated-run variance measurement."
+}

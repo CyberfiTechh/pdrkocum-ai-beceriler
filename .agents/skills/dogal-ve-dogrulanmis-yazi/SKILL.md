@@ -17,6 +17,8 @@ Kullanıcıya her seferinde bu kuralı uyguladığını anlatma; doğrudan isten
 
 ## Metnin yapısını yeniden kurma
 
+İnsan yazılarından örnek bulma veya bunlardan hareketle geliştirme istendiğinde [insan kaynaklarından çalışma akışını](references/insan-kaynaklarindan-calisma.md) kullan. Tarihsel yazarlığı kaynakla doğrula, metnin işlevlerini incele ve tür sınırlarını koru. İnsan alıntısının düşük puanını yeni AI metninin başarısı diye sunma.
+
 Aynı yüksek puan tekrarlanıyorsa [ölçülü teşhis akışını](references/olculu-teshis.md) kullan. Önce tek değişkenli varsayımları ve sonucun gerçekten yeni metne ait olduğunu kontrol et. Bilgi çıkarılan teşhis örneğini tam metin başarısı sayma; iç modelin karar mantığını kesin olarak çözdüğünü söyleme.
 
 Yüzeysel sözcük değişimleri sonuç vermiyorsa [anlamdan yeniden kurma yöntemini](references/anlamdan-yeniden-kurma.md) uygula: okurun kararını belirle, olguları kaynak cümlelerinden ayır, bağlantılı bilgileri birlikte anlat, verilen bilgilerden güvenle hesaplanabilen ayrıntıları kontrol et ve son metni olgularla geri eşleştir. Bu yöntemi “insanlaştırma garantisi” diye sunma; yeni adayda ve ayrı görevde ölç.

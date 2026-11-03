@@ -1,0 +1,18 @@
+{
+  "record_type": "Extracted visible UI result, not full page transcript",
+  "measurement": {
+    "id": "F0-original",
+    "service": "WrittenCheck",
+    "url": "https://writtencheck.com/tr/",
+    "date": "2026-11-03",
+    "score": 0,
+    "confidence_label": "Orta",
+    "range_display": "0–14%",
+    "builtin": 77,
+    "surface": 5,
+    "words_site": 122,
+    "words_whitespace": 122,
+    "sha256_submitted_utf8": "74c5bd5ea4f64dc2523c322b58f3052d6a41d35702fec3b581cc77f2b3440b5d"
+  },
+  "submitted_text": "Her sabah Çarşı Camii'nin arkasındaki harap zaptiye ahırlarının önünden, bir serçe sürüsü gibi cıvıldayarak geçerdik. Mektep biraz daha ileride, alçak duvarlı, oldukça geniş bir avlunun ortasında idi. Tek kattı, etrafında yükselen büyük kestane ağaçlarının birbirine karışmış koyu gölgeleri, bütün çatısını kaplardı. Biz daha avlunun kapısından girmeden Hoca Efendi'nin bulunup bulunmadığını, şöyle bir bakar, anlardık:\n\n\"Abdurrahman Çelebi gelmiş mi be?\"\n\"Gelmiş, gelmiş...\"\n\nAbdurrahman Çelebi, Hoca Efendi'nin ihtiyar eşeğiydi. Siyah, huysuz, inatçı bir hayvan... Her sabah bizim gibi erkenden mektebe gelir, akşama kadar kalır; evlerimizden nöbetle getirdiğimiz kucak kucak otları, yazsa ağaçların, kışsa sol taraftaki abdestlik sundurması altında yavaş yavaş yerdi. Ona su vermek, onu tımar etmek mektepte bir imtiyazdı. Hoca Efendi'ye kim yaranırsa bu mükafatı kazanırdı. Mektebin kapısına dar, taş bir merdivenle çıkılırdı."
+}

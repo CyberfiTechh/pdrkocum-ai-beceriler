@@ -1,7 +1,7 @@
 {
   "algorithm": "sha256",
   "files": {
-    ".agents/skills/dogal-ve-dogrulanmis-yazi/SKILL.md": "f71d67133431c3953cc419069c712221ae289385c3be1cad0b33f781b7e57bc0",
+    ".agents/skills/dogal-ve-dogrulanmis-yazi/SKILL.md": "7567bd523e7d4592a1426d954b150543d108bfdf66bdb9673c67d72fa5bec3a6",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/agents/openai.yaml": "e9e169630257ef392eb33b5d8122d8076578b885ffe4003416839ebf6cb4cab7",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/assets/AGENTS-yazi-kurali.md": "87f7aca8ddb5402d16637698da64e73f2aa3b27007e5bee7258fd434ff9e26a0",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/references/arastirma-dayanaklari.md": "017d58d9ecfdeb0647a3c3bc10d172ee36e1389dddcc38529ebb85aa7b3309c8",
@@ -228,6 +228,29 @@
     "tests/v7/evidence/D3-no-date-note.txt": "0dbcbb18ddcac39f4ed9bde0ab9f81dd024ab38a298ac9be3b252747f1b7f3bb",
     "tests/v7/evidence/H1-notice.txt": "999a9b8dc9ce029d13c07ded37e7246aaaa54ab4cb642f83cd0cc00a1361bf23",
     "tests/v7/evidence/H2-email.txt": "46d60ab02368cf3d0afa70b77607af9c0f27213d94445c76bfb6d6c3816db3d5",
-    "tests/v7/evidence/control-human.txt": "47c7354a4160ac9a11979cba508c397e3a8c335eb728a2dc6a2dc23e57ec7e1d"
+    "tests/v7/evidence/control-human.txt": "47c7354a4160ac9a11979cba508c397e3a8c335eb728a2dc6a2dc23e57ec7e1d",
+    ".agents/skills/dogal-ve-dogrulanmis-yazi/references/insan-kaynaklarindan-calisma.md": "d2d604f4906c04646775fd3d40f914c84be8e469aa410e9bce85c57156b04b7b",
+    "tests/v8/F0-original.txt": "938dd1c61b82916e32dc317ba0136f600f89e2afb574833f3ab9d75cfadf121d",
+    "tests/v8/F1-minimal.txt": "eb348f67f0d7d1d78e01253fb826ed232988d8f2947e298719dfefdda98f3aeb",
+    "tests/v8/F2-rewrite.txt": "36248a0ad588bddd6d48e67dc94a6d27d4f7da37b74a87e657c2d63b1e173075",
+    "tests/v8/H1-story.txt": "bd6e386c9c9c444a6ef464cf2b1d57ca4ce9477451bc2c45331a42d532fdca7b",
+    "tests/v8/H2-notice.txt": "b645d5f3496ad74ddf455e7f964e12d7e149eb82d16169c2278d014beeb21daf",
+    "tests/v8/N0-original.txt": "85c0ddcc2f5509d162bf495634e0e3876fcbc06c230265d9e2fcede9bf32f986",
+    "tests/v8/N1-minimal.txt": "cc6e910c1c5d633536cca154adf262fc68b7c265281d650ed3ee3c476183afef",
+    "tests/v8/N2-rewrite.txt": "ddfff9a9212acd4e592e5ac0f5d117bd91b368ead311201b2faa764d4224dc9d",
+    "tests/v8/SONUCLAR.md": "1712c074e5cad98a723ba8a5da5deb3cca34b65ea1a956f4dae80d55c992537d",
+    "tests/v8/evidence/F0-original.json": "6bebc2bf983818b87d3804083900f00b9c5cd46d4148cbe0e4a134497cc86d2d",
+    "tests/v8/evidence/F1-minimal.json": "c63cca3e68a7028592727a23f96f363af6ce317c6a90cb8f845faeedf2b8ae36",
+    "tests/v8/evidence/F2-rewrite.json": "4e8d5a6bf553d2d03b905c1ac3197a5b6f44544f65c31ffd62546aa22e6a8fb6",
+    "tests/v8/evidence/H1-story.json": "012e56a2ec0018fdc3beae79dc97cbb15b839178a336921bd581148c30669d45",
+    "tests/v8/evidence/H2-notice.json": "444df3f5c896f1384a433a49a83711525f699a6e346d262681100e0cc549e07f",
+    "tests/v8/evidence/N0-original.json": "d9f96b00bbb8d407dce63e6c737e04cde74edf96ba4212d3b74a20dd41db92cc",
+    "tests/v8/evidence/N1-minimal.json": "f656f1fa3a16f006593b0a6cd81e6aeb7b018a9881379af9c1f0b0f68422efea",
+    "tests/v8/evidence/N2-ZeroGPT.json": "ceb318e1f33849e34e992feb849f2b43831a0461298cae19936722823b71e51f",
+    "tests/v8/evidence/N2-rewrite.json": "5c294196f6eaa72b46e52e50fab63b9ebdc98bfaeb4fc90f66461293ded81e81",
+    "tests/v8/forward-plan.json": "1a49bce1c78f4983ac2b30ef5e71d576b2570e5c14f9ed52dab873318a8d6946",
+    "tests/v8/meaning-review.json": "ba9dfbf26bdd82e6345eec89953c4f7cc4cc7916f740389602071587294c771e",
+    "tests/v8/plan.json": "1aae7fcd4a308ec3448eae8379963059cd7f7a85a5e80ab6297f6b4f34b5ee34",
+    "tests/v8/results.json": "1266894bcbe2a5241cfb5d474de2ca2891243faac1a256cdaf7e344178d67b63"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "record_type": "Extracted visible UI result, not full page transcript",
+  "measurement": {
+    "id": "F2-rewrite",
+    "service": "WrittenCheck",
+    "url": "https://writtencheck.com/tr/",
+    "date": "2026-11-03",
+    "score": 100,
+    "confidence_label": "Yüksek",
+    "range_display": "92–100%",
+    "builtin": 84,
+    "surface": 5,
+    "words_site": 113,
+    "words_whitespace": 113,
+    "sha256_submitted_utf8": "5d981015748e2d002089e33a9e39968dfe166bc68696decd9be1e8c77b9ef042"
+  },
+  "submitted_text": "Çarşı Camii'nin arkasında, yıkık zaptiye ahırlarının önünden geçerdik her sabah. Bir serçe sürüsünü andırırdı cıvıltımız. Biraz ileride de mektep vardı: alçak duvarların çevirdiği genişçe bir avluda, tek katlı bir yapı. Çevresindeki iri kestanelerin gölgeleri birbirine karışır, çatının tamamını örterdi. Avluya girmeden Hoca Efendi'nin gelip gelmediğini öğrenirdik.\n\n\"Abdurrahman Çelebi gelmiş mi be?\"\n\"Gelmiş, gelmiş...\"\n\nSorduğumuz, hocanın yaşlı eşeğiydi; siyah, huysuz, bir de inatçı. Bizim gibi erkenden gelir, akşama dek mektepte kalırdı. Ona sırayla evden kucak dolusu ot taşırdık. Yazın ağaçların altında yerdi otunu, kışınsa soldaki abdestlik sundurmasının altında. Ağır ağır çiğnerdi. Su vermesine, tımarına gelince, bunlar herkese düşmezdi. Hocanın gözüne girene verilirdi bu ayrıcalık, bir ödül gibi. Mektebe girmek için daracık taş merdiveni çıkardık."
+}

@@ -1,0 +1,16 @@
+{
+  "prepared_before_measurement": true,
+  "status": "two new subjects; no detector scores supplied to writing agent",
+  "sequence": [
+    "H1-story",
+    "H2-notice"
+  ],
+  "inputs": {
+    "H1-story": "Explicitly fictional 100–140 word scene: bicycle repair apprentice finds a handlebar bag strap pressing on bell, not a broken bell. Do not copy source names/settings/passages.",
+    "H2-notice": "Library Saturday 14.00–15.30; ages 9–12; capacity16; free; reserve desk by Friday17.00; choose chess/checkers; supplied materials; parents reading area; stairs/no elevator; contact desk ahead for access support; cancellation notify desk to offer waitlist place."
+  },
+  "review": {
+    "H1-story": "Fiction labeled; no claim of real personal experience. Supplied incident preserved.",
+    "H2-notice": "All 12 supplied condition groups preserved; 85 whitespace words, not padded to target."
+  }
+}

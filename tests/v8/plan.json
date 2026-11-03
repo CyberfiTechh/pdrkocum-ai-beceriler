@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-03",
+  "purpose": "Tarihsel insan eserlerinin web aktarımı, sınırlı noktalama düzenlemesi ve AI yeniden yazımı arasında eşleştirilmiş keşif deneyi",
+  "registered_before_measurement": true,
+  "service": "WrittenCheck Türkçe web toplam skoru",
+  "sequence": ["F0-original", "F1-minimal", "F2-rewrite", "N0-original", "N1-minimal", "N2-rewrite"],
+  "target": "10/100 ve altı; garanti değil",
+  "design": "Her eser için aynı sınırlar: değiştirilmemiş alıntı, yalnız noktalama/boşluk müdahalesi, anlamı koruyan yeniden anlatım. Yeniden yazımda birden fazla özellik değiştiği için tek sözcüklü nedensellik çıkarılmaz.",
+  "limits": ["İki tarihi metin çağdaş duyuru/e-posta temsili değildir", "Web aktarımının her karakteri ilk basımla doğrulanmadı", "Dedektörün eğitim verisine dahil olma olasılığı bilinmiyor", "Özgün metinler becerinin ürettiği yeni metinler değildir", "Her aday bir kez ölçülür; servis tekrar değişkenliği ölçülmez"],
+  "sources": {
+    "F": {"author": "Ömer Seyfettin", "title": "Falaka", "text": "https://tr.wikisource.org/w/index.php?title=Falaka&oldid=170798", "provenance": "https://gserv1.getem.boun.edu.tr/?q=node/3807", "evidence": "GETEM: 1993 ikinci baskı, 6 Şubat 2007 katalog girişi, aynı açılış; 1917 ilk yayımlanma ikincil kaynakta belirtiliyor.", "publication_secondary": "https://edebiyatvesanatakademisi.com/post/omer-seyfettin-falaka-oykusu-hakkinda-inceleme-ve-metni/111823"},
+    "N": {"author": "Mustafa Kemal Atatürk", "title": "Nutuk — Samsun'a çıktığım gün umumî vaziyet ve manzara", "text": "https://tr.wikisource.org/w/index.php?title=Nutuk/1._bölüm/Samsun%27a_çıktığım_gün_umumî_vaziyet_ve_manzara&oldid=174609", "provenance": "https://tmek.gov.tr/ataturk/Hayati/YaziliEserleri", "evidence": "MEB: 1927 konuşma ve ilk basım. Dönemin siyasi değerlendirmeleri yazara aittir; deney bunları bağımsız tarih hükmü olarak onaylamaz."}
+  },
+  "attribution": "F ve N: tarihsel kamu malı eserlerden alıntılar ve açıkça etiketlenen uyarlamalar. Vikikaynak aktarımı için yazar/eser, kalıcı kaynak bağlantısı ve CC BY-SA atfı korunur. Özgün eser sahipliği iddia edilmez."
+}

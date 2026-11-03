@@ -1,0 +1,18 @@
+{
+  "record_type": "Extracted visible UI result, not full page transcript",
+  "measurement": {
+    "id": "H2-notice",
+    "service": "WrittenCheck",
+    "url": "https://writtencheck.com/tr/",
+    "date": "2026-11-03",
+    "score": 100,
+    "confidence_label": "Yüksek",
+    "range_display": "92–100%",
+    "builtin": 85,
+    "surface": 5,
+    "words_site": 90,
+    "words_whitespace": 85,
+    "sha256_submitted_utf8": "2d3d4f4730d33eb8f06a8e112a2bcc20ace297e714c0bba3331e5688b06d465f"
+  },
+  "submitted_text": "Kütüphanede oyun saati\n\nMahalle kütüphanemizde cumartesi günü 14.00–15.30 saatleri arasında, 9–12 yaşındaki çocuklar için masa oyunu etkinliği düzenliyoruz. Katılım ücretsiz ve 16 kişiyle sınırlı. Yer ayırtmak için cuma günü saat 17.00’ye kadar kütüphane danışmasına başvurabilirsiniz.\n\nHer çocuk satranç veya dama oynamayı seçebilir. Oyun malzemeleri sağlanacaktır. Ebeveynler etkinlik boyunca okuma alanında kalabilir.\n\nEtkinlik salonuna merdivenle ulaşılıyor; asansör bulunmuyor. Erişim desteğine ihtiyaç duyuyorsanız lütfen önceden danışmayla iletişime geçin.\n\nYer ayırttıktan sonra katılamayacağınız belli olursa danışmaya haber vermenizi rica ediyoruz. Böylece boşalan yeri bekleme listesindeki bir çocuğa önerebiliriz."
+}
