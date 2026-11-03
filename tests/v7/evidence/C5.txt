@@ -1,0 +1,30 @@
+Görünür arayüzden alınan sonuç alanları; tam sayfa dökümü değildir.
+{
+  "id": "C5",
+  "service": "WrittenCheck",
+  "url": "https://writtencheck.com/tr/",
+  "language": "tr",
+  "total": 100,
+  "words": 118,
+  "built_in": 5,
+  "surface": 5,
+  "text_sha256": "af32e55b1ceb23d639854ff145b0782f391fc5db5001e67f732255c89b175ee2",
+  "evidence": "evidence/C5.txt",
+  "evidence_saved_utc": "2026-11-03T13:02:10.421354+00:00",
+  "role": "complete_candidate"
+}
+
+Gönderilen metin:
+Evde çalışma düzeni için çevrim içi veli buluşması
+
+6, 7 ve 8. sınıf velileriyle perşembe akşamı 19.30'da buluşacağız. İlk 15 dakika sunum yapılacak, ardından 25 dakika sorulara ayrılacak; görüşmenin tamamı 40 dakika sürecek.
+
+Bağlantı: Bir gün önce sınıf iletişim gruplarında paylaşılacak. Telefon veya bilgisayardan katılabilirsiniz. Ön kayıt gerekmiyor. Teknik kontrol için isteyenler 19.20'de bağlanabilir.
+
+Katılım: Ücretsiz ve isteğe bağlı. Öğrencinin notuna etkisi yok.
+
+Görüşme sırasında: Kamera açmak sizin tercihiniz. Sunumda mikrofonlar kapalı tutulacak. Sorular sohbet alanına yazılabilir; söz almak isteyenler el kaldırabilir. Ortak sohbette öğrenci adı ve özel bilgi paylaşılmamalı.
+
+Bireysel konular: Rehberlik servisinden ayrı görüşme talep edilebilir. Bu görüşmeler için tarih belirtilmedi.
+
+Katılamayanlar için: Ertesi gün sınıf gruplarında kısa bir yazılı özet paylaşılacak. Buluşma kaydedilmeyecek.

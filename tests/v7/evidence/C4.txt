@@ -1,0 +1,24 @@
+Görünür arayüzden alınan sonuç alanları; tam sayfa dökümü değildir.
+{
+  "id": "C4",
+  "service": "WrittenCheck",
+  "url": "https://writtencheck.com/tr/",
+  "language": "tr",
+  "total": 100,
+  "words": 125,
+  "built_in": 9,
+  "surface": 5,
+  "text_sha256": "996e8f6117d7454a8270a6545414be4b30c8addb6752df8213e492853d46c2c4",
+  "evidence": "evidence/C4.txt",
+  "evidence_saved_utc": "2026-11-03T13:01:25.036357+00:00",
+  "role": "complete_candidate"
+}
+
+Gönderilen metin:
+Velilerimiz, perşembe akşamı 19.30'u evde çalışma düzenini konuşmaya ayırıyoruz. Çevrim içi buluşmamız 6, 7 ve 8. sınıf velileri için. Önce 15 dakika sunum yapıp sonraki 25 dakikada sorularınıza geçeceğiz; tamamı 40 dakika.
+
+Bağlantıyı bir gün öncesinden sınıf iletişim gruplarında bulabilirsiniz. Telefonunuzdan ya da bilgisayarınızdan katılın; önceden kayıt yaptırmanız gerekmiyor. Ücretsiz bir buluşma ve gelmek zorunlu değil. Katılıp katılmamanız öğrencinizin notunu da etkilemeyecek. Teknik kontrol isteyenler 19.20'de bağlanabilir.
+
+Sunumu mikrofonlar kapalıyken yapalım. Kamera açmayı ise size bırakıyoruz. Sorular için sohbeti kullanabilir, konuşmak istediğinizde el kaldırabilirsiniz. Ortak sohbette öğrenci isimlerini ve özel bilgileri paylaşmamanızı rica ediyoruz. Rehberlik servisinden bireysel konular için ayrıca görüşme isteyebilirsiniz. Bu ayrı görüşmelerin tarihi belirtilmiş değil.
+
+Kayıt almayacağız. O akşam gelemeyen velilerimize ertesi gün sınıf gruplarından kısa bir yazılı özet ulaştıracağız.

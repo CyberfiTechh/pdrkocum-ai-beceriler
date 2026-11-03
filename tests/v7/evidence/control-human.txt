@@ -1,0 +1,18 @@
+Görünür arayüzden alınan sonuç alanları; tam sayfa dökümü değildir.
+{
+  "id": "control-human",
+  "service": "WrittenCheck",
+  "url": "https://writtencheck.com/tr/",
+  "language": "tr",
+  "total": 0,
+  "words": 93,
+  "built_in": 43,
+  "surface": 5,
+  "text_sha256": "dfe0e3b92d4923934f2270ac44a02ce6756e118e07edcaff2dc8dd0b55ed3f2c",
+  "evidence": "evidence/control-human.txt",
+  "evidence_saved_utc": "2026-11-03T13:00:15.942800+00:00",
+  "role": "site-provided-human-control"
+}
+
+Gönderilen metin:
+Ahırın avlusunda oynarken aşağıda, gümüş söğütler altında görünmeyen derenin hazin şırıltısını işitirdik. Evimiz iç çitin büyük kestane ağaçları arkasında kaybolmuş gibiydi. Annem, İstanbul'a gittiği için benden bir yaş küçük olan kardeşim Hasan'la artık Dadaruh'un yanından hiç ayrılmıyorduk. Bu, babamın seyisi, ihtiyar bir adamdı. Sabahleyin erkenden ahıra koşuyorduk. En sevdiğimiz şey atlardı. Dadaruh'la beraber onları suya götürmek, çıplak sırtlarına binmek, ne doyulmaz bir zevkti. Hasan korkar, yalnız binemezdi. Dadaruh onu kendi önüne alırdı. Torbalara arpa koymak, yemliklere ot doldurmak, gübreleri kaldırmak eğlenceli bir oyundan ziyade, bizim hoşumuza gidiyordu. Hele tımar... Bu en zevkli şeydi.

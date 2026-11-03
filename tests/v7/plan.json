@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-03",
+  "primary": "WrittenCheck",
+  "target_max": 10,
+  "maximum_diagnostic_checks": 3,
+  "maximum_complete_candidates": 5,
+  "facts_source": "../v6/A3.txt",
+  "hypotheses": {
+    "D1-time-format": "Saatlerde nokta yerine iki nokta; yalnız biçim değişir. Tam aday olabilir.",
+    "D2-first-half": "İlk iki içerik paragrafının belge skorunu ölç. Eksik bilgi taşıdığı için nihai aday değildir.",
+    "D3-no-date-note": "Tarih belirtilmedi cümlesinin etkisini ayır. Kaynak belirsizliği çıkarıldığı için nihai aday değildir."
+  },
+  "acceptance": "Tam metin, tüm olgular, gerçek toplam <=10; tek örneği tüm metinlere genelleme. Sonrasında iki yeni görevde aktarımı sına.",
+  "complete_candidates": {
+    "C1": "İlgili bilgileri bir arada, kurumun doğrudan davetiyle ve gereksiz çerçeve olmadan yaz.",
+    "C2": "Daha gündelik kurumsal ses; görev cümleleri yerine davet ve okur eylemi.",
+    "C3": "Kayıt alınmamasıyla sonraki erişim bilgisini bağla; zamanları açık anlat.",
+    "C4": "Kurumun okurla doğrudan konuştuğu tutarlı ses; özel anı veya kişi eklenmez.",
+    "C5": "Duyurudaki erişim bilgilerini taranabilir başlıklarla ayır; bütün koşullar aynı belgede kalır."
+  },
+  "holdouts": {
+    "H1-notice": "Yeni aile okuma saati görevi, ham olgulardan bağımsız üretim.",
+    "H2-email": "Yeni teknik servis görevi, ham olgulardan bağımsız üretim; kısa metin olabilir, puan için uzatma."
+  },
+  "positive_control": "WrittenCheck kendi İnsan metni örneği: metin ve kaynak etiketi kaydedilir; aynı turda araç farklı skorlara yanıt veriyor mu bakılır. Bu veri modele öğrenilmiş olabilir, bağımsız doğruluk testi değildir."
+}

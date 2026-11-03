@@ -1,0 +1,12 @@
+{
+  "review": "manual semantic review by main assistant; no independent human reviewer",
+  "C1": "Tüm ana koşullar korunuyor; erken bağlantı teknik kontrol isteğine bağlanıyor.",
+  "C2": "Tüm ana koşullar korunuyor; bir gün önce ve ertesi gün çarşamba/cuma olarak açıldı.",
+  "C3": "Tüm ana koşullar korunuyor; kayıt olmamasından sonradan kayıt izlenemeyeceği çıkarıldı. Yeni kayıt olgusu eklenmedi.",
+  "C4": "Tüm ana koşullar korunuyor. Davet emir kipi katılım zorunluluğu yaratmasın diye isteğe bağlı cümlesi açık tutuldu.",
+  "C5": "Tüm ana koşullar korunuyor; duyuru alt başlıklarla taranabilir yapıldı. Yapı değiştiği için salt sözcük deneyi değil.",
+  "H1-notice": "Verilen 15 olgu grubu korunuyor. Bağımsız yeni görev; önceden dedektör sonucu gösterilmedi.",
+  "H2-email": "Verilen 10 olgu grubu korunuyor. Metin kısa; güvenilir uzunluk iddiası yok.",
+  "D2-first-half": "Anlam eksik; sadece teşhis, nihai aday değil.",
+  "D3-no-date-note": "Kaynak belirsizliği çıkarıldı; sadece teşhis, nihai aday değil."
+}

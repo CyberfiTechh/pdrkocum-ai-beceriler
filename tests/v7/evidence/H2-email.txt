@@ -1,0 +1,28 @@
+Görünür arayüzden alınan sonuç alanları; tam sayfa dökümü değildir.
+{
+  "id": "H2-email",
+  "service": "WrittenCheck",
+  "url": "https://writtencheck.com/tr/",
+  "language": "tr",
+  "total": 100,
+  "words": 58,
+  "built_in": 52,
+  "surface": 6,
+  "text_sha256": "70046d3dfc989bd0ddc0ef742f364465b147c17330f2ebae6d8fe4e64f779dd8",
+  "evidence": "evidence/H2-email.txt",
+  "evidence_saved_utc": "2026-11-03T13:03:43.827335+00:00",
+  "role": "holdout"
+}
+
+Gönderilen metin:
+Konu: Akıllı tahtalar için servis ziyareti
+
+Merhaba,
+
+Geçen ziyaretinizde üç sınıftaki akıllı tahtaların yazılım güncellemesi tamamlanmamıştı. Tahtalar açılıyor ancak ikisinde dokunulan nokta ile imleç uyuşmuyor.
+
+Salı veya perşembe saat 16.00'dan sonra sınıflar boş. Size uygun günü ve yaklaşık çalışma süresini bildirir misiniz?
+
+İnternet bağlantısı mevcut. Getirmeniz gereken bir kurulum dosyası varsa lütfen önceden haber verin.
+
+İyi çalışmalar.

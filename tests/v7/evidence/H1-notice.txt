@@ -1,0 +1,24 @@
+Görünür arayüzden alınan sonuç alanları; tam sayfa dökümü değildir.
+{
+  "id": "H1-notice",
+  "service": "WrittenCheck",
+  "url": "https://writtencheck.com/tr/",
+  "language": "tr",
+  "total": 100,
+  "words": 79,
+  "built_in": 24,
+  "surface": 5,
+  "text_sha256": "0d387c43e0fc744af259ed15abbeb5f5cad046ccc7d6e8f50cf214f2b1c0f56b",
+  "evidence": "evidence/H1-notice.txt",
+  "evidence_saved_utc": "2026-11-03T13:03:01.934389+00:00",
+  "role": "holdout"
+}
+
+Gönderilen metin:
+Değerli veliler,
+
+Cumartesi 10.00–11.00 arasında okul kütüphanesinde 5. ve 6. sınıflar için aile okuma saati düzenlenecek. Çocuğunuzla birlikte katılabilirsiniz. Etkinlik ücretsiz ve isteğe bağlıdır; ön kayıt gerekmiyor.
+
+İsteyen kendi kitabını getirebilir, kitap getirmeyenler kütüphaneden seçim yapabilir. İlk 35 dakika sessizce okuyacağız. Son 25 dakikada dileyenler okuduklarını paylaşacak; konuşmak zorunlu değil. Etkinlikte fotoğraf çekilmeyecek.
+
+Katılmayan öğrencilere telafi görevi verilmeyecek ve not kaybı olmayacak. Bu etkinlik için servis sağlanmıyor. Yer değişirse cuma günü sınıf iletişim grubundan bilgi verilecek.
