@@ -1,0 +1,176 @@
+{
+  "source": "/workspace/scratch/b87b0dc73dba/v3-evaluation/samples/c-v3-final.txt",
+  "candidate": "/workspace/scratch/b87b0dc73dba/v4-evaluation/samples/c-r13.txt",
+  "verdict": "PASS",
+  "summary": "All important source facts, participant permissions, negative obligations, event sequence, uncertainty, update timing, and photography consent conditions are preserved. No material omission, reversal, invented certainty, or new obligation.",
+  "material_meaning_errors": [],
+  "clause_mapping": [
+    {
+      "id": 1,
+      "source": "pazar günü saat 14.00'te kütüphanede",
+      "candidate": "Pazar günü saat 14.00'te kütüphanede",
+      "category": "time_and_place",
+      "status": "preserved"
+    },
+    {
+      "id": 2,
+      "source": "Yetişkinlere açık ... katılım ücretsiz",
+      "candidate": "Yetişkinlere açık ve ücretsiz",
+      "category": "eligibility_and_cost",
+      "status": "preserved"
+    },
+    {
+      "id": 3,
+      "source": "Önceden bir kitap bitirmeniz gerekmiyor",
+      "candidate": "Bitmiş bir kitap aranmıyor",
+      "category": "negative_obligation",
+      "status": "preserved"
+    },
+    {
+      "id": 4,
+      "source": "okuduğunuz ya da yarım bıraktığınız bir kitap üzerine konuşabilirsiniz",
+      "candidate": "okuyup bitirdiğiniz de olur, yarıda bıraktığınız da",
+      "category": "permission",
+      "status": "preserved",
+      "note": "Completed reading is explicit in candidate, while the no-completion requirement and permission to discuss abandoned books preserve the practical scope."
+    },
+    {
+      "id": 5,
+      "source": "Yalnızca dinlemek isterseniz söz almak zorunda değilsiniz",
+      "candidate": "Söz almak istemiyorsanız dinleyici olarak katılabilirsiniz",
+      "category": "permission_and_negative_obligation",
+      "status": "preserved"
+    },
+    {
+      "id": 6,
+      "source": "İlk bölümde söz almak isteyenler konuşacakları kitabı kısaca tanıtacak, ardından kitapla ilgili görüşler paylaşılacak",
+      "candidate": "İlk bölümde konuşmak isteyen önce kitabını kısaca tanıtacak, sonra kitap hakkında konuşulacak",
+      "category": "event_sequence",
+      "status": "preserved"
+    },
+    {
+      "id": 7,
+      "source": "Herkesin aynı fikirde olmasını beklemiyoruz",
+      "candidate": "Herkesin aynı düşüncede olmasını beklemiyoruz",
+      "category": "negative_expectation",
+      "status": "preserved"
+    },
+    {
+      "id": 8,
+      "source": "Birbirimizin sözünü kesmeden konuşmanızı ve farklı yorumları dinlemenizi rica ediyoruz",
+      "candidate": "Konuşurken birbirimizin sözünü kesmeyelim ... farklı yorumları da dinleyelim",
+      "category": "conduct_request",
+      "status": "preserved"
+    },
+    {
+      "id": 9,
+      "source": "kitabın sonunu anlatmanız gerekiyorsa lütfen önceden haber verin",
+      "candidate": "Kitabın sonunu anlatacağınız yere geldiğinizde, anlatmadan önce haber vermenizi rica ediyoruz",
+      "category": "conditional_request_and_timing",
+      "status": "preserved"
+    },
+    {
+      "id": 10,
+      "source": "Yanınızda kitap getirip getirmemek size kalmış",
+      "candidate": "Kitabı yanınızda bulundurma zorunluluğu yok. İsterseniz getirin",
+      "category": "permission_and_negative_obligation",
+      "status": "preserved"
+    },
+    {
+      "id": 11,
+      "source": "not almak isteyenler kendi defterlerini kullanabilir",
+      "candidate": "Not tutacaksanız kendi defterinizi kullanabilirsiniz",
+      "category": "permission",
+      "status": "preserved"
+    },
+    {
+      "id": 12,
+      "source": "Etkinlikte kitap satışı yapılmayacak",
+      "candidate": "Burada kitap satılmayacak",
+      "category": "negative_fact",
+      "status": "preserved"
+    },
+    {
+      "id": 13,
+      "source": "katılmak için kitap satın alma zorunluluğu da bulunmuyor",
+      "candidate": "gelmek için bir kitap satın almak da gerekmiyor",
+      "category": "negative_obligation",
+      "status": "preserved"
+    },
+    {
+      "id": 14,
+      "source": "Kayıt yöntemi ve kontenjan hakkında henüz bilgi paylaşılmadı, bu konularda kesin bir açıklama yapamıyoruz",
+      "candidate": "Kayıt yöntemiyle kontenjan açıklanmadı ... Bu konularda kesin bilgi veremiyoruz",
+      "category": "uncertainty_and_information_status",
+      "status": "preserved"
+    },
+    {
+      "id": 15,
+      "source": "Buluşmanın ne kadar süreceği de henüz belli değil",
+      "candidate": "buluşmanın süresi belli değil",
+      "category": "uncertainty",
+      "status": "preserved"
+    },
+    {
+      "id": 16,
+      "source": "Süre ve kayıt bilgileri netleştiğinde bu duyuru üzerinden paylaşılacak",
+      "candidate": "Süreyle kayıt bilgisi belli olduğunda bu duyuru güncellenecek",
+      "category": "conditional_future_update",
+      "status": "preserved"
+    },
+    {
+      "id": 17,
+      "source": "Fotoğraf çekimi yapılması durumunda katılımcılara önceden bilgi verilecek",
+      "candidate": "Çekim yapılırsa katılımcılar önceden bilgilendirilecek",
+      "category": "photography_condition_and_timing",
+      "status": "preserved",
+      "note": "The following two sentences establish the photographic meaning of the shortened word çekim; advance notice remains conditional on shooting."
+    },
+    {
+      "id": 18,
+      "source": "Fotoğrafta yer almak istemeyenlerin tercihine uyulacak",
+      "candidate": "Fotoğrafta olmak istemeyenlerin isteğine uyulacak",
+      "category": "photography_opt_out",
+      "status": "preserved"
+    },
+    {
+      "id": 19,
+      "source": "Buluşmaya katılmanız fotoğraf izni olarak kabul edilmeyecek",
+      "candidate": "Katıldınız diye fotoğraf çekimine izin vermiş sayılmayacaksınız",
+      "category": "photography_non_consent",
+      "status": "preserved"
+    }
+  ],
+  "readability": {
+    "verdict": "CLEAR_WITH_MINOR_STYLE_ISSUES",
+    "summary": "Readable, coherent, and understandable as a public notice. The register is more conversational than the source. Several phrases could be smoother, but none blocks understanding.",
+    "issues": [
+      {
+        "text": "Bitmiş bir kitap aranmıyor",
+        "severity": "minor",
+        "note": "Unidiomatic institutional phrasing for a reader participation requirement; the intended no-completion rule is still clear."
+      },
+      {
+        "text": "Kitabı yanınızda bulundurma zorunluluğu yok. İsterseniz getirin.",
+        "severity": "minor",
+        "note": "Switches from formal wording to a clipped conversational sentence; slightly uneven rhythm."
+      },
+      {
+        "text": "Kitabın sonunu anlatacağınız yere geldiğinizde, anlatmadan önce",
+        "severity": "minor",
+        "note": "Wordy and repetitive temporal construction."
+      },
+      {
+        "text": "Süreyle kayıt bilgisi",
+        "severity": "minor",
+        "note": "Compressed coordination is less smooth and precise than süre ve kayıt bilgileri."
+      },
+      {
+        "text": "Katıldınız diye",
+        "severity": "minor",
+        "note": "Conversational and slightly abrupt for a library notice, but the consent condition is unambiguous."
+      }
+    ]
+  },
+  "review_scope": "For this review only the specified original and c-r13 text files were read. No other files, scores, detectors, or web sources were inspected; candidate not edited."
+}

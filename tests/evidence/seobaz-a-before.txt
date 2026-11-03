@@ -1,0 +1,108 @@
+Browser tab: 3, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+0 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector
+	1 container
+		2 link Description: Seobaz homepage, Value: seobaz.com/en
+		3 link Description: SEO, Value: seobaz.com/en/seo-packages
+		4 link Description: GEO, Value: seobaz.com/en/geo
+		5 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		6 link Description: Other Services, Value: seobaz.com/en/ai-content-detector#
+		7 link Description: References, Value: seobaz.com/en/references
+		8 link Description: Blog, Value: seobaz.com/en/blog
+		9 link Description: Tools, Value: seobaz.com/en/tools
+		10 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+		11 link Description: Customer Panel, Value: seobaz.com/en/account
+		12 link Description: Cart, Value: seobaz.com/en/cart
+		13 image Seobaz
+		14 container Language
+			15 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+			16 link Description: English, Value: seobaz.com/en/ai-content-detector
+		17 link Description: Customer Panel, Value: seobaz.com/en/account
+		18 button Close
+		19 link Description: SEO, Value: seobaz.com/en/seo-packages
+		20 link Description: GEO, Value: seobaz.com/en/geo
+		21 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		22 button Other Services
+		23 link Description: References, Value: seobaz.com/en/references
+		24 link Description: Blog, Value: seobaz.com/en/blog
+		25 button Tools
+		26 link Description: Contact, Value: seobaz.com/en/contact
+		27 link Description: Gift Wheel, Value: seobaz.com/en/gift-wheel
+		28 link Description: Phone +90 850 840 95 39, Value: tel:+908508409539
+		29 link Description: WhatsApp Send us a message, Value: seobaz.com/en/whatsapp
+		30 link Description: Email info@seobaz.com, Value: mailto:info@seobaz.com
+	31 container
+		32 container
+			33 text Free AI Tool · Turkish Support
+			34 heading AI Content Detector: built for Turkish, Value: 1
+				35 text AI Content Detector:  built for Turkish
+			36 text This AI content detector, built with Turkish in mind, measures whether a text carries traces of ChatGPT, Gemini or Claude. Sentence rhythm and matches against a Turkish pattern lexicon are calculated first, then a language model's interpretation is layered on top: a 0-100 probability score, a confidence level and a signal breakdown with reasons. Free, no sign-up.
+		37 container
+			38 text AI Content Detector
+			39 heading Paste your text, Value: 2
+				40 text Paste your text
+			41 text A two-layer analysis: sentence rhythm, matches against a Turkish pattern lexicon and predicate monotony are measured first, then a language model's interpretation is layered on top. Minimum 200 and maximum 8,000 characters; for a sound measurement, use 150 words or more. Your text is never published; it is processed only for the analysis.
+			42 text entry area (settable) Bir çalışma planı hazırlanırken öncelikle hafta boyunca tamamlanması hedeflenen konuların belirlenmesi önerilir. Ardından okul saatleri ve diğer sorumluluklar göz önünde bulundurularak çalışmaya ayrılabilecek zamanın değerlendirilmesi gerekir. Bu süreçte her gün için aynı yoğunlukta görevler belirlemek yerine mevcut koşullara göre bir dağılım yapılması tercih edilebilir. Planın uygulanabilirliğini değerlendirmek amacıyla gün sonunda tamamlanan çalışmaların gözden geçirilmesi önerilir. Tamamlanamayan görevler için bunun nedenlerinin not edilmesi yararlı olabilir. Konunun beklenenden uzun sürmesi ile çalışmaya hiç başlanmaması birbirinden farklı durumlardır. Bu iki durumun aynı biçimde değerlendirilmemesi gerekir. İhtiyaç duyulduğunda çalışma süresinin veya görevin kapsamının yeniden düzenlenmesi düşünülebilir. Ayrıca yalnızca tamamlanan soru sayısına odaklanmak yerine yanlış yapılan soruların nedenlerinin incelenmesi önerilir. Anlaşılmayan bir adımın belirlenmesi, sonraki çalışmada hangi noktaya dönüleceğini gösterebilir. Planın boş kalan zamanlarına dinlenme ve kişisel ihtiyaçlar için de yer ayrılması uygun olabilir. Haftanın sonunda ise bütün görevleri yeniden listelemek yerine devam eden güçlüklerin ve uygulanabilen kararların kısa bir değerlendirmesi yapılabilir. Bir sonraki haftanın planı hazırlanırken bu notlardan yararlanılması önerilir. Bu öneriler herkes için aynı biçimde işleyecek kesin bir yöntem olarak görülmemelidir. Kişinin koşullarına göre değiştirilmesi mümkündür.
+			258 text 1503 characters Queries left: 9
+			44 button Try a sample text
+			45 button Analyze
+				266 text Analyze
+				267 image
+			268 text 69% AI PROBABILITY
+			269 text Mixed: AI with human editing is likely
+			270 text Medium confidence Likely range: 58% - 80% Text type: Study advice article
+			271 text The text is a single block of evenly paced, passive and heavily hedged advice sentences with no personal voice, concrete examples or irregularities. Hedging verbs repeat constantly and the text ends with a generic disclaimer, though study-advice content is naturally formulaic and the text is short.
+			272 container adSonuc
+				273 text 69% AI PROBABILITY
+				274 text Mixed: AI with human editing is likely
+				275 text Medium confidence Likely range: 58% - 80% Text type: Study advice article Measurement breakdown Linguistic analysis, calculated independently of the model
+				276 text Sentence rhythm
+				277 text 73/100
+				278 text Sentence lengths flow within a narrow band (variation 0.30); short sentences break up the rhythm.
+				279 text Pattern density
+				280 text 35/100
+				281 text Patterns matched: 2 ("göz önünde bulundurul", "ayrıca"), 1/15 sentences open with a connector.
+				282 text Monotony of style
+				283 text 50/100
+				284 text Set predicate ("-dır/-dir") ratio 20%, sentence endings repeat each other, punctuation is almost only periods and commas.
+				285 text Human traces
+				286 text 0/100
+				287 text No traces of personal experience, conversational language or typing noise were found.
+				288 text Signal measurements Values are calculated from the text; they are measurements, not labels
+				289 text SENTENCE RHYTHM
+				290 text Sentence length variability 0.30 Sentences of similar length 73% Share of short sentences 7% Paragraph length balance not enough paragraphs
+				291 text PATTERN DENSITY
+				292 text Matched set phrases 2 patterns Sentences starting with a connector 1/15 Ending with "-maktadır / -mektedir" 0 sentences Use of long dashes 0 found Formatting leftovers (**, ##, bullets) 0 marks Rule-of-three lists 0 sentences
+				293 text MONOTONY OF STYLE
+				294 text Sentences ending in "-dır / -dir" 20% Variety of sentence endings 0.33 Punctuation marks used 0/9 types Vocabulary variety 0.97 Repeated phrases 0%
+				295 text HUMAN TRACES
+				296 text Personal experience and conversational tone none found Typing irregularities none found Concrete data (numbers, dates, names) 0.0/100 words Evidence found Red: AI traces · Green: human traces göz önünde bulundurul ×1 ayrıca ×1 Most suspicious sentences Verified word for word in the text Bu öneriler herkes için aynı biçimde işleyecek kesin bir yöntem olarak görülmemelidir.
+				297 text Generic disclaimer closing in a safe, balanced tone typical of AI output.
+				298 text Kişinin koşullarına göre değiştirilmesi mümkündür.
+				299 text Vague, formulaic final line that adds no concrete content.
+				300 text Konunun beklenenden uzun sürmesi ile çalışmaya hiç başlanmaması birbirinden farklı durumlardır.
+				301 text Neat abstract contrast stated without any example, followed by a symmetrical sentence.
+				302 text Ardından okul saatleri ve diğer sorumluluklar göz önünde bulundurularak çalışmaya ayrılabilecek zamanın değerlendirilmesi gerekir.
+				303 text Heavily nominalized and passive; reads as stiff, template-like phrasing.
+				304 container
+					305 text Bir çalışma planı hazırlanırken öncelikle hafta boyunca tamamlanması hedeflenen konuların belirlenmesi önerilir.  Ardından okul saatleri ve diğer sorumluluklar göz önünde bulundurularak çalışmaya ayrılabilecek zamanın değerlendirilmesi gerekir.  Bu süreçte her gün için aynı yoğunlukta görevler belirlemek yerine mevcut koşullara göre bir dağılım yapılması tercih edilebilir. Planın uygulanabilirliğini değerlendirmek amacıyla gün sonunda tamamlanan çalışmaların gözden geçirilmesi önerilir. Tamamlanamayan görevler için bunun nedenlerinin not edilmesi yararlı olabilir.  Konunun beklenenden uzun sürmesi ile çalışmaya hiç başlanmaması birbirinden farklı durumlardır.  Bu iki durumun aynı biçimde değerlendirilmemesi gerekir. İhtiyaç duyulduğunda çalışma süresinin veya görevin kapsamının yeniden düzenlenmesi düşünülebilir. Ayrıca yalnızca tamamlanan soru sayısına odaklanmak yerine yanlış yapılan soruların nedenlerinin incelenmesi önerilir. Anlaşılmayan bir adımın belirlenmesi, sonraki çalışmada hangi noktaya dönüleceğini gösterebilir. Planın boş kalan zamanlarına dinlenme ve kişisel ihtiyaçlar için de yer ayrılması uygun olabilir. Haftanın sonunda ise bütün görevleri yeniden listelemek yerine devam eden güçlüklerin ve uygulanabilen kararların kısa bir değerlendirmesi yapılabilir. Bir sonraki haftanın planı hazırlanırken bu notlardan yararlanılması önerilir.  Bu öneriler herkes için aynı biçimde işleyecek kesin bir yöntem olarak görülmemelidir. Kişinin koşullarına göre değiştirilmesi mümkündür.
+				306 text Interpretation layer signals Language model assessment Uniform impersonal register
+				307 text Nearly every sentence uses a passive or nominalized structure such as 'önerilir', 'gerekir', 'yapılabilir', with no first or second person voice.
+				308 text Repeated hedging
+				309 text Hedges like 'tercih edilebilir', 'yararlı olabilir', 'uygun olabilir', 'düşünülebilir' recur throughout, giving a cautious, evenly balanced tone typical of model output.
+				310 text Narrow sentence rhythm
+				311 text Sentence lengths stay in a tight band (burstiness 0.30), which is within the range of raw model output.
+				312 text No human traces
+				313 text There are no personal anecdotes, concrete examples (subjects, hours, numbers), colloquialisms or typos; the advice stays generic.
+				314 text Disclaimer ending
+				315 text The text closes with a generic caveat that the suggestions are not a universal method, a common model-style wrap-up.
+				316 text How to lower the score Specific to this text, based on measured findings 1 Vary your sentence lengths: there is a monotonous rhythm of 11.5 words on average. Mix in short sentences of 3-5 words. 2 The text shows no trace of lived experience. Add a date, a number, a name or a single example from your own experience; that alone lowers the score noticeably. 3 Add concrete detail, such as a sample day ('Salı akşamı 40 dakika paragraf sorusu çözdüm'), to replace the abstract advice. 4 Vary the voice: use some direct address or first person ('bence', 'denemeni öneririm') and break up the constant passive 'önerilir' endings. 5 Mix sentence lengths, with a few very short blunt sentences and one or two longer ones, and cut some of the repeated hedges and the closing disclaimer. WORDS 173 SENTENCES 15 AVG. SENTENCE 11.5 words RHYTHM VARIATION 0.3
+				317 text ⚠️ No AI detector can give a definitive result; this score is an indicator of probability, not proof. Do not rely on it alone for important decisions (academic assessment, hiring and so on).
+			51 text Was this tool useful?
+			52 container Was this tool useful?
+				53 checkbox Description: 1 stars, Value: 0
+				54 checkbox Description: 2 stars, Value: 0
+				55 checkbox Description: 3 stars, Value: 0
+				56 checkbox Description: 4 stars, Value: 0
+				57 checkbox Description: 5 stars, Value: 0
+			58 text 4.5  / 5 ·  54 ratings
+		59 container

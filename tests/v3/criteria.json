@@ -1,0 +1,7 @@
+{
+ "protocol":"Önce metinler sabitlenir. B geliştirme örneği, C ayrılmış örnektir. İkisi AI üretimi; insan kontrolü değiller. C sonucu görülerek kural ayarı yapılmaz. Yalnızca bütün anlam kontrollerini karşılayan aday dikkate alınır. En fazla iki gerekçeli B revizyonu; hata/kota null.",
+ "B":["Kesinleşmiş uygulama kararı yok","kişisel notlar ve ortak dosyalar ayrı","silme/taşıma istenmiyor","somut sorun ve klasör adı örneği","şablon şart değil","özel bilgi/dosya içeriği istenmiyor","görüş sonrası taslak","uzlaşmadan değişiklik yok","toplantı tarihi belirsiz ve sonra bildirilecek"],
+ "C":["pazar14 kütüphane ücretsiz yetişkinler","kitabı bitirme şartı ve konuşma zorunluluğu yok","ilk tanıtım sonra görüşler","aynı fikir şartı yok, söz kesmeme","sonu açıklarken uyarı","kitap isteğe bağlı kendi defteri","satış/alım zorunluluğu yok","kayıt ve kontenjan bilinmiyor","süre bilinmiyor aynı duyuruda güncellenecek","fotoğraf varsa önbilgi, tercih, katılım izin değil"],
+ "score_semantics":"Her hizmetin kendi skoru/etiketi; birbirleriyle ortalama alınmaz. Seobaz 0–39 ve WrittenCheck 0–44 sayfanın insan ağırlıklı etiket aralıkları; yazarlık kanıtı değiller.",
+ "style":"Mecraya uygunluk, tekrar, açıklık; yazım hatası/gizli karakter/sahte anı eklememe. Uzunluk değişimini kaydet."
+}

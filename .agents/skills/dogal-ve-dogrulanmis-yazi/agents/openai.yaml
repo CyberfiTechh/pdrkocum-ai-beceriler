@@ -1,0 +1,4 @@
+interface:
+  display_name: "Doğal ve Doğrulanmış Yazı"
+  short_description: "Doğal Türkçe yaz; iddiaları doğrula, bilgi uydurma."
+  default_prompt: "$dogal-ve-dogrulanmis-yazi ile metnimi anlamını koruyarak doğal Türkçeyle düzenle ve dayanaksız iddiaları belirt."

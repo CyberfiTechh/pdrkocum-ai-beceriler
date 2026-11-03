@@ -1,0 +1,11 @@
+{
+  "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+  "draft_sha256": "117ac6a6894e0f53b9c34ba55d3b5cf31c5d19ce1be2b984c4f363afb0045c33",
+  "segments": 5,
+  "fact_or_inference_segments": 3,
+  "sources": 1,
+  "limitations": [
+    "Source retrieval and authenticity are not verified.",
+    "Claim classification, entailment, completeness, freshness and truth require semantic review."
+  ]
+}

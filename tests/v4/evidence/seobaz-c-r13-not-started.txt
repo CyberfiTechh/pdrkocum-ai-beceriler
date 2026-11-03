@@ -1,0 +1,273 @@
+Browser tab: 8, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+1 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector
+	2 container
+		3 link Description: Seobaz homepage, Value: seobaz.com/en
+		4 link Description: SEO, Value: seobaz.com/en/seo-packages
+		5 link Description: GEO, Value: seobaz.com/en/geo
+		6 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		7 link Description: Other Services, Value: seobaz.com/en/ai-content-detector#
+		8 link Description: References, Value: seobaz.com/en/references
+		9 link Description: Blog, Value: seobaz.com/en/blog
+		10 link Description: Tools, Value: seobaz.com/en/tools
+		11 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+		12 link Description: Customer Panel, Value: seobaz.com/en/account
+		13 link Description: Cart, Value: seobaz.com/en/cart
+		14 image Seobaz
+		15 container Language
+			16 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+			17 link Description: English, Value: seobaz.com/en/ai-content-detector
+		18 link Description: Customer Panel, Value: seobaz.com/en/account
+		19 button Close
+		20 link Description: SEO, Value: seobaz.com/en/seo-packages
+		21 link Description: GEO, Value: seobaz.com/en/geo
+		22 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		23 button Other Services
+		24 link Description: References, Value: seobaz.com/en/references
+		25 link Description: Blog, Value: seobaz.com/en/blog
+		26 button Tools
+		27 link Description: Contact, Value: seobaz.com/en/contact
+		28 link Description: Gift Wheel, Value: seobaz.com/en/gift-wheel
+		29 link Description: Phone +90 850 840 95 39, Value: tel:+908508409539
+		30 link Description: WhatsApp Send us a message, Value: seobaz.com/en/whatsapp
+		31 link Description: Email info@seobaz.com, Value: mailto:info@seobaz.com
+	32 container
+		33 container
+			34 text Free AI Tool · Turkish Support
+			35 heading AI Content Detector: built for Turkish, Value: 1
+				36 text AI Content Detector:  built for Turkish
+			37 text This AI content detector, built with Turkish in mind, measures whether a text carries traces of ChatGPT, Gemini or Claude. Sentence rhythm and matches against a Turkish pattern lexicon are calculated first, then a language model's interpretation is layered on top: a 0-100 probability score, a confidence level and a signal breakdown with reasons. Free, no sign-up.
+		38 container
+			39 text AI Content Detector
+			40 heading Paste your text, Value: 2
+				41 text Paste your text
+			42 text A two-layer analysis: sentence rhythm, matches against a Turkish pattern lexicon and predicate monotony are measured first, then a language model's interpretation is layered on top. Minimum 200 and maximum 8,000 characters; for a sound measurement, use 150 words or more. Your text is never published; it is processed only for the analysis.
+			43 text entry area (settable) Pazar günü saat 14.00'te kütüphanede okuma buluşması var. Yetişkinlere açık ve ücretsiz. İlk bölümde konuşmak isteyen önce kitabını kısaca tanıtacak, sonra kitap hakkında konuşulacak. Bitmiş bir kitap aranmıyor: okuyup bitirdiğiniz de olur, yarıda bıraktığınız da. Söz almak istemiyorsanız dinleyici olarak katılabilirsiniz.
+
+Kitabı yanınızda bulundurma zorunluluğu yok. İsterseniz getirin. Not tutacaksanız kendi defterinizi kullanabilirsiniz. Burada kitap satılmayacak; gelmek için bir kitap satın almak da gerekmiyor.
+
+Konuşurken birbirimizin sözünü kesmeyelim. Herkesin aynı düşüncede olmasını beklemiyoruz ama farklı yorumları da dinleyelim. Kitabın sonunu anlatacağınız yere geldiğinizde, anlatmadan önce haber vermenizi rica ediyoruz.
+
+Kayıt yöntemiyle kontenjan açıklanmadı, buluşmanın süresi belli değil. Bu konularda kesin bilgi veremiyoruz. Süreyle kayıt bilgisi belli olduğunda bu duyuru güncellenecek.
+
+Çekim yapılırsa katılımcılar önceden bilgilendirilecek. Fotoğrafta olmak istemeyenlerin isteğine uyulacak. Katıldınız diye fotoğraf çekimine izin vermiş sayılmayacaksınız.
+
+			259 text 1088 characters
+			45 button Try a sample text
+			46 button Analyze
+				47 text Analyze
+				48 image
+			49 text 🔍
+			50 text Your result will appear here
+			51 text Paste the text into the box on the left and click Analyze. Linguistic measurements run first, then a language model's interpretation is layered on top.
+			52 text Was this tool useful?
+			53 container Was this tool useful?
+				54 checkbox Description: 1 stars, Value: 0
+				55 checkbox Description: 2 stars, Value: 0
+				56 checkbox Description: 3 stars, Value: 0
+				57 checkbox Description: 4 stars, Value: 0
+				58 checkbox Description: 5 stars, Value: 0
+			59 text 4.5  / 5 ·  54 ratings
+		60 container
+			61 heading What is an AI content detector?, Value: 2
+				62 text What is an AI content detector?
+			63 container
+				64 text An AI content detector (AI detector for short) is an analysis tool that estimates how likely a text is to have been written with a large language model such as ChatGPT, Gemini or Claude; it became a software category of its own after OpenAI released ChatGPT in  November 2022 . What it measures is probability, not certainty: the result is a score from  0-100  together with a breakdown of the signals behind it. The first widely used example came in  January 2023 , when Princeton student Edward Tian released GPTZero; within two years the category spread from modules built into education platforms such as Turnitin to open tools that run in the browser. The layer under examination is the same in every tool: sentence rhythm, word predictability, pattern density and the share of concrete detail are scored together.
+			65 heading Which signals does an AI detection tool scan for?, Value: 2
+				66 text Which signals does an AI detection tool scan for?
+			67 text Three families of signals determine most of the score: rhythm, patterns and experience. An AI detection tool scans these families at sentence level, weights the findings and turns the total into a probability score; the tool on this page also lists each signal with its reason.
+			68 content list
+				69 container
+					70 text Burstiness  (rhythm variation): human writing mixes short and long sentences, while model output flows within a narrow length band. The  perplexity  (predictability) measure popularized by GPTZero belongs to this family too: the more predictable the next word, the more the text looks like model output.
+				71 text Clichéd patterns: filler phrases such as "plays an important role" and "however", closing sentences that sum up every paragraph, and an intro, three points and conclusion symmetry are the fingerprints of unedited model output.
+				72 text Lack of experience: general truths with no dates, places, people, prices or real events. A human writer leaves concrete traces in the text; a model either produces none or makes them up.
+			73 text No single signal decides on its own. A formal petition can be full of set phrases, and an experienced technical writer can write with an even rhythm; that is why the score is calculated from where the signals overlap, and the breakdown shows which family weighs most. The weights are not equal either: lack of experience alone is a weak sign, but when it stacks up with rhythm and pattern findings, it pushes the score up quickly.
+			74 heading How does this AI detector work?, Value: 2
+				75 text How does this AI detector work?
+			76 container
+				77 text The AI detector here runs two layers and produces the score by blending them. The first layer takes linguistic measurements: it uses no AI and always gives the same numbers for the same text. It measures variation in sentence length ( burstiness ), matches against a Turkish pattern lexicon, predicate monotony, variety in sentence-final suffixes, richness of punctuation and signs of human writing. The second layer is a language model: it reads the text, identifies its type and interprets it with the first layer's measurements in view. The text type helps reduce false positives; a contract or technical document reads formulaically even when a person wrote it, and the model takes that expectation into account.
+			78 container
+				79 text Two Turkish-specific measurements widen the gap. The first is  predicate monotony : the share of sentences ending with the "-dır / -dir" copula pattern. In calibration texts this ratio measured between  0.92 and 1.00  in raw model output and between  0.00 and 0.29  in human writing. The second is  variety in sentence-final suffixes : model output ends sentences with similar suffixes, human writing does not. Detectors designed for English struggle with Turkish because they never measure this layer; word predictability on its own is misread in an agglutinative language.
+			80 text The blend determines three things. The statistical layer's weight grows as the text gets longer, because variance is unreliable in short texts. When the two layers agree, confidence rises; when they diverge, the score is pulled toward the middle and the likely range widens, which is why the result is given as a band rather than a single number. Suspicious sentences flagged by the language model are searched for word for word in the text before they are shown: quotes that do not appear in the text are discarded, so fabricated evidence cannot get into the result.
+			81 heading How accurate are detection results?, Value: 2
+				82 text How accurate are detection results?
+			83 container
+				84 text No detector gives a definitive result; the makers themselves showed the limits most clearly. OpenAI shut down its own text classifier in  July 2023 , citing low accuracy; even the tool's launch note put its true positive rate at  26% . A 2023 Stanford study published in  Patterns  (Liang et al.) measured the other side of the coin: seven popular detectors wrongly flagged TOEFL essays by non-native English writers as AI an average of  61%  of the time.
+			85 text In practice, errors pile up in two directions. Short, formal or template-bound human text drifts toward false positives (human writing mistaken for AI), while model output rewritten by a person dilutes the signals and slips the other way, into false negatives. That is why the score is read as an indicator, not proof; in consequential assessments such as grading, hiring or publishing decisions, it is combined with a second layer of verification.
+			86 heading Where does the Turnitin AI detector fit in academic assessment?, Value: 2
+				87 text Where does the Turnitin AI detector fit in academic assessment?
+			88 container
+				89 text Turnitin added AI writing detection alongside its similarity report in  April 2023 ; widely used in higher education, the system has been at the center of the academic AI debate ever since. The company's own guidance sets two limits: the document-level false positive rate is stated to be below  1% , and the score alone should not be grounds for sanctions. Even at such a low rate, an unfair flag is statistically likely in a term with a hundred assignments, which is why the guidance leaves the final decision to a person. Experienced instructors treat the score as a starting point: verifying the flagged section with the student in an oral exam and assessing subject mastery independently of the written work count for more than the report itself.
+			90 heading Does Google penalize AI content?, Value: 2
+				91 text Does Google penalize AI content?
+			92 container
+				93 text Google evaluates the result, not the production method. The company's 
+				94 link Description: guidance on AI content, Value: developers.google.com/search/blog/2023/02/google-search-and-ai-content
+				95 text  from  February 2023  says that quality content is rewarded however it is produced, while using automation to manipulate rankings violates its spam policies. The  March 2024  update drew the line more sharply: scaled content abuse became a separate spam policy, and Google announced that it expected to reduce low-quality, unoriginal content in results by  40% . The policy did not stay on paper: manual actions issued alongside the update removed sites publishing mass-produced content from the index.
+			96 container
+				97 text That is where the risk calculation comes from for content creators. Raw model output lacks the Experience dimension added to the quality rater guidelines in  December 2022  and does not stand out from thousands of similar texts generated from the same prompt; before any penalty risk, it risks being invisible. Publications that blend model output with data, case studies and editorial review are not the target of these policies. Teams publishing AI-assisted content can see the current state of their page quality with a 
+				98 link Description: free analysis, Value: seobaz.com/en/free-analysis
+				99 text  report; content auditing and AI Visibility work are part of our 
+				100 link Description: SEO packages, Value: seobaz.com/en/seo-packages
+				101 text .
+			102 heading Why are AI detectors for Turkish so rare?, Value: 2
+				103 text Why are AI detectors for Turkish so rare?
+			104 text AI detectors that support Turkish are rare because detector models are trained mostly on English text and the signals depend on the language. Turkish's agglutinative structure makes the job harder still: a single root produces dozens of inflected forms, and a predictability measure tuned for English can misread that variety. The cliché layer also changes from language to language; while words like "delve" and "tapestry" stand out in English model output, the fingerprint of Turkish output is the "günümüz dünyasında" ("in today's world") family. The AI detector on this page scans Turkish pattern families with a weighted lexicon, separately measures predicate monotony and sentence-final suffix variety, and explains its reasoning in the language of the page you use.
+			105 heading What is the difference between an AI text detector and an image detector?, Value: 2
+				106 text What is the difference between an AI text detector and an image detector?
+			107 container
+				108 text An AI text detector reads language statistics; an image detector looks for pixel traces and provenance records. On the text side, all you have is words, so the result is always a statistical estimate. On the image side, the maker can leave a trace: since  August 2023 , Google DeepMind's SynthID has embedded an invisible watermark in the output of Google's own image models, and the C2PA coalition, co-founded by Adobe and Microsoft, attaches Content Credentials that carry a file's editing history. There are watermarking attempts for text too: Google open-sourced the text version of SynthID in  October 2024 , but the mark is largely erased when watermarked text is rewritten. Provenance can be proven for images; for text, estimation remains the norm.
+			109 heading How should you read the score bands?, Value: 2
+				110 text How should you read the score bands?
+			111 container
+				112 text The score is read in three bands:  0-39  indicates mostly human writing,  40-69  mixed production and  70-100  heavy model traces. A band's meaning comes from how consistent the signals are; in texts that reach the top band, several signal families stack up in the same direction.
+			113 table
+				114 row
+					115 cell
+						116 text Score
+					117 cell
+						118 text Reading
+					119 cell
+						120 text Editorial step
+				121 row
+					122 cell
+						123 text 0-39
+					124 cell
+						125 text Most likely human-written; signals are weak and scattered.
+					126 cell
+						127 text A routine editorial check is enough.
+				128 row
+					129 cell
+						130 text 40-69
+					131 cell
+						132 text Mixed: human editing on a model draft, or templated human writing.
+					133 cell
+						134 text Ask for an additional sample and discuss the flagged sections with the writer.
+				135 row
+					136 cell
+						137 text 70-100
+					138 cell
+						139 text Most likely model-generated; signals are dense and consistent.
+					140 cell
+						141 text Ask for evidence of the writing process; do not publish the text without revising it.
+			142 text The middle band is the most misread. Formal correspondence, regulatory summaries and technical documents follow set patterns, so they can land in the 40-69 range even when written by a person; a well-edited model draft climbs into the same band. In this range the score alone does not settle anything: enlarge the sample, compare with the same writer's earlier texts and read the reasons in the breakdown one by one. When reviewing in bulk, triage saves time: instead of reading dozens of texts one by one, set aside the scores above 70 first and give that group the in-depth review, so editorial time goes where it is needed.
+			143 heading What does an AI detector give you, and what can't it guarantee?, Value: 2
+				144 text What does an AI detector give you, and what can't it guarantee?
+			145 text The tool gives you two things: screening in seconds and a readable list of reasons behind every score. What it cannot guarantee is certainty; OpenAI shutting down its own classifier and Stanford's false positive findings show that the accuracy ceiling belongs to the whole category, not to one tool. The right role depends on the user: the tool is in the right place when a content creator runs it as a final check before publishing, an instructor as a first filter before oral verification, or an editor as screening when taking in content in bulk. Any scenario that makes the score the sole judge invites two errors at once: human text flagged unfairly and model text that slips through.
+			146 text Frequently Asked Questions
+			147 heading Common Questions, Value: 2
+				148 text Common Questions
+			149 text The most common questions about AI content detection, accuracy and SEO impact.
+			150 button What does free access to the AI detector include?
+			151 text Free access to the Seobaz tool needs no account: paste your text and, within your daily quota, you get a score and a signal breakdown. A single analysis handles up to 8,000 characters (about 1,200 words). Members get a higher daily limit; there is no credit card or trial period requirement.
+			152 button How do I start an analysis?
+			153 text Paste the text into the box; the Analyze button becomes active once the counter passes 200 characters. The result opens on the same page as a score card, a verdict label and a list of signals with reasons. If the score is not what you expected, adding the rest of the text and running the analysis again gives a more reliable result than a single paragraph.
+			154 button Why does the AI detector give a range instead of a single number?
+			155 text There are two layers behind the score: linguistic measurement and a language model's interpretation. When both point the same way, the range narrows and confidence rises; when they diverge, the range widens and confidence drops. A single number would claim a certainty that does not exist; the range shows directly how settled the result is. The measurement layer has no randomness, so analyzing the same text again gives the same result.
+			156 button Is text written with ChatGPT always detected?
+			157 text No. Raw ChatGPT output is easy to catch because of its dense patterns; a version rewritten by a person, with personal examples and data added, lowers the score noticeably. Each new model family changes its patterns, so ChatGPT detection is a moving target: short gaps open up until detectors update their calibration.
+			158 button Does the Turnitin AI detector do the same job as this tool?
+			159 text Both produce a probability estimate, but they sit in different places: the Turnitin report is built into the assignment submission system and is visible only to instructors, while this tool gives everyone the same result on the open web. A student who checks their text here before submitting can spot risky sections in advance, but since the two tools use different models, the scores will not match exactly.
+			160 button How can I defend my text if it is flagged by mistake?
+			161 text Show the trail of your writing process: Google Docs or Word version history, draft files and source notes prove that the text was written in stages. In formal appeals, evidence of process carries more weight than a single score; reminding the assessor that the score is a probability estimate, not a final verdict, is a legitimate argument.
+			162 button Why can translated texts score high?
+			163 text Machine translation is model output too: text translated with Google Translate or DeepL can score high because it carries a model's rhythm, even if the source was written by a person. Human translation keeps its own sentence structure and scores lower; when evaluating translated content, read the score with that in mind.
+			164 button Is the text I paste stored?
+			165 text The text is processed only for the analysis; the content is never published and never shared with third parties. If you check the same text again shortly afterwards, the result comes from a short-term cache: this saves your daily quota and ensures the same text gets the same score.
+			166 text Publish your content on authoritative news sites.
+			167 link Description: Sponsored articles , Value: seobaz.com/en/sponsored-articles
+			168 container
+				169 text Content in the AI Era
+				170 heading Not content that dodges AI detection, but content that earns its place, Value: 2
+					171 text Not content that dodges AI detection, but content that earns its place
+				172 text Let's build a content strategy that adds experience, carries expertise and gets cited in AI search.
+			173 container
+				174 link Description: Explore SEO Packages, Value: seobaz.com/en/seo-packages
+				175 link Description: AI Visibility, Value: seobaz.com/en/ai-visibility
+	176 container
+		177 image Seobaz
+		178 text A strategy agency building SEO, GEO and AI Visibility strategies for brands.
+		179 text MERSIN OFFICE
+		180 container
+			181 text Limonluk, 2453 Sk No: 3/C
+			182 text Yenişehir / Mersin
+		183 link Description: +90 850 840 95 39, Value: tel:+908508409539
+		184 text ISTANBUL OFFICE
+		185 container
+			186 text İstinye, Kaplıcalar Cd No: 7/A
+			187 text Sarıyer / İstanbul
+		188 link Description: info@seobaz.com, Value: mailto:info@seobaz.com
+		189 text SEO SERVICES
+		190 link Description: SEO Packages, Value: seobaz.com/en/seo-packages
+		191 link Description: SEO Agency, Value: seobaz.com/en/seo-agency
+		192 link Description: SEO Consulting, Value: seobaz.com/en/seo-consulting
+		193 link Description: GEO Service, Value: seobaz.com/en/geo
+		194 link Description: AI Visibility, Value: seobaz.com/en/ai-visibility
+		195 link Description: Web Design, Value: seobaz.com/en/web-design
+		196 text SERVICES
+		197 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		198 link Description: Sponsored Articles, Value: seobaz.com/en/sponsored-articles
+		199 link Description: Press Release, Value: seobaz.com/en/press-release
+		200 link Description: Google Ads, Value: seobaz.com/en/google-ads
+		201 link Description: Social Media, Value: seobaz.com/en/social-media
+		202 link Description: WordPress News Theme, Value: seobaz.com/en/wordpress-news-theme
+		203 text GEO & AI RESOURCES
+		204 link Description: What Is GEO?, Value: seobaz.com/en/blog/what-is-generative-engine-optimization-geo
+		205 link Description: What Is AEO?, Value: seobaz.com/en/blog/what-is-aeo
+		206 link Description: Google AI Overview, Value: seobaz.com/en/blog/how-to-appear-in-google-ai-overviews
+		207 link Description: ChatGPT GEO, Value: seobaz.com/en/blog/chatgpt-geo-guide
+		208 link Description: Gemini GEO, Value: seobaz.com/en/blog/gemini-geo-how-to-get-cited
+		209 link Description: Perplexity GEO, Value: seobaz.com/en/blog/perplexity-geo-guide
+		210 text COMPANY
+		211 link Description: About Us, Value: seobaz.com/en/about-us
+		212 link Description: Contact, Value: seobaz.com/en/contact
+		213 link Description: Delivery and Refund Policy, Value: seobaz.com/en/delivery-and-refund-policy
+		214 link Description: Sales Agreement, Value: seobaz.com/en/distance-sales-agreement
+		215 link Description: Privacy Policy, Value: seobaz.com/en/privacy-policy
+		216 link Description: Cookie Policy, Value: seobaz.com/en/cookie-policy
+		217 text SEO BY CITY
+		218 link Description: Istanbul SEO Agency, Value: seobaz.com/en/istanbul-seo-agency
+		219 link Description: Ankara SEO Agency, Value: seobaz.com/en/ankara-seo-agency
+		220 link Description: Izmir SEO Agency, Value: seobaz.com/en/izmir-seo-agency
+		221 link Description: Mersin SEO Agency, Value: seobaz.com/en/mersin-seo-agency
+		222 text Partnerships Official partnerships with the industry's leading platforms.
+		223 image Google Partner
+		224 text Google Partner
+		225 image Semrush
+		226 text Semrush
+		227 image Yandex
+		228 text Yandex
+		229 image Meta
+		230 text Meta Ask AI for a summary Ask your favorite AI engine about Seobaz in one click.
+		231 link Description: Ask ChatGPT, Value: chat.openai.com/?q=Can%20you%20give%20me%20a%20short%20overview%20of%20Seobaz%20%28seobaz.com%29%3F%20What%20services%20does%20it%20offer%2C%20and%20how%20does%20its%20SEO%20%2B%20GEO%20%2B%20AEO%20approach%20help%20brands%20stand%20out%20in%20Google%20and%20AI%20search%3F%20Summarize%20its%20key%20services%20and%20strengths.
+		232 link Description: Ask Claude, Value: claude.ai/new?q=Can%20you%20give%20me%20a%20short%20overview%20of%20Seobaz%20%28seobaz.com%29%3F%20What%20services%20does%20it%20offer%2C%20and%20how%20does%20its%20SEO%20%2B%20GEO%20%2B%20AEO%20approach%20help%20brands%20stand%20out%20in%20Google%20and%20AI%20search%3F%20Summarize%20its%20key%20services%20and%20strengths.
+		233 link Description: Ask Gemini, Value: aistudio.google.com/prompts/new_chat?prompt=Can%20you%20give%20me%20a%20short%20overview%20of%20Seobaz%20%28seobaz.com%29%3F%20What%20services%20does%20it%20offer%2C%20and%20how%20does%20its%20SEO%20%2B%20GEO%20%2B%20AEO%20approach%20help%20brands%20stand%20out%20in%20Google%20and%20AI%20search%3F%20Summarize%20its%20key%20services%20and%20strengths.
+		234 link Description: Ask Perplexity, Value: perplexity.ai/?q=Can%20you%20give%20me%20a%20short%20overview%20of%20Seobaz%20%28seobaz.com%29%3F%20What%20services%20does%20it%20offer%2C%20and%20how%20does%20its%20SEO%20%2B%20GEO%20%2B%20AEO%20approach%20help%20brands%20stand%20out%20in%20Google%20and%20AI%20search%3F%20Summarize%20its%20key%20services%20and%20strengths.
+		235 link Description: Ask Grok, Value: x.com/i/grok?text=Can%20you%20give%20me%20a%20short%20overview%20of%20Seobaz%20%28seobaz.com%29%3F%20What%20services%20does%20it%20offer%2C%20and%20how%20does%20its%20SEO%20%2B%20GEO%20%2B%20AEO%20approach%20help%20brands%20stand%20out%20in%20Google%20and%20AI%20search%3F%20Summarize%20its%20key%20services%20and%20strengths.
+		236 text © 2014 – 2026 Seobaz · All Rights Reserved.
+		237 image Visa payments accepted
+		238 image Mastercard payments accepted
+		239 container DMCA-badge
+			240 link Description: DMCA, Value: dmca.com/
+			241 link Description: PROTECTED, Help: DMCA, Value: dmca.com/Protection/Status.aspx?ID=a018e669-5e60-47f4-99d1-5099577d3cdf&refurl=https://seobaz.com/
+		242 text Seobaz is a registered trademark of Seobaz Bilişim Limited Şirketi · Registration No: 2020/169521
+		243 link Description: Seobaz linkedin, Value: tr.linkedin.com/company/seobaz
+		244 link Description: Seobaz instagram, Value: instagram.com/seobaz/
+		245 link Description: Seobaz facebook, Value: facebook.com/seobaz/
+		246 link Description: Seobaz x, Value: twitter.com/seobaz/
+		247 container Language
+			248 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+			249 link Description: English, Value: seobaz.com/en/ai-content-detector
+		250 link Description: llms.txt AI Ready, Value: seobaz.com/llms.txt
+	251 container Quick contact
+		252 link Description: Message us on WhatsApp, Value: seobaz.com/en/whatsapp
+		253 link Description: Call us: +90 850 840 95 39, Value: tel:+908508409539
+		254 link Description: Gift Wheel, Value: seobaz.com/en/gift-wheel
+	255 container
+		256 text Added to cart
+		257 link Description: View Cart, Value: seobaz.com/en/cart
+	258 container reCAPTCHA
+		260 AXWebArea reCAPTCHA, URL: google.com/recaptcha/api2/anchor?ar=1&k=6Ld3LuMqAAAAAG9vQOwUpHa7SPHeKoCZKJKPCu5p&co=aHR0cHM6Ly9zZW9iYXouY29tOjQ0Mw..&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&size=invisible&badge=bottomright&anchor-ms=20000&execute-ms=30000&cb=ulpel9cmd2c2
+			261 text protected by 
+			262 text reCAPTCHA
+
+The focused UI element is 1 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector

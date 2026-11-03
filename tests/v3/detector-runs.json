@@ -1,0 +1,206 @@
+[
+  {
+    "sample": "b-baseline",
+    "service": "Seobaz",
+    "score": 36,
+    "range": [
+      27,
+      45
+    ],
+    "label": "Most likely human-written",
+    "observed_at": "2026-11-03T09:11:33.002Z",
+    "sha256": "5a0a60c87ad27d7d150c6361c0d8e28edd5fd512b6bc4bdde8a965997ff8f3bb",
+    "local_word_count": 155,
+    "url": "https://seobaz.com/en/ai-content-detector",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "b-baseline",
+    "service": "WrittenCheck",
+    "score": 100,
+    "range": [
+      92,
+      100
+    ],
+    "label": "Büyük olasılıkla yapay zeka",
+    "observed_at": "2026-11-03T09:11:33.002Z",
+    "sha256": "5a0a60c87ad27d7d150c6361c0d8e28edd5fd512b6bc4bdde8a965997ff8f3bb",
+    "local_word_count": 155,
+    "url": "https://writtencheck.com/tr/",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "b-v3",
+    "service": "WrittenCheck",
+    "score": 100,
+    "range": [
+      92,
+      100
+    ],
+    "label": "Büyük olasılıkla yapay zeka",
+    "observed_at": "2026-11-03T09:12:06.277Z",
+    "sha256": "fc98af46c082231b60e248518ebb77e7dbac990dfc9f9176826d3e470da8c735",
+    "local_word_count": 155,
+    "url": "https://writtencheck.com/tr/",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "b-v3",
+    "service": "Seobaz",
+    "score": null,
+    "status": "stale_result_after_edit",
+    "note": "Input changed but output still quotes baseline-only sentence; excluded.",
+    "observed_at": "2026-11-03T09:12:06.277Z",
+    "sha256": "fc98af46c082231b60e248518ebb77e7dbac990dfc9f9176826d3e470da8c735",
+    "local_word_count": 155,
+    "url": "https://seobaz.com/en/ai-content-detector",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example"
+  },
+  {
+    "sample": "b-v3",
+    "service": "Seobaz",
+    "score": 41,
+    "range": [
+      30,
+      52
+    ],
+    "label": "Mixed: AI with human editing is likely",
+    "observed_at": "2026-11-03T09:13:29.861Z",
+    "sha256": "fc98af46c082231b60e248518ebb77e7dbac990dfc9f9176826d3e470da8c735",
+    "local_word_count": 155,
+    "url": "https://seobaz.com/en/ai-content-detector",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "b-v3-r2",
+    "service": "Seobaz",
+    "score": 38,
+    "range": [
+      24,
+      52
+    ],
+    "label": "Most likely human-written",
+    "observed_at": "2026-11-03T09:14:28.080Z",
+    "sha256": "eb3c80e4c09a31b4f202181285efced47cdcf78eeae8c3c512524b7c60f09fa5",
+    "local_word_count": 157,
+    "url": "https://seobaz.com/en/ai-content-detector",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "b-v3-r2",
+    "service": "WrittenCheck",
+    "score": 100,
+    "range": [
+      92,
+      100
+    ],
+    "label": "Büyük olasılıkla yapay zeka",
+    "observed_at": "2026-11-03T09:14:28.080Z",
+    "sha256": "eb3c80e4c09a31b4f202181285efced47cdcf78eeae8c3c512524b7c60f09fa5",
+    "local_word_count": 157,
+    "url": "https://writtencheck.com/tr/",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "c-before",
+    "service": "Seobaz",
+    "score": 42,
+    "range": [
+      30,
+      54
+    ],
+    "label": "Mixed: AI with human editing is likely",
+    "observed_at": "2026-11-03T09:15:25.466Z",
+    "sha256": "25883b8fd945e8b5c8b5ed7ed265e4b8596a0e9fbaaa3e6ce1c9a9ec927f9b7d",
+    "local_word_count": 162,
+    "url": "https://seobaz.com/en/ai-content-detector",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "c-before",
+    "service": "WrittenCheck",
+    "score": 99,
+    "range": [
+      91,
+      100
+    ],
+    "label": "Büyük olasılıkla yapay zeka",
+    "site_word_count": 163,
+    "observed_at": "2026-11-03T09:15:25.466Z",
+    "sha256": "25883b8fd945e8b5c8b5ed7ed265e4b8596a0e9fbaaa3e6ce1c9a9ec927f9b7d",
+    "local_word_count": 162,
+    "url": "https://writtencheck.com/tr/",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "c-v3-final",
+    "service": "Seobaz",
+    "score": 37,
+    "range": [
+      26,
+      48
+    ],
+    "label": "Most likely human-written",
+    "observed_at": "2026-11-03T09:16:26.697Z",
+    "sha256": "28c2f8e1361bc5100e4f02477d61f91b0a264a0dbd6cbee46b164997c26bb6f8",
+    "local_word_count": 153,
+    "url": "https://seobaz.com/en/ai-content-detector",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "c-v3-final",
+    "service": "WrittenCheck",
+    "score": 88,
+    "range": [
+      74,
+      100
+    ],
+    "label": "Büyük olasılıkla yapay zeka",
+    "site_word_count": 154,
+    "observed_at": "2026-11-03T09:16:26.697Z",
+    "sha256": "28c2f8e1361bc5100e4f02477d61f91b0a264a0dbd6cbee46b164997c26bb6f8",
+    "local_word_count": 153,
+    "url": "https://writtencheck.com/tr/",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "AI-generated synthetic example",
+    "status": "completed"
+  },
+  {
+    "sample": "site-human-example",
+    "service": "WrittenCheck",
+    "score": 0,
+    "range": [
+      0,
+      14
+    ],
+    "label": "Büyük olasılıkla insan yazımı",
+    "site_word_count": 93,
+    "role": "service_provided_diagnostic_only_not_our_generated_text",
+    "observed_at": "2026-11-03T09:18:40.231Z",
+    "sha256": "dfe0e3b92d4923934f2270ac44a02ce6756e118e07edcaff2dc8dd0b55ed3f2c",
+    "local_word_count": 93,
+    "url": "https://writtencheck.com/tr/",
+    "model_version": "Arayüzde tam model sürümü açıklanmıyor",
+    "origin": "Service-labelled human excerpt, Ömer Seyfettin Kaşağı; provenance not independently checked here",
+    "status": "completed"
+  }
+]

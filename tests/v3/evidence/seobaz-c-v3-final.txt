@@ -1,0 +1,69 @@
+Browser tab: 5, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 49-51, 258-261
+~			262 text 1271 characters Queries left: 6
+~			46 button Analyze
+~				263 text Analyze
++			264 text 37% AI PROBABILITY
++			265 text Most likely human-written
++			266 text Medium confidence Likely range: 26% - 48% Text type: Event announcement
++			267 text The text is a tidy, even-toned announcement that anticipates every attendee question in short, similar-length sentences, with no personal voice or irregularities. However, it has no stock AI phrasing or connector pile-ups, and its formal, checklist structure is also normal for institutional notices.
++			268 container adSonuc
++				269 text 37% AI PROBABILITY
++				270 text Most likely human-written
++				271 text Medium confidence Likely range: 26% - 48% Text type: Event announcement Measurement breakdown Linguistic analysis, calculated independently of the model
++				272 text Sentence rhythm
++				273 text 53/100
++				274 text Sentence lengths flow within a narrow band (variation 0.32); short sentences break up the rhythm.
++				275 text Pattern density
++				276 text 0/100
++				277 text No known AI patterns or connector pile-ups were found.
++				278 text Monotony of style
++				279 text 23/100
++				280 text Set predicate ("-dır/-dir") ratio 0%, sentence endings vary, different punctuation marks used: 2.
++				281 text Human traces
++				282 text 0/100
++				283 text No traces of personal experience, conversational language or typing noise were found.
++				284 text Signal measurements Values are calculated from the text; they are measurements, not labels
++				285 text SENTENCE RHYTHM
++				286 text Sentence length variability 0.32 Sentences of similar length 53% Share of short sentences 24% Paragraph length balance measured
++				287 text PATTERN DENSITY
++				288 text Matched set phrases 0 patterns Sentences starting with a connector 0/17 Ending with "-maktadır / -mektedir" 0 sentences Use of long dashes 0 found Formatting leftovers (**, ##, bullets) 0 marks Rule-of-three lists 0 sentences
++				289 text MONOTONY OF STYLE
++				290 text Sentences ending in "-dır / -dir" 0% Variety of sentence endings 0.59 Punctuation marks used 2/9 types Vocabulary variety 0.93 Repeated phrases 0%
++				291 text HUMAN TRACES
++				292 text Personal experience and conversational tone none found Typing irregularities none found Concrete data (numbers, dates, names) 2.6/100 words Most suspicious sentences Verified word for word in the text Buluşmaya katılmanız fotoğraf izni olarak kabul edilmeyecek.
++				293 text Overly careful legal-style clarification that anticipates an objection no one raised.
++				294 text Herkesin aynı fikirde olmasını beklemiyoruz.
++				295 text Smooth, generic etiquette line typical of polished model-written event copy.
++				296 text Yanınızda kitap getirip getirmemek size kalmış.
++				297 text Filler that covers one more possible question, adding to the checklist feel.
++				298 text Kayıt yöntemi ve kontenjan hakkında henüz bilgi paylaşılmadı, bu konularda kesin bir açıklama yapamıyoruz.
++				299 text Formal, hedged disclosure of missing information, polished and impersonal.
++				300 container
++					301 text Okuma buluşmamız pazar günü saat 14.00'te kütüphanede yapılacak. Yetişkinlere açık olan buluşmaya katılım ücretsiz. Önceden bir kitap bitirmeniz gerekmiyor; okuduğunuz ya da yarım bıraktığınız bir kitap üzerine konuşabilirsiniz. Yalnızca dinlemek isterseniz söz almak zorunda değilsiniz.
+
+İlk bölümde söz almak isteyenler konuşacakları kitabı kısaca tanıtacak, ardından kitapla ilgili görüşler paylaşılacak.  Herkesin aynı fikirde olmasını beklemiyoruz.  Birbirimizin sözünü kesmeden konuşmanızı ve farklı yorumları dinlemenizi rica ediyoruz. Konuşmanız sırasında kitabın sonunu anlatmanız gerekiyorsa lütfen önceden haber verin.
+
+ Yanınızda kitap getirip getirmemek size kalmış.  Buluşma sırasında not almak isteyenler kendi defterlerini kullanabilir. Etkinlikte kitap satışı yapılmayacak ve katılmak için kitap satın alma zorunluluğu da bulunmuyor.
+
+ Kayıt yöntemi ve kontenjan hakkında henüz bilgi paylaşılmadı, bu konularda kesin bir açıklama yapamıyoruz.  Buluşmanın ne kadar süreceği de henüz belli değil. Süre ve kayıt bilgileri netleştiğinde bu duyuru üzerinden paylaşılacak.
+
+Fotoğraf çekimi yapılması durumunda katılımcılara önceden bilgi verilecek. Fotoğrafta yer almak istemeyenlerin tercihine uyulacak.  Buluşmaya katılmanız fotoğraf izni olarak kabul edilmeyecek.
++				302 text Interpretation layer signals Language model assessment Uniform sentence length
++				303 text Sentences stay in a narrow band of about 9 words (variation 0.32), which is typical of a notice but also of model output.
++				304 text Exhaustive coverage
++				305 text The text methodically covers every possible question (cost, prerequisites, books, notes, sales, photos, registration), which reads like a checklist.
++				306 text Hedged uncertainty
++				307 text Unknown details are acknowledged in balanced, polite phrasing such as 'henüz belli değil', which is a common pattern in model-written notices.
++				308 text No personal voice
++				309 text There are no first-person anecdotes, informal asides, typos or local color; the register is neutral throughout.
++				310 text No stock AI patterns
++				311 text There are no connector pile-ups, clichés or summarizing closers, and the sentence endings vary, which fits a human-written official notice.
++				312 text How to lower the score Specific to this text, based on measured findings 1 Vary your sentence lengths: there is a monotonous rhythm of 9.1 words on average. Mix in short sentences of 3-5 words. 2 The text shows no trace of lived experience. Add a date, a number, a name or a single example from your own experience; that alone lowers the score noticeably. 3 Add concrete specifics such as the library's name, the district, a contact person or phone number, and the current book under discussion, instead of generic wording. 4 Vary the rhythm: merge a few short sentences and add a short informal line, for example a friendly 'Çay bizden' or a personal invitation from the organizer. 5 Cut the redundant reassurances (note-taking, book sales, photo consent) down to the ones that matter, and write them the way the organizers would actually say them. WORDS 154 SENTENCES 17 AVG. SENTENCE 9.1 words RHYTHM VARIATION 0.32
++				313 text ⚠️ No AI detector can give a definitive result; this score is an indicator of probability, not proof. Do not rely on it alone for important decisions (academic assessment, hiring and so on).
++	314 container reCAPTCHA
++		315 AXWebArea reCAPTCHA, URL: google.com/recaptcha/api2/anchor?ar=1&k=6Ld3LuMqAAAAAG9vQOwUpHa7SPHeKoCZKJKPCu5p&co=aHR0cHM6Ly9zZW9iYXouY29tOjQ0Mw..&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&badge=bottomright&anchor-ms=20000&execute-ms=30000&cb=6zzfs54ifirx
++			316 text protected by 
++			317 text reCAPTCHA
+The focused UI element is 1 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector

@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "draft_file": "draft.txt",
+  "draft_sha256": "558455216f7a004794ceb3eee0679c023939fd41ebe003cf254cc612b9af5723",
+  "sources": [
+    {
+      "id": "s1",
+      "kind": "provided",
+      "path": "source.txt",
+      "sha256": "6d7a174b3cc9c00374d6046451690506b66f4f0dc42c95d847febd466c99f294",
+      "origin": "Kullanıcının verdiği tek kaynak ve görev bağlamı"
+    }
+  ],
+  "segments": [
+    {
+      "text": "240 gönüllü öğrencinin katıldığı altı haftalık ankette, ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "240 gönüllü öğrencinin altı haftalık öz bildirim anketinde"
+        }
+      ]
+    },
+    {
+      "text": "uygulamayı daha sık kullanan öğrenciler daha düzenli çalıştıklarını bildirdi. ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "uygulamayı daha sık kullananlar daha düzenli çalıştığını bildirdi."
+        }
+      ]
+    },
+    {
+      "text": "Bu bulgu öğrencilerin kendi beyanlarına dayanıyor. ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "öz bildirim anketinde"
+        }
+      ]
+    },
+    {
+      "text": "Çalışmada kontrol grubu bulunmadığı için daha düzenli çalışmalarının uygulamadan kaynaklandığı söylenemez. ",
+      "kind": "inference",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Kontrol grubu yok."
+        }
+      ]
+    },
+    {
+      "text": "Sayısal başarı puanı da ölçülmediğinden, bu ankete dayanarak uygulamanın başarıyı artırdığı sonucuna varılamaz.",
+      "kind": "inference",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Sayısal başarı puanı ölçülmedi."
+        }
+      ]
+    }
+  ]
+}

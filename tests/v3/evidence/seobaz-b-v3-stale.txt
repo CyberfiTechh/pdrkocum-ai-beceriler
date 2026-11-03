@@ -1,0 +1,143 @@
+Browser tab: 5, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+0 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector
+	1 container
+		2 link Description: Seobaz homepage, Value: seobaz.com/en
+		3 link Description: SEO, Value: seobaz.com/en/seo-packages
+		4 link Description: GEO, Value: seobaz.com/en/geo
+		5 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		6 link Description: Other Services, Value: seobaz.com/en/ai-content-detector#
+		7 link Description: References, Value: seobaz.com/en/references
+		8 link Description: Blog, Value: seobaz.com/en/blog
+		9 link Description: Tools, Value: seobaz.com/en/tools
+		10 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+		11 link Description: Customer Panel, Value: seobaz.com/en/account
+		12 link Description: Cart, Value: seobaz.com/en/cart
+		13 image Seobaz
+		14 container Language
+			15 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+			16 link Description: English, Value: seobaz.com/en/ai-content-detector
+		17 link Description: Customer Panel, Value: seobaz.com/en/account
+		18 button Close
+		19 link Description: SEO, Value: seobaz.com/en/seo-packages
+		20 link Description: GEO, Value: seobaz.com/en/geo
+		21 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		22 button Other Services
+		23 link Description: References, Value: seobaz.com/en/references
+		24 link Description: Blog, Value: seobaz.com/en/blog
+		25 button Tools
+		26 link Description: Contact, Value: seobaz.com/en/contact
+		27 link Description: Gift Wheel, Value: seobaz.com/en/gift-wheel
+		28 link Description: Phone +90 850 840 95 39, Value: tel:+908508409539
+		29 link Description: WhatsApp Send us a message, Value: seobaz.com/en/whatsapp
+		30 link Description: Email info@seobaz.com, Value: mailto:info@seobaz.com
+	31 container
+		32 container
+			33 text Free AI Tool · Turkish Support
+			34 heading AI Content Detector: built for Turkish, Value: 1
+				35 text AI Content Detector:  built for Turkish
+			36 text This AI content detector, built with Turkish in mind, measures whether a text carries traces of ChatGPT, Gemini or Claude. Sentence rhythm and matches against a Turkish pattern lexicon are calculated first, then a language model's interpretation is layered on top: a 0-100 probability score, a confidence level and a signal breakdown with reasons. Free, no sign-up.
+		37 container
+			38 text AI Content Detector
+			39 heading Paste your text, Value: 2
+				40 text Paste your text
+			41 text A two-layer analysis: sentence rhythm, matches against a Turkish pattern lexicon and predicate monotony are measured first, then a language model's interpretation is layered on top. Minimum 200 and maximum 8,000 characters; for a sound measurement, use 150 words or more. Your text is never published; it is processed only for the analysis.
+			42 text entry area (settable) Konu: Ortak dosya düzeni için görüşleriniz
+
+Merhaba,
+
+Ortak çalışma dosyalarını daha kolay bulabilmek için ekipçe kullanabileceğimiz bir klasör yapısını değerlendirmeyi planlıyoruz. Henüz uygulama kararı almadık; nasıl bir düzenin işimize yarayacağını birlikte düşünmek istiyoruz.
+
+İlk olarak dosyaların şu anda hangi başlıklar altında tutulduğuna ve benzer içeriklerin farklı yerlerde bulunup bulunmadığına bakmak istiyoruz. Bu incelemede kişisel notlarla ortak kullanılan belgeleri ayrı ele almayı öneriyoruz. Şu aşamada sizden herhangi bir dosyayı silmenizi ya da taşımanızı istemiyoruz.
+
+Mevcut düzende hangi dosya türlerini bulmakta zorlanıyorsunuz? Karşılaştığınız sorunları kısa ve somut notlarla paylaşmanızı rica ediyoruz. Bu notlar, ele alacağımız sorunları belirlememize yardımcı olacak. Belirli bir şablon kullanmanız gerekmiyor; mevcut klasör adlarını örnek vermeniz yeterli. Dosya içeriklerini veya özel bilgileri göndermenize gerek yok.
+
+Görüşlerinizi değerlendirdikten sonra ortak bir taslak hazırlayıp incelemeniz için sizinle paylaşmayı düşünüyoruz. Taslak üzerinde uzlaşma sağlanmadan mevcut çalışma düzeninde değişiklik yapılmayacak.
+
+Değerlendirme toplantısının tarihi henüz belli değil. Netleştiğinde ayrıca bilgi vereceğiz.
+
+Görüşleriniz ve katkılarınız için teşekkür ederiz.
+
+İyi çalışmalar.
+
+			314 text 1316 characters Queries left: 10
+			44 button Try a sample text
+			45 button Analyze
+				260 text Analyze
+				47 image
+			261 text 36% AI PROBABILITY
+			262 text Most likely human-written
+			263 text Medium confidence Likely range: 27% - 45% Text type: Workplace email
+			264 text The email is a tidy, courteous internal notice whose reassurances and anticipatory instructions are very smooth and generic. Its sentence lengths vary moderately and it has only one stock connective, so the evidence is limited and fits ordinary workplace writing as well.
+			265 container adSonuc
+				266 text 36% AI PROBABILITY
+				267 text Most likely human-written
+				268 text Medium confidence Likely range: 27% - 45% Text type: Workplace email Measurement breakdown Linguistic analysis, calculated independently of the model
+				269 text Sentence rhythm
+				270 text 36/100
+				271 text Sentence lengths show moderate variation (0.43); short sentences break up the rhythm.
+				272 text Pattern density
+				273 text 12/100
+				274 text Patterns matched: 1 ("ayrıca").
+				275 text Monotony of style
+				276 text 23/100
+				277 text Set predicate ("-dır/-dir") ratio 0%, sentence endings vary, different punctuation marks used: 2.
+				278 text Human traces
+				279 text 0/100
+				280 text No traces of personal experience, conversational language or typing noise were found.
+				281 text Signal measurements Values are calculated from the text; they are measurements, not labels
+				282 text SENTENCE RHYTHM
+				283 text Sentence length variability 0.43 Sentences of similar length 29% Share of short sentences 41% Paragraph length balance measured
+				284 text PATTERN DENSITY
+				285 text Matched set phrases 1 pattern Sentences starting with a connector 0/17 Ending with "-maktadır / -mektedir" 1 sentence Use of long dashes 0 found Formatting leftovers (**, ##, bullets) 0 marks Rule-of-three lists 0 sentences
+				286 text MONOTONY OF STYLE
+				287 text Sentences ending in "-dır / -dir" 0% Variety of sentence endings 0.59 Punctuation marks used 2/9 types Vocabulary variety 0.94 Repeated phrases 0%
+				288 text HUMAN TRACES
+				289 text Personal experience and conversational tone none found Typing irregularities none found Concrete data (numbers, dates, names) 0.0/100 words Evidence found Red: AI traces · Green: human traces ayrıca ×1 Most suspicious sentences Verified word for word in the text Henüz kesinleşmiş bir uygulama kararı yok.
+				290 text A short hedging statement that is generic and reassuring, in a pattern common in model-written notices.
+				291 text Bu aşamada herhangi bir dosyayı silmenizi veya taşımanızı istemiyoruz.
+				292 text Preemptive reassurance that anticipates reader concerns in a very orderly way.
+				293 text Belirli bir şablon kullanmanız gerekmiyor; mevcut klasör adlarını örnek vermeniz yeterli.
+				294 text Smooth, anticipatory instruction that lowers effort for the reader, typical of generated text.
+				295 text Taslak üzerinde uzlaşma sağlanmadan mevcut çalışma düzeninde değişiklik yapılmayacak.
+				296 text Formal commitment phrased in a stiff, bureaucratic way.
+				297 container
+					315 text Konu: Ortak dosya düzeni için görüşleriniz
+
+Merhaba,
+
+Ortak çalışma dosyalarını daha kolay bulabilmek için ekipçe kullanabileceğimiz bir klasör yapısını değerlendirmeyi planlıyoruz. Henüz uygulama kararı almadık; nasıl bir düzenin işimize yarayacağını birlikte düşünmek istiyoruz.
+
+İlk olarak dosyaların şu anda hangi başlıklar altında tutulduğuna ve benzer içeriklerin farklı yerlerde bulunup bulunmadığına bakmak istiyoruz. Bu incelemede kişisel notlarla ortak kullanılan belgeleri ayrı ele almayı öneriyoruz. Şu aşamada sizden herhangi bir dosyayı silmenizi ya da taşımanızı istemiyoruz.
+
+Mevcut düzende hangi dosya türlerini bulmakta zorlanıyorsunuz? Karşılaştığınız sorunları kısa ve somut notlarla paylaşmanızı rica ediyoruz. Bu notlar, ele alacağımız sorunları belirlememize yardımcı olacak.  Belirli bir şablon kullanmanız gerekmiyor; mevcut klasör adlarını örnek vermeniz yeterli.  Dosya içeriklerini veya özel bilgileri göndermenize gerek yok.
+
+Görüşlerinizi değerlendirdikten sonra ortak bir taslak hazırlayıp incelemeniz için sizinle paylaşmayı düşünüyoruz.  Taslak üzerinde uzlaşma sağlanmadan mevcut çalışma düzeninde değişiklik yapılmayacak. 
+
+Değerlendirme toplantısının tarihi henüz belli değil. Netleştiğinde ayrıca bilgi vereceğiz.
+
+Görüşleriniz ve katkılarınız için teşekkür ederiz.
+
+İyi çalışmalar.
+
+				299 text Interpretation layer signals Language model assessment Polished corporate register
+				300 text The whole email keeps an even, courteous institutional tone with no slips, asides, or personal voice.
+				301 text Reassurance stacking
+				302 text Several sentences repeat that nothing will be deleted, moved, or changed yet, which is a typical cautious-draft pattern.
+				303 text Balanced structure
+				304 text Four tidy paragraphs move in order from purpose to request to next steps to closing, with no digressions.
+				305 text Genre-appropriate formality
+				306 text Subject line, greeting, and closing formulas are standard for internal announcements, so the formality is expected in this genre.
+				307 text No human traces
+				308 text There are no names, concrete examples, typos, or informal phrasing, though short internal notices often lack them anyway.
+				309 text How to lower the score Specific to this text, based on measured findings 1 The text shows no trace of lived experience. Add a date, a number, a name or a single example from your own experience; that alone lowers the score noticeably. 2 Add a concrete detail, such as a real folder name or a specific recurring problem like 'the 2023 budget files in three places', in place of generic wording. 3 Cut some of the repeated reassurances and replace one with a personal, direct line in the writer's own voice, such as a brief remark about why this came up. 4 Vary the tone slightly with a less formal sentence, a named contact person, or a rough meeting timeframe instead of a fully neutral announcement. WORDS 155 SENTENCES 17 AVG. SENTENCE 9.1 words RHYTHM VARIATION 0.43
+				310 text ⚠️ No AI detector can give a definitive result; this score is an indicator of probability, not proof. Do not rely on it alone for important decisions (academic assessment, hiring and so on).
+			51 text Was this tool useful?
+			52 container Was this tool useful?
+				53 checkbox Description: 1 stars, Value: 0
+				54 checkbox Description: 2 stars, Value: 0
+				55 checkbox Description: 3 stars, Value: 0
+				56 checkbox Description: 4 stars, Value: 0
+				57 checkbox Description: 5 stars, Value: 0
+			58 text 4.5  / 5 ·  54 ratings
+		59 container
+			60 

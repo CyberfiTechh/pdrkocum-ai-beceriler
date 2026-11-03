@@ -1,0 +1,108 @@
+Browser tab: 3, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+0 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector
+	1 container
+		2 link Description: Seobaz homepage, Value: seobaz.com/en
+		3 link Description: SEO, Value: seobaz.com/en/seo-packages
+		4 link Description: GEO, Value: seobaz.com/en/geo
+		5 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		6 link Description: Other Services, Value: seobaz.com/en/ai-content-detector#
+		7 link Description: References, Value: seobaz.com/en/references
+		8 link Description: Blog, Value: seobaz.com/en/blog
+		9 link Description: Tools, Value: seobaz.com/en/tools
+		10 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+		11 link Description: Customer Panel, Value: seobaz.com/en/account
+		12 link Description: Cart, Value: seobaz.com/en/cart
+		13 image Seobaz
+		14 container Language
+			15 link Description: Türkçe, Value: seobaz.com/yapay-zeka-dedektoru
+			16 link Description: English, Value: seobaz.com/en/ai-content-detector
+		17 link Description: Customer Panel, Value: seobaz.com/en/account
+		18 button Close
+		19 link Description: SEO, Value: seobaz.com/en/seo-packages
+		20 link Description: GEO, Value: seobaz.com/en/geo
+		21 link Description: Backlink Packages, Value: seobaz.com/en/backlink-packages
+		22 button Other Services
+		23 link Description: References, Value: seobaz.com/en/references
+		24 link Description: Blog, Value: seobaz.com/en/blog
+		25 button Tools
+		26 link Description: Contact, Value: seobaz.com/en/contact
+		27 link Description: Gift Wheel, Value: seobaz.com/en/gift-wheel
+		28 link Description: Phone +90 850 840 95 39, Value: tel:+908508409539
+		29 link Description: WhatsApp Send us a message, Value: seobaz.com/en/whatsapp
+		30 link Description: Email info@seobaz.com, Value: mailto:info@seobaz.com
+	31 container
+		32 container
+			33 text Free AI Tool · Turkish Support
+			34 heading AI Content Detector: built for Turkish, Value: 1
+				35 text AI Content Detector:  built for Turkish
+			36 text This AI content detector, built with Turkish in mind, measures whether a text carries traces of ChatGPT, Gemini or Claude. Sentence rhythm and matches against a Turkish pattern lexicon are calculated first, then a language model's interpretation is layered on top: a 0-100 probability score, a confidence level and a signal breakdown with reasons. Free, no sign-up.
+		37 container
+			38 text AI Content Detector
+			39 heading Paste your text, Value: 2
+				40 text Paste your text
+			41 text A two-layer analysis: sentence rhythm, matches against a Turkish pattern lexicon and predicate monotony are measured first, then a language model's interpretation is layered on top. Minimum 200 and maximum 8,000 characters; for a sound measurement, use 150 words or more. Your text is never published; it is processed only for the analysis.
+			42 text entry area (settable) Ortak çalışma dosyalarının düzenlenmesi amacıyla ekip içinde kullanılabilecek bir klasör yapısının değerlendirilmesi planlanmaktadır. Bu aşamada kesinleşmiş bir uygulama kararı bulunmamaktadır. Öncelikle mevcut dosyaların hangi başlıklar altında tutulduğunun gözden geçirilmesi ve benzer içeriklerin farklı yerlerde bulunup bulunmadığının belirlenmesi amaçlanmaktadır. İnceleme sırasında kişisel notlar ile ekip tarafından birlikte kullanılan belgelerin birbirinden ayrılması önerilmektedir. Ancak herhangi bir dosyanın silinmesi veya taşınması talep edilmemektedir. Ekip üyelerinden, mevcut düzende bulmakta zorlandıkları dosya türlerini ve karşılaştıkları sorunları kısa notlar hâlinde paylaşmaları beklenmektedir. Önerilerin belirli bir şablonda hazırlanması zorunlu değildir. Mevcut klasör adlarının örnek olarak belirtilmesi yeterli olacaktır. Dosya içeriklerinin veya özel bilgilerin gönderilmesine gerek bulunmamaktadır. Toplanan görüşler değerlendirildikten sonra ortak bir taslak hazırlanması ve bu taslağın ekip üyelerinin incelemesine sunulması düşünülmektedir. Taslak üzerinde uzlaşma sağlanmadan mevcut çalışma düzeninde değişiklik yapılmayacaktır. Değerlendirme toplantısının tarihi henüz belirlenmemiştir. Tarih netleştiğinde ayrıca bilgi verilecektir. Bu hazırlığın amacı, herkesin kullandığı belgeleri daha kolay bulabileceği bir düzen üzerinde birlikte düşünmektir. Paylaşılacak notların kısa ve somut olması, hangi sorunların ele alınacağını belirlememize yardımcı olabilir.
+			267 text 1493 characters Queries left: 6
+			44 button Try a sample text
+			45 button Analyze
+				268 text Analyze
+				266 image
+			269 text 54% AI PROBABILITY
+			270 text Mixed: AI with human editing is likely
+			271 text Medium confidence Likely range: 47% - 61% Text type: Internal workplace announcement
+			272 text The text is a uniformly formal, impersonal notice in which almost every sentence ends in the same passive pattern and each point is balanced by a reassurance. It has no personal details, concrete examples or conversational traces, though the register is also normal for an internal workplace notice.
+			273 container adSonuc
+				274 text 54% AI PROBABILITY
+				275 text Mixed: AI with human editing is likely
+				276 text Medium confidence Likely range: 47% - 61% Text type: Internal workplace announcement Measurement breakdown Linguistic analysis, calculated independently of the model
+				277 text Sentence rhythm
+				278 text 48/100
+				279 text Sentence lengths show moderate variation (0.38); short sentences break up the rhythm.
+				280 text Pattern density
+				281 text 42/100
+				282 text Patterns matched: 2 ("ek olarak", "ayrıca").
+				283 text Monotony of style
+				284 text 87/100
+				285 text Set predicate ("-dır/-dir") ratio 93%, sentence endings repeat each other, punctuation is almost only periods and commas.
+				286 text Human traces
+				287 text 0/100
+				288 text No traces of personal experience, conversational language or typing noise were found.
+				289 text Signal measurements Values are calculated from the text; they are measurements, not labels
+				290 text SENTENCE RHYTHM
+				291 text Sentence length variability 0.38 Sentences of similar length 47% Share of short sentences 13% Paragraph length balance not enough paragraphs
+				292 text PATTERN DENSITY
+				293 text Matched set phrases 2 patterns Sentences starting with a connector 0/15 Ending with "-maktadır / -mektedir" 9 sentences Use of long dashes 0 found Formatting leftovers (**, ##, bullets) 0 marks Rule-of-three lists 0 sentences
+				294 text MONOTONY OF STYLE
+				295 text Sentences ending in "-dır / -dir" 93% Variety of sentence endings 0.33 Punctuation marks used 0/9 types Vocabulary variety 0.96 Repeated phrases 0%
+				296 text HUMAN TRACES
+				297 text Personal experience and conversational tone none found Typing irregularities none found Concrete data (numbers, dates, names) 0.0/100 words Evidence found Red: AI traces · Green: human traces ek olarak ×1 ayrıca ×1 "-maktadır / -mektedir" suffix ×9 Most suspicious sentences Verified word for word in the text Bu aşamada kesinleşmiş bir uygulama kararı bulunmamaktadır.
+				298 text Stock hedging sentence in a formal passive that adds reassurance without any detail.
+				299 text Önerilerin belirli bir şablonda hazırlanması zorunlu değildir.
+				300 text Preemptive clarification that reads like a checklist item, with no concrete context.
+				301 text Dosya içeriklerinin veya özel bilgilerin gönderilmesine gerek bulunmamaktadır.
+				302 text Over-explicit, symmetrical reassurance in a nominalized construction.
+				303 text Bu hazırlığın amacı, herkesin kullandığı belgeleri daha kolay bulabileceği bir düzen üzerinde birlikte düşünmektir.
+				304 text Abstract summary sentence that restates the purpose in generic terms.
+				305 container
+					306 text Ortak çalışma dosyalarının düzenlenmesi amacıyla ekip içinde kullanılabilecek bir klasör yapısının değerlendirilmesi planlanmaktadır.  Bu aşamada kesinleşmiş bir uygulama kararı bulunmamaktadır.  Öncelikle mevcut dosyaların hangi başlıklar altında tutulduğunun gözden geçirilmesi ve benzer içeriklerin farklı yerlerde bulunup bulunmadığının belirlenmesi amaçlanmaktadır. İnceleme sırasında kişisel notlar ile ekip tarafından birlikte kullanılan belgelerin birbirinden ayrılması önerilmektedir. Ancak herhangi bir dosyanın silinmesi veya taşınması talep edilmemektedir. Ekip üyelerinden, mevcut düzende bulmakta zorlandıkları dosya türlerini ve karşılaştıkları sorunları kısa notlar hâlinde paylaşmaları beklenmektedir.  Önerilerin belirli bir şablonda hazırlanması zorunlu değildir.  Mevcut klasör adlarının örnek olarak belirtilmesi yeterli olacaktır.  Dosya içeriklerinin veya özel bilgilerin gönderilmesine gerek bulunmamaktadır.  Toplanan görüşler değerlendirildikten sonra ortak bir taslak hazırlanması ve bu taslağın ekip üyelerinin incelemesine sunulması düşünülmektedir. Taslak üzerinde uzlaşma sağlanmadan mevcut çalışma düzeninde değişiklik yapılmayacaktır. Değerlendirme toplantısının tarihi henüz belirlenmemiştir. Tarih netleştiğinde ayrıca bilgi verilecektir.  Bu hazırlığın amacı, herkesin kullandığı belgeleri daha kolay bulabileceği bir düzen üzerinde birlikte düşünmektir.  Paylaşılacak notların kısa ve somut olması, hangi sorunların ele alınacağını belirlememize yardımcı olabilir.
+				307 text Interpretation layer signals Language model assessment Uniform sentence endings
+				308 text Nearly every sentence ends in a passive or impersonal predicate such as "-maktadır", "-ilmektedir" or "-ilecektir", which makes the rhythm very even.
+				309 text Hedged, balanced content
+				310 text Each statement is followed by a reassurance or limit (no decision yet, nothing will be deleted, no template required, no private files needed), a pattern typical of cautious model output.
+				311 text No personal voice
+				312 text There are no first-person remarks, anecdotes, names, dates or concrete folder examples, and the one "bize" form comes only at the very end.
+				313 text Genre explains some of the flatness
+				314 text An internal notice about a planned review is usually written in an impersonal, formal register, so the monotony is only weak evidence of AI.
+				315 text Few typical AI connectors
+				316 text Only "ayrıca" and "Ancak" appear, with no stock filler phrases or inflated vocabulary.
+				317 text How to lower the score Specific to this text, based on measured findings 1 Remove these patterns from the text: "ek olarak", "ayrıca", ""-maktadır / -mektedir" suffix". 2 Most sentences end with the same predicate pattern. End some of them with the past tense or an inverted structure instead of the "-dır/-dir" copula. 3 The text shows no trace of lived experience. Add a date, a number, a name or a single example from your own experience; that alone lowers the score noticeably. 4 Add concrete details such as a real folder name, a team name, a rough date or a named contact person, so the notice is tied to a specific workplace. 5 Break the passive pattern with some active, direct sentences, for example "Sizden şunu rica ediyorum" or "Hepimiz bazen dosya arıyoruz", and vary the endings. WORDS 161 SENTENCES 15 AVG. SENTENCE 10.7 words RHYTHM VARIATION 0.38
+				318 text ⚠️ No AI detector can give a definitive result; this score is an indicator of probability, not proof. Do not rely on it alone for important decisions (academic assessment, hiring and so on).
+			51 text Was this tool useful?
+			52 container Was this tool useful?
+				53 checkbox Description: 1 stars, Value: 0
+				54 checkbox Description: 2 stars, Value: 0
+				55 checkbox Description: 3 stars, Value: 0
+				56 checkbox Description: 4 stars, Value: 0
+				57 checkbox Description: 5 stars, Value: 0
+			58 text 4.5  / 5 ·  54 ratings
+		59 container

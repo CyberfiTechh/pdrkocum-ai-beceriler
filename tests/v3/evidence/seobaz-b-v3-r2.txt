@@ -1,0 +1,71 @@
+Browser tab: 5, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 259-261
+~			258 text 1335 characters Queries left: 8
+~			46 button Analyze
++				266 text Analyze
++				267 image
++			268 text 38% AI PROBABILITY
++			269 text Most likely human-written
++			270 text Medium confidence Likely range: 24% - 52% Text type: Internal workplace email
++			271 text The email is short and orderly, with an evenly polite tone and several repeated disclaimers about what is not being decided, which can read as model-like. However, it has no stock AI connectors, its sentence lengths vary, and the structure suits a normal workplace announcement, so the evidence is limited.
++			272 container adSonuc
++				273 text 38% AI PROBABILITY
++				274 text Most likely human-written
++				275 text Medium confidence Likely range: 24% - 52% Text type: Internal workplace email Measurement breakdown Linguistic analysis, calculated independently of the model
++				276 text Sentence rhythm
++				277 text 38/100
++				278 text Sentence lengths show moderate variation (0.50); short sentences break up the rhythm.
++				279 text Pattern density
++				280 text 3/100
++				281 text No known AI patterns or connector pile-ups were found.
++				282 text Monotony of style
++				283 text 23/100
++				284 text Set predicate ("-dır/-dir") ratio 0%, sentence endings vary, different punctuation marks used: 3.
++				285 text Human traces
++				286 text 16/100
++				287 text Found: Conversational language.
++				288 text Signal measurements Values are calculated from the text; they are measurements, not labels
++				289 text SENTENCE RHYTHM
++				290 text Sentence length variability 0.50 Sentences of similar length 60% Share of short sentences 40% Paragraph length balance measured
++				291 text PATTERN DENSITY
++				292 text Matched set phrases 0 patterns Sentences starting with a connector 0/20 Ending with "-maktadır / -mektedir" 1 sentence Use of long dashes 0 found Formatting leftovers (**, ##, bullets) 0 marks Rule-of-three lists 0 sentences
++				293 text MONOTONY OF STYLE
++				294 text Sentences ending in "-dır / -dir" 0% Variety of sentence endings 0.50 Punctuation marks used 3/9 types Vocabulary variety 0.95 Repeated phrases 0%
++				295 text HUMAN TRACES
++				296 text Personal experience and conversational tone 1 trace Typing irregularities none found Concrete data (numbers, dates, names) 0.0/100 words Evidence found Red: AI traces · Green: human traces Conversational language Most suspicious sentences Verified word for word in the text Yani bu mesajla yeni bir dosyalama düzenini başlatmıyoruz; ortak belgeleri daha kolay bulmak için nasıl bir yapı kullanabileceğimizi konuşmaya hazırlanıyoruz.
++				297 text Over-explained restatement of earlier content, with a stiff, abstract tone.
++				298 text Henüz uygulamaya geçme kararı almadık.
++				299 text One of several defensive clarifications about what has not been decided.
++				300 text Bir şablon doldurmanız gerekmiyor.
++				301 text Preemptively removes a possible burden, a pattern of anticipating objections.
++				302 text Üzerinde uzlaşmadan mevcut çalışma düzenini değiştirmeyeceğiz.
++				303 text Formal reassurance that repeats the no-change promise made elsewhere.
++				304 container
++					305 text Konu: Ortak klasörleri nasıl düzenleyelim?
+
+Merhaba,
+
+Ortak dosyalar arasında aradığınızı bulmakta zorlandığınızda nerede takılıyorsunuz? Kısa bir notla bize yazmanızı rica ediyoruz. Dosya türünü, bulunduğu klasörün adını ve karşılaştığınız sorunu belirtmeniz yeterli.  Bir şablon doldurmanız gerekmiyor.  Dosyanın kendisini, içeriğini ya da özel bilgileri göndermenizi de istemiyoruz; bu aşamada sorunu anlamamız yeterli.
+
+Ekipçe kullanabileceğimiz bir klasör düzeni üzerinde düşünmek istiyoruz.  Henüz uygulamaya geçme kararı almadık.  Önce dosyaları hangi başlıklar altında tuttuğumuzu inceleyelim. Benzer içerikler ayrı yerlerde mi duruyor, buna da bakmak istiyoruz. Kişisel notlarla ortak belgeleri bu incelemede ayrı tutmayı öneriyoruz.
+
+Şimdilik hiçbir dosyayı silmenizi veya taşımanızı istemiyoruz. Gelen görüşleri değerlendirdikten sonra bir taslak hazırlayıp sizinle paylaşmayı düşünüyoruz. Taslağı birlikte inceleyelim.  Üzerinde uzlaşmadan mevcut çalışma düzenini değiştirmeyeceğiz. Yani bu mesajla yeni bir dosyalama düzenini başlatmıyoruz; ortak belgeleri daha kolay bulmak için nasıl bir yapı kullanabileceğimizi konuşmaya hazırlanıyoruz. 
+
+Değerlendirme toplantısının günü henüz belli değil. Tarihi netleştirdiğimizde haber vereceğiz. O zamana kadar mevcut düzen devam edecek.
+
+Katkılarınız için teşekkürler, iyi çalışmalar.
+
++				306 text Interpretation layer signals Language model assessment Repeated negation hedging
++				307 text The text repeatedly stresses what is not happening ("Henüz uygulamaya geçme kararı almadık", "hiçbir dosyayı silmenizi veya taşımanızı istemiyoruz"), a cautious over-clarifying habit common in model-written emails.
++				308 text Redundant summary sentence
++				309 text The sentence starting with "Yani bu mesajla yeni bir dosyalama düzenini başlatmıyoruz" restates points already made, which is typical of generated closure.
++				310 text Uniform polite register
++				311 text The tone stays evenly courteous and institutional throughout, with no personal voice, slips or idiosyncratic phrasing.
++				312 text Natural genre fit
++				313 text A short, orderly internal announcement with a greeting, a request and a closing is normal for human office writing, so the tidy structure is weak evidence.
++				314 text Measured stats look human-like
++				315 text Burstiness is 0.50, no stock AI connectors were found, and sentence endings vary, which pulls the score toward the middle.
++				316 text How to lower the score Specific to this text, based on measured findings 1 The text shows no trace of lived experience. Add a date, a number, a name or a single example from your own experience; that alone lowers the score noticeably. 2 Cut the repeated reassurances (nothing will be deleted, nothing is decided yet, current order continues) to one mention and drop the "Yani..." recap sentence. 3 Add a concrete detail from the team's real situation, such as a named folder, a specific example of a lost file, or the person who will collect replies. 4 Vary the rhythm and voice with a casual aside, a first-person remark, or a deadline for replies instead of the uniformly polite formal phrasing. WORDS 157 SENTENCES 20 AVG. SENTENCE 7.8 words RHYTHM VARIATION 0.5
++				317 text ⚠️ No AI detector can give a definitive result; this score is an indicator of probability, not proof. Do not rely on it alone for important decisions (academic assessment, hiring and so on).
+The focused UI element is 1 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector

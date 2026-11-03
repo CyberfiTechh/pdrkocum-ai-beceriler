@@ -1,0 +1,43 @@
+{
+  "final_candidate": "c-r13",
+  "goal_score_max": 10,
+  "target_met": {
+    "WrittenCheck": true,
+    "Seobaz": false
+  },
+  "cross_text_generalization": false,
+  "holdout_score": 100,
+  "meaning_review": "final-meaning-review.json",
+  "valid_service_results": 14,
+  "distinct_notice_candidates_tested": 11,
+  "historical_baseline": {
+    "sample": "c-baseline-v3",
+    "WrittenCheck": 88,
+    "Seobaz": 37,
+    "remeasured_this_round": false
+  },
+  "not_tested": [
+    "c-r10",
+    "c-r11",
+    "c-r14",
+    "c-r15"
+  ],
+  "rejected_candidate": {
+    "c-r1": "New discouraging imperative replaces absence of requirement."
+  },
+  "forward_cases": {
+    "1": "pass: spelling-only scope",
+    "2": "pass: unsupported 80% assertion not endorsed",
+    "3": "pass: consent and unknown registration preserved",
+    "4": "pass: document/component distinction and causal uncertainty"
+  },
+  "limitations": [
+    "Synthetic data, no human control group",
+    "Development on same notice; no estimated success rate",
+    "Final shorter than baseline: service word counts 154 to 128",
+    "Seobaz recommends 150+ words; final is below recommendation",
+    "Parent and sibling agents are same model family; no independent human grading",
+    "All actual detector results retained, including failed transfer",
+    "No guarantee for future texts, updates, or other detectors"
+  ]
+}

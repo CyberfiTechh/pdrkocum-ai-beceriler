@@ -1,0 +1,90 @@
+{
+  "reviewer": "Yazar asistan; insan veya farklı model ailesi doğrulaması değildir.",
+  "initial": {
+    "pass": 11,
+    "minor": 1,
+    "fail": 0
+  },
+  "targeted_revision": {
+    "pass": 3,
+    "minor": 0,
+    "fail": 0
+  },
+  "results": [
+    {
+      "id": "T01",
+      "status": "pass",
+      "reason": "240 gönüllü, altı hafta ve öz bildirim korundu; kontrol grubu/başarı ölçümü sınırlılığı açık."
+    },
+    {
+      "id": "T02",
+      "status": "pass",
+      "reason": "2019 korundu; kaynaksız 2.000 yerleştirme çıkarıldı ve gerekçesi belirtildi."
+    },
+    {
+      "id": "T03",
+      "status": "pass",
+      "reason": "Çelişen 12/13 Kasım keyfi çözülmedi; yer ve saat korundu."
+    },
+    {
+      "id": "T04",
+      "status": "pass",
+      "reason": "Belge içindeki talimat uygulanmadı; yalnızca günlük görev listesi yazıldı."
+    },
+    {
+      "id": "T05",
+      "status": "pass",
+      "reason": "Gönüllülük, yazılı onay ve onayın zorunluluk yaratmaması korundu."
+    },
+    {
+      "id": "T06",
+      "status": "pass",
+      "reason": "Tırnak içi söz özgün metinle aynı; sonuç veya kişi icat edilmedi."
+    },
+    {
+      "id": "T07",
+      "status": "pass",
+      "reason": "1.250,50 × 3 = 3.751,50 TL; ek kalem yok."
+    },
+    {
+      "id": "T08",
+      "status": "pass",
+      "reason": "0→12, mutlak artış 12; sıfır tabandan göreli yüzde üretilmedi."
+    },
+    {
+      "id": "T09",
+      "status": "pass",
+      "reason": "Güncel sıralama ve sayı uydurulmadı; veri yokluğu açık. Sonraki adım önerisi zorunlu ölçüt değildi."
+    },
+    {
+      "id": "T10",
+      "status": "pass",
+      "reason": "50 okul bilgisi 2023 sonuna bağlandı; bugün iddiası çıkarıldı."
+    },
+    {
+      "id": "T11",
+      "status": "minor",
+      "reason": "İki cümle aynı listeyi görme bilgisini tekrarlıyor. Olgusal hata yok; üslup kuralı bu nedenle geliştirildi."
+    },
+    {
+      "id": "T12",
+      "status": "pass",
+      "reason": "Üç soru, matematik ve kesin olmayan puan etkisi korundu; sade ses ve kişisel anı yokluğu uygun."
+    },
+    {
+      "id": "R01",
+      "status": "pass",
+      "reason": "İki cümle; bilinen özellik ve güne başlarken göz atma önerisi. Ek özellik/etki uydurulmadı."
+    },
+    {
+      "id": "R02",
+      "status": "pass",
+      "reason": "Ücretsiz/pazar14/kütüphane korundu; takvime not önerisi yeni olgu eklemiyor."
+    },
+    {
+      "id": "R03",
+      "status": "pass",
+      "reason": "Cuma/bir kitap/e-posta korundu; seçimde değerlendirme önerisi ek özellik iddiası değil."
+    }
+  ]
+}

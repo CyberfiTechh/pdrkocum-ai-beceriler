@@ -1,0 +1,1 @@
+Etkinlik duyurusu yaz. Aynı yetkide iki güncel belge var: A: 'Toplantı 12 Kasım saat 15.00' B: 'Toplantı 13 Kasım saat 15.00'. Hangisi son sürüm bilinmiyor. İkisinde de yer Atölye Salonu. Ek kaynağa erişim yok.

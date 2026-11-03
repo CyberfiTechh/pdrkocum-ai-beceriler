@@ -1,0 +1,92 @@
+Browser tab: 6, Title: "Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT", URL: "https://writtencheck.com/tr/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 362-365
++					268 container wcMarked
++						269 container Bu cümle: %14 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							270 text Ahırın avlusunda oynarken aşağıda, gümüş söğütler altında görünmeyen derenin hazin şırıltısını işitirdik.
++						271 container Bu cümle: %14 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							272 text Evimiz iç çitin büyük kestane ağaçları arkasında kaybolmuş gibiydi.
++						273 container Bu cümle: %49 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							274 text Annem, İstanbul'a gittiği için benden bir yaş küçük olan kardeşim Hasan'la artık Dadaruh'un yanından hiç ayrılmıyorduk.
++						275 container Bu cümle: %60 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							276 text Bu, babamın seyisi, ihtiyar bir adamdı.
++						277 container Bu cümle: %90 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							278 text Sabahleyin erkenden ahıra koşuyorduk.
++						279 container Bu cümle: %7 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü)
++							280 text En sevdiğimiz şey atlardı.
++						281 container Bu cümle: %10 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							282 text Dadaruh'la beraber onları suya götürmek, çıplak sırtlarına binmek, ne doyulmaz bir zevkti.
++						283 container Bu cümle: %26 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							284 text Hasan korkar, yalnız binemezdi.
++						285 container Bu cümle: %86 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							286 text Dadaruh onu kendi önüne alırdı.
++						287 container Bu cümle: %66 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							288 text Torbalara arpa koymak, yemliklere ot doldurmak, gübreleri kaldırmak eğlenceli bir oyundan ziyade, bizim hoşumuza gidiyordu.
++						289 container Bu cümle: %57 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü)
++							290 text Hele tımar.
++						291 container Bu cümle: %2 YZ benzerliği. Predominantly human-like variation
++							292 text .
++						293 container Bu cümle: %8 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							294 text .
++						295 container Bu cümle: %8 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü)
++							296 text Bu en zevkli şeydi.
++					297 text Kırmızı: yapay zekaya en çok benzeyen. Turuncu: bazı YZ işaretleri. Skorunu görmek için bir cümleye tıklayın.
++					298 text 93 / 3.000 kelime
++					299 button Metni düzenle, ID: wcEdit
+~					64 button Metni kontrol et, ID: wcRun
++						300 text Metni kontrol et
+~				66 container Description: Sonuç Yapay zeka benzerlik skoru yüzde 0, ID: wcResultPane
++					301 container wcResult
++						302 container Yapay zeka benzerlik skoru yüzde 0
++						303 container
++							304 text Büyük olasılıkla insan yazımı
++						305 text İfadeler, insan yazısında genellikle olduğu gibi çeşitlilik gösteriyor.
++						306 text Güven:
++						307 text Orta
++						308 heading Olası aralık, Value: 3
++							309 text Olası aralık
++						310 text 0–14%
++						311 heading Cümle cümle, Value: 3
++							312 text Cümle cümle
++						313 text 14 cümle
++						314 container wcChart
++							315 container 14 cümlenin her birinin YZ benzerliği
++						316 text YZ'ye benzer
++						317 text 2
++						318 text Bazı işaretler
++						319 text 4
++						320 text İnsana benzer
++						321 text 8
++						322 content list
++							323 container
++								324 text Dil Türkçe
++							325 container
++								326 text Kontrol edilen kelime 93
++						327 heading Sinyal dökümü, Value: 3
++							328 text Sinyal dökümü
++						329 text 0 ile 100 arası, yüksek değer YZ'ye daha yakın
++						330 container Eğitim, öğretim, blog, pazarlama, araştırma ve birçok başka alandan insan ve yapay zeka yazılarıyla eğitilmiş bir transformer modeli. Yanıt verdiğinde puanı o belirler.
++							331 text Derin dil modeli
++							332 text 0
++						333 container Karakter, kelime seçimi, ritim ve yapı kalıplarını, ayrı tutulmuş insan ve yapay zeka metinleriyle karşılaştırır.
++							334 text Yazı kalıpları (yerleşik model)
++							335 text 43
++						336 container Belgenin ritmini, ifadelerini, tekrarlarını ve ayrıntılarını tek bir yüzey kalıbı sinyalinde toplar.
++							337 text Yüzey üslup kontrolü
++							338 text 5
++						339 container Metin boyunca cümle uzunluklarının ve başlangıçlarının ne kadar benzediği.
++							340 text Cümle tekdüzeliği
++							341 text 3
++						342 container Cilalı, kalıp geçiş ifadeleri ve yapay zeka yazısında sık görülen diğer kalıplar.
++							343 text Tahmin edilebilir ifadeler
++							344 text 20
++						345 heading Skoru ne etkiledi, Value: 3
++							346 text Skoru ne etkiledi
++						347 content list
++							348 container
++								349 text Yapay zeka yazısında görülen ifadeler  YZ yönüne itti “Hasan korkar, yalnız binemezdi”, “bizim hoşumuza gidiyordu”, “Bu, babamın seyisi, ihtiyar”
++							350 container
++								351 text İnsan yazısında görülen ifadeler  insan yönüne itti “Dadaruh'la beraber onları”, “Dadaruh'un yanından hiç ayrılmıyorduk”, “olan kardeşim Hasan'la”
++						352 button Sonuç yanlış mı? Bize bildirin
++						353 text Bu, yazı kalıplarına dayalı bir tahmindir, metni kimin yazdığının kanıtı değildir. Bir karar vermeden önce işaretlenen cümlelere ve bağlama bakın.
+The focused UI element is 0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/

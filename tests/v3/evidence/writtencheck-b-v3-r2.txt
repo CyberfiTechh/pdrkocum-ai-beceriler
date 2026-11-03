@@ -1,0 +1,106 @@
+Browser tab: 6, Title: "Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT", URL: "https://writtencheck.com/tr/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 362-365
++					268 container wcMarked
++						269 container Bu cümle: %71 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							270 text Konu: Ortak klasörleri nasıl düzenleyelim?
++						271 container Bu cümle: %71 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							272 text Merhaba,
++						273 container Bu cümle: %94 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							274 text Ortak dosyalar arasında aradığınızı bulmakta zorlandığınızda nerede takılıyorsunuz?
++						275 container Bu cümle: %84 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							276 text Kısa bir notla bize yazmanızı rica ediyoruz.
++						277 container Bu cümle: %91 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							278 text Dosya türünü, bulunduğu klasörün adını ve karşılaştığınız sorunu belirtmeniz yeterli.
++						279 container Bu cümle: %26 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							280 text Bir şablon doldurmanız gerekmiyor.
++						281 container Bu cümle: %24 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							282 text Dosyanın kendisini, içeriğini ya da özel bilgileri göndermenizi de istemiyoruz; bu aşamada sorunu anlamamız yeterli.
++						283 container Bu cümle: %17 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							284 text Ekipçe kullanabileceğimiz bir klasör düzeni üzerinde düşünmek istiyoruz.
++						285 container Bu cümle: %63 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							286 text Henüz uygulamaya geçme kararı almadık.
++						287 container Bu cümle: %88 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							288 text Önce dosyaları hangi başlıklar altında tuttuğumuzu inceleyelim.
++						289 container Bu cümle: %99 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							290 text Benzer içerikler ayrı yerlerde mi duruyor, buna da bakmak istiyoruz.
++						291 container Bu cümle: %99 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							292 text Kişisel notlarla ortak belgeleri bu incelemede ayrı tutmayı öneriyoruz.
++						293 container Bu cümle: %96 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							294 text Şimdilik hiçbir dosyayı silmenizi veya taşımanızı istemiyoruz.
++						295 container Bu cümle: %78 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							296 text Gelen görüşleri değerlendirdikten sonra bir taslak hazırlayıp sizinle paylaşmayı düşünüyoruz.
++						297 container Bu cümle: %63 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							298 text Taslağı birlikte inceleyelim.
++						299 container Bu cümle: %92 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							300 text Üzerinde uzlaşmadan mevcut çalışma düzenini değiştirmeyeceğiz.
++						301 container Bu cümle: %91 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							302 text Yani bu mesajla yeni bir dosyalama düzenini başlatmıyoruz; ortak belgeleri daha kolay bulmak için nasıl bir yapı kullanabileceğimizi konuşmaya hazırlanıyoruz.
++						303 container Bu cümle: %87 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							304 text Değerlendirme toplantısının günü henüz belli değil.
++						305 container Bu cümle: %15 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü)
++							306 text Tarihi netleştirdiğimizde haber vereceğiz.
++						307 container Bu cümle: %9 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							308 text O zamana kadar mevcut düzen devam edecek.
++						309 container Bu cümle: %9 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							310 text Katkılarınız için teşekkürler, iyi çalışmalar.
++					311 text Kırmızı: yapay zekaya en çok benzeyen. Turuncu: bazı YZ işaretleri. Skorunu görmek için bir cümleye tıklayın.
++					312 text 157 / 3.000 kelime
++					313 button Metni düzenle, ID: wcEdit
+~					64 button Metni kontrol et, ID: wcRun
++						314 text Metni kontrol et
+~				66 container Description: Sonuç Yapay zeka benzerlik skoru yüzde 100, ID: wcResultPane
++					315 container wcResult
++						316 container Yapay zeka benzerlik skoru yüzde 100
++						317 container
++							318 text Büyük olasılıkla yapay zeka
++						319 text İfadeler, yapay zeka modellerinin ürettiği metinlere çok benziyor.
++						320 text Güven:
++						321 text Yüksek
++						322 heading Olası aralık, Value: 3
++							323 text Olası aralık
++						324 text 92–100%
++						325 heading Cümle cümle, Value: 3
++							326 text Cümle cümle
++						327 text 21 cümle
++						328 container wcChart
++							329 container 21 cümlenin her birinin YZ benzerliği
++						330 text YZ'ye benzer
++						331 text 13
++						332 text Bazı işaretler
++						333 text 2
++						334 text İnsana benzer
++						335 text 6
++						336 content list
++							337 container
++								338 text Dil Türkçe
++							339 container
++								340 text Kontrol edilen kelime 157
++						341 heading Sinyal dökümü, Value: 3
++							342 text Sinyal dökümü
++						343 text 0 ile 100 arası, yüksek değer YZ'ye daha yakın
++						344 container Eğitim, öğretim, blog, pazarlama, araştırma ve birçok başka alandan insan ve yapay zeka yazılarıyla eğitilmiş bir transformer modeli. Yanıt verdiğinde puanı o belirler.
++							345 text Derin dil modeli
++							346 text 100
++						347 container Karakter, kelime seçimi, ritim ve yapı kalıplarını, ayrı tutulmuş insan ve yapay zeka metinleriyle karşılaştırır.
++							348 text Yazı kalıpları (yerleşik model)
++							349 text 97
++						350 container Belgenin ritmini, ifadelerini, tekrarlarını ve ayrıntılarını tek bir yüzey kalıbı sinyalinde toplar.
++							351 text Yüzey üslup kontrolü
++							352 text 4
++						353 container Metin boyunca cümle uzunluklarının ve başlangıçlarının ne kadar benzediği.
++							354 text Cümle tekdüzeliği
++							355 text 23
++						356 container Cilalı, kalıp geçiş ifadeleri ve yapay zeka yazısında sık görülen diğer kalıplar.
++							357 text Tahmin edilebilir ifadeler
++							358 text 20
++						359 heading Skoru ne etkiledi, Value: 3
++							360 text Skoru ne etkiledi
++						361 content list
++							362 container
++								363 text Yapay zeka yazısında görülen ifadeler  YZ yönüne itti “birlikte inceleyelim”, “dosyalama düzenini başlatmıyoruz”, “bu mesajla yeni bir”
++							364 container
++								365 text İnsan yazısında görülen ifadeler  insan yönüne itti “kendisini, içeriğini ya da”, “Tarihi netleştirdiğimizde haber vereceğiz”, “Gelen görüşleri değerlendirdikten”
++						366 button Sonuç yanlış mı? Bize bildirin
++						367 text Bu, yazı kalıplarına dayalı bir tahmindir, metni kimin yazdığının kanıtı değildir. Bir karar vermeden önce işaretlenen cümlelere ve bağlama bakın.
+The focused UI element is 0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/

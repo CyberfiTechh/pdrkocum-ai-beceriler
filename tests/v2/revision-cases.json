@@ -1,0 +1,14 @@
+[
+  {
+    "id": "R01",
+    "prompt": "Öğrenci günlük görevlerini tek listede görebiliyor. Bilinen tek ürün özelliği bu. Öğrencilere yönelik iki cümlelik sade tanıtım yaz; başka ürün bilgisi yok."
+  },
+  {
+    "id": "R02",
+    "prompt": "Kısa duyuru yaz, tam iki cümle olsun. Verilen tek bilgi: Ücretsiz okuma buluşması pazar 14.00’te kütüphanede. Rezervasyon, kontenjan ve kayıt hakkında bilgi yok."
+  },
+  {
+    "id": "R03",
+    "prompt": "Bülten tanıtımını iki cümlede yaz. Kesin bilgi: Her cuma bir kitap önerisi e-postayla gönderiliyor. Ücretsiz olup olmadığı, kişiselleştirme ve başka içerikler bilinmiyor."
+  }
+]

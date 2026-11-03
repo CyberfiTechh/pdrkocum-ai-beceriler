@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "draft_file": "draft.txt",
+  "draft_sha256": "4b7bb318e8caf8eef7410429dc9e860360568916422fe34e649fc884c8c45154",
+  "sources": [
+    {
+      "id": "s1",
+      "kind": "provided",
+      "path": "source.txt",
+      "sha256": "2107b76caf17ad9eeff42454731dff2f539e8c6c650bc9f8555af1d6aafac058",
+      "origin": "Kullanıcı isteği T07"
+    }
+  ],
+  "segments": [
+    {
+      "text": "Tanesi 1.250,50 TL olan üç kitabın toplamı 3.751,50 TL. ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Bir kitap 1.250,50 TL, üç kitap alındı."
+        }
+      ]
+    },
+    {
+      "text": "İndirim, kargo ücreti veya ek vergi yok.",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "İndirim/kargo/vergi ilavesi yok."
+        }
+      ]
+    }
+  ]
+}

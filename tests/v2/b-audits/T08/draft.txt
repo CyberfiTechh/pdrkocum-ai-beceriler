@@ -1,0 +1,1 @@
+Aktif kullanıcı sayımız geçen ay 0 iken bu ay 12’ye ulaştı; artış 12 kullanıcı. Başlangıç değeri sıfır olduğu için yüzdelik büyüme hesaplanamıyor.

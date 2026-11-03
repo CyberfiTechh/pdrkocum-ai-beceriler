@@ -1,0 +1,14 @@
+{
+  "1": {
+    "request": "Sadece imla: Toplantı cuma 15.30da, katılım zorunlu degil.",
+    "answer": "Toplantı cuma 15.30'da, katılım zorunlu değil."
+  },
+  "2": {
+    "request": "Doğallaştır: Plan onaylanmadı; görüş topluyoruz, kesin uygulama kararı yok.",
+    "answer": "Plan onaylanmadı. Görüş topluyoruz; uygulamaya ilişkin kesin bir karar yok."
+  },
+  "3": {
+    "request": "Doğallaştır ama alıntıyı koru: Kaynak şöyle diyor: 'Sonuç olarak, katılım isteğe bağlıdır.'",
+    "answer": "Kaynak şöyle diyor: 'Sonuç olarak, katılım isteğe bağlıdır.'"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "draft_file": "draft.txt",
+  "draft_sha256": "6e11f495534184eecb94b49a51c83479e31fcbc65a89624dfe8d5073121c2e0e",
+  "sources": [
+    {
+      "id": "s1",
+      "kind": "provided",
+      "path": "source.txt",
+      "sha256": "89337ddd03e1d1f93b907d6c0cd60e23a25face5fb0b73876fc144327067ee9a",
+      "origin": "Kullanıcı isteği T08"
+    }
+  ],
+  "segments": [
+    {
+      "text": "Aktif kullanıcı sayımız geçen ay 0 iken bu ay 12’ye ulaştı; artış 12 kullanıcı. ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Geçen ay aktif kullanıcı 0, bu ay 12."
+        }
+      ]
+    },
+    {
+      "text": "Başlangıç değeri sıfır olduğu için yüzdelik büyüme hesaplanamıyor.",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Geçen ay aktif kullanıcı 0, bu ay 12."
+        }
+      ]
+    }
+  ]
+}

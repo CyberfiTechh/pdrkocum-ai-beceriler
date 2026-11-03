@@ -1,0 +1,98 @@
+Browser tab: 7, Title: "Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT", URL: "https://writtencheck.com/tr/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 370-373
++					268 container wcMarked
++						269 container Bu cümle: %1 YZ benzerliği. Sayılar ve ayrıntılar (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							270 text Okuma buluşmamız pazar günü saat 14.
++						271 container Bu cümle: %1 YZ benzerliği. Sayılar ve ayrıntılar (skoru düşürdü)
++							272 text 00'te kütüphanede yapılacak.
++						273 container Bu cümle: %41 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							274 text Yetişkinlere açık olan buluşmaya katılım ücretsiz.
++						275 container Bu cümle: %31 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							276 text Önceden bir kitap bitirmeniz gerekmiyor; okuduğunuz ya da yarım bıraktığınız bir kitap üzerine konuşabilir, dilerseniz yalnızca dinleyebilirsiniz.
++						277 container Bu cümle: %53 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							278 text İlk bölümde söz almak isteyenler konuşacakları kitabı kısaca tanıtacak.
++						279 container Bu cümle: %64 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							280 text Ardından kitaplarla ilgili görüşler paylaşılacak.
++						281 container Bu cümle: %78 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							282 text Herkesin aynı fikirde olmasını beklemiyoruz; birbirinizin sözünü kesmeden konuşmanızı ve farklı yorumları dinlemenizi rica ediyoruz.
++						283 container Bu cümle: %85 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							284 text Kitabın sonunu anlatmanız gerekiyorsa lütfen konuşmanızın o bölümüne geçmeden önce haber verin.
++						285 container Bu cümle: %31 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							286 text Yanınızda kitap getirmeniz şart değil.
++						287 container Bu cümle: %8 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							288 text Not almak isterseniz kendi defterinizi kullanabilirsiniz.
++						289 container Bu cümle: %9 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							290 text Etkinlikte kitap satışı yapılmayacak; katılmak için kitap satın almanız da gerekmiyor.
++						291 container Bu cümle: %19 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							292 text Kayıt yöntemi ve kontenjan hakkında henüz bilgi paylaşılmadığı için bu konularda kesin bir açıklama yapamıyoruz.
++						293 container Bu cümle: %48 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							294 text Buluşmanın ne kadar süreceği de henüz belli değil.
++						295 container Bu cümle: %42 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
++							296 text Süre ve kayıt bilgileri netleştiğinde bu duyuruya eklenecek.
++						297 container Bu cümle: %24 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							298 text Fotoğraf çekilecek olursa katılımcılara önceden bilgi verilecek.
++						299 container Bu cümle: %5 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							300 text Fotoğrafta yer almak istemeyenlerin tercihine uyulacak.
++						301 container Bu cümle: %5 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
++							302 text Buluşmaya katılmanız, fotoğraf çekimine izin verdiğiniz anlamına gelmeyecek.
++					303 text Kırmızı: yapay zekaya en çok benzeyen. Turuncu: bazı YZ işaretleri. Skorunu görmek için bir cümleye tıklayın.
++					304 text 147 / 3.000 kelime
++					305 button Metni düzenle, ID: wcEdit
+~					64 button Metni kontrol et, ID: wcRun
++						306 text Metni kontrol et
+~				66 container Description: Sonuç Yapay zeka benzerlik skoru yüzde 100, ID: wcResultPane
++					307 container wcResult
++						308 container Yapay zeka benzerlik skoru yüzde 100
++						309 container
++							310 text Büyük olasılıkla yapay zeka
++						311 text Skor, üretilmiş bölümleri yansıtıyor. Cümle haritası bunların hangileri olduğunu gösteriyor.
++						312 text Güven:
++						313 text Yüksek
++						314 heading Olası aralık, Value: 3
++							315 text Olası aralık
++						316 text 92–100%
++						317 heading Cümle cümle, Value: 3
++							318 text Cümle cümle
++						319 text 17 cümle
++						320 container wcChart
++							321 container 17 cümlenin her birinin YZ benzerliği
++						322 text YZ'ye benzer
++						323 text 2
++						324 text Bazı işaretler
++						325 text 3
++						326 text İnsana benzer
++						327 text 12
++						328 content list
++							329 container
++								330 text Dil Türkçe
++							331 container
++								332 text Kontrol edilen kelime 147
++						333 heading Sinyal dökümü, Value: 3
++							334 text Sinyal dökümü
++						335 text 0 ile 100 arası, yüksek değer YZ'ye daha yakın
++						336 container Eğitim, öğretim, blog, pazarlama, araştırma ve birçok başka alandan insan ve yapay zeka yazılarıyla eğitilmiş bir transformer modeli. Yanıt verdiğinde puanı o belirler.
++							337 text Derin dil modeli
++							338 text 100
++						339 container Karakter, kelime seçimi, ritim ve yapı kalıplarını, ayrı tutulmuş insan ve yapay zeka metinleriyle karşılaştırır.
++							340 text Yazı kalıpları (yerleşik model)
++							341 text 26
++						342 container Belgenin ritmini, ifadelerini, tekrarlarını ve ayrıntılarını tek bir yüzey kalıbı sinyalinde toplar.
++							343 text Yüzey üslup kontrolü
++							344 text 5
++						345 container Metin boyunca cümle uzunluklarının ve başlangıçlarının ne kadar benzediği.
++							346 text Cümle tekdüzeliği
++							347 text 31
++						348 container Cilalı, kalıp geçiş ifadeleri ve yapay zeka yazısında sık görülen diğer kalıplar.
++							349 text Tahmin edilebilir ifadeler
++							350 text 20
++						351 heading Skoru ne etkiledi, Value: 3
++							352 text Skoru ne etkiledi
++						353 content list
++							354 container
++								355 text Yapay zeka yazısında görülen ifadeler  YZ yönüne itti “yalnızca”, “kesin bir açıklama”, “beklemiyoruz; birbirinizin”
++							356 container
++								357 text İnsan yazısında görülen ifadeler  insan yönüne itti “kullanabilirsiniz”, “izin verdiğiniz anlamına gelmeyecek”, “isteyenler konuşacakları kitabı”
++						358 button Sonuç yanlış mı? Bize bildirin
++						359 text Bu, yazı kalıplarına dayalı bir tahmindir, metni kimin yazdığının kanıtı değildir. Bir karar vermeden önce işaretlenen cümlelere ve bağlama bakın.
+The focused UI element is 0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/

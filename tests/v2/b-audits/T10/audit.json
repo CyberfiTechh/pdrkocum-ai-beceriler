@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "draft_file": "draft.txt",
+  "draft_sha256": "6979d5d190d31d2852a47225e7d3a4db22dccb5eb8d539a6311be9f5ad7a3366",
+  "sources": [
+    {
+      "id": "s1",
+      "kind": "provided",
+      "path": "source.txt",
+      "sha256": "c2bd52ba5c63a3f211dd1dd37240185b33aeb104231ab4242745963ae083237a",
+      "origin": "Kullanıcı isteği T10"
+    }
+  ],
+  "segments": [
+    {
+      "text": "2023 faaliyet raporumuza göre, 2023 sonunda 50 okul hizmetimizi kullandı.",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Tek kaynak 2023 faaliyet raporu: '2023 sonunda 50 okul hizmeti kullandı.'"
+        }
+      ]
+    },
+    {
+      "text": "\n\nNot: Bugünkü okul sayısı bilinmediği için “bugün” ifadesini çıkardım.",
+      "kind": "uncertainty",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Bugünkü sayı bilinmiyor."
+        }
+      ]
+    }
+  ]
+}

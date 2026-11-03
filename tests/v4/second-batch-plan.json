@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-11-03T09:43:26.610960+00:00",
+  "base": "c-r4",
+  "objective": "<=10, meaning preserved",
+  "variants": {
+    "c-r9": "Remove duplicate uncertainty and photo-consent statements and unnecessary meta sentence; shorter length is a confound.",
+    "c-r10": "Rewrite only introduction as invitation and clarify location reference.",
+    "c-r11": "Use known organizer voice for discussion and photo procedures; remove repeated consent summary."
+  },
+  "note": "No score observed for these variants when plan written; this is further development, not holdout."
+}

@@ -1,0 +1,14 @@
+{
+  "reviewer": "Beceriyi hazırlayan asistan; bağımsız insan incelemesi değil.",
+  "meaning_checks": [
+    {"sample":"b-v3","status":"pass","note":"B kaynak bilgileri ve belirsizlikler korundu; yeniden yazım sınırlı."},
+    {"sample":"b-v3-r2","status":"pass_with_style_issue","note":"Maddi bilgiler korundu. Yani ile başlayan cümle ve o zamana kadar mevcut düzen ifadesi tekrar içeriyor. Başlangıçtan daha iyi genel aday sayılmadı."},
+    {"sample":"c-v3","status":"pass_not_detector_tested","note":"İlk oturumun ön adayı; dedektöre gönderilmedi, nihai adayla karıştırılmamalı."},
+    {"sample":"c-v3-final","status":"pass","note":"Saat/yer/hedef kitle, ücretsiz katılım, isteğe bağlı konuşma/kitap, kayıt ve süre belirsizliği, fotoğraf rızası korundu."}
+  ],
+  "regression_checks": {
+    "initial": {"pass":7,"fail":0,"scope":"İmla, kanıtsız %80, birebir alıntı, yüzde hesabı, iyi cümleyi koruma, onay/izin, tarih çelişkisi."},
+    "final": {"pass":3,"fail":0,"scope":"İmla, planı kesin karara çevirmeme, birebir alıntı."}
+  },
+  "limits":["Küçük sentetik örneklem; metinler AI üretimi.","C sonuçları kural ayarında kullanılmadı; ayrılmış örnek bilimsel dış doğrulama değildir.","7+3 görev aynı model ailesinin yeni oturumlarında üretildi; son değerlendirmeyi yazar asistan yaptı.","Sadece tam metin puanları karşılaştırıldı; cümle renklerinden toplam sonuç türetilmedi.","B örneğinde genellenebilir puan iyileşmesi gösterilmedi."]
+}

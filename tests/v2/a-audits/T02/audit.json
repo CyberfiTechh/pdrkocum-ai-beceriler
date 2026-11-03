@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "draft_file": "draft.txt",
+  "draft_sha256": "c44ab483394371d551499a7b3ffd2a2c73c5159c0677fe1b3493bc0dbca1631f",
+  "sources": [
+    {
+      "id": "s1",
+      "kind": "provided",
+      "path": "source.txt",
+      "sha256": "ae6a77b217aeb9fa948fea486e984ba02d14e9feba171b38ae70504fef714902",
+      "origin": "Kullanıcının verdiği tek kaynak ve görev bağlamı"
+    }
+  ],
+  "segments": [
+    {
+      "text": "Merkezimiz 2019 yılında kuruldu.",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Kurumun tanıtım belgesinde kuruluş yılı 2019."
+        }
+      ]
+    },
+    {
+      "text": "\n\nNot: Verilen kaynakta yerleştirme verisi bulunmadığı için ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Yerleştirme verisi yok."
+        }
+      ]
+    },
+    {
+      "text": "“2.000 öğrenciyi üniversiteye yerleştirdi” ifadesi çıkarıldı.",
+      "kind": "other",
+      "evidence": []
+    }
+  ]
+}

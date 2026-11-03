@@ -1,0 +1,107 @@
+[
+  {
+    "path": "a-audits/T01/audit.json",
+    "exit_code": 0,
+    "report": {
+      "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+      "draft_sha256": "558455216f7a004794ceb3eee0679c023939fd41ebe003cf254cc612b9af5723",
+      "segments": 5,
+      "fact_or_inference_segments": 5,
+      "sources": 1,
+      "limitations": [
+        "Source retrieval and authenticity are not verified.",
+        "Claim classification, entailment, completeness, freshness and truth require semantic review."
+      ]
+    }
+  },
+  {
+    "path": "a-audits/T02/audit.json",
+    "exit_code": 0,
+    "report": {
+      "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+      "draft_sha256": "c44ab483394371d551499a7b3ffd2a2c73c5159c0677fe1b3493bc0dbca1631f",
+      "segments": 3,
+      "fact_or_inference_segments": 2,
+      "sources": 1,
+      "limitations": [
+        "Source retrieval and authenticity are not verified.",
+        "Claim classification, entailment, completeness, freshness and truth require semantic review."
+      ]
+    }
+  },
+  {
+    "path": "a-audits/T03/audit.json",
+    "exit_code": 0,
+    "report": {
+      "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+      "draft_sha256": "117ac6a6894e0f53b9c34ba55d3b5cf31c5d19ce1be2b984c4f363afb0045c33",
+      "segments": 5,
+      "fact_or_inference_segments": 3,
+      "sources": 1,
+      "limitations": [
+        "Source retrieval and authenticity are not verified.",
+        "Claim classification, entailment, completeness, freshness and truth require semantic review."
+      ]
+    }
+  },
+  {
+    "path": "a-audits/T06/audit.json",
+    "exit_code": 0,
+    "report": {
+      "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+      "draft_sha256": "fc53db9d426b31080be078d250aaf53b73d2241c45e29b776e155fdd2dc60967",
+      "segments": 3,
+      "fact_or_inference_segments": 2,
+      "sources": 1,
+      "limitations": [
+        "Source retrieval and authenticity are not verified.",
+        "Claim classification, entailment, completeness, freshness and truth require semantic review."
+      ]
+    }
+  },
+  {
+    "path": "b-audits/T07/audit.json",
+    "exit_code": 0,
+    "report": {
+      "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+      "draft_sha256": "4b7bb318e8caf8eef7410429dc9e860360568916422fe34e649fc884c8c45154",
+      "segments": 2,
+      "fact_or_inference_segments": 2,
+      "sources": 1,
+      "limitations": [
+        "Source retrieval and authenticity are not verified.",
+        "Claim classification, entailment, completeness, freshness and truth require semantic review."
+      ]
+    }
+  },
+  {
+    "path": "b-audits/T08/audit.json",
+    "exit_code": 0,
+    "report": {
+      "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+      "draft_sha256": "6e11f495534184eecb94b49a51c83479e31fcbc65a89624dfe8d5073121c2e0e",
+      "segments": 2,
+      "fact_or_inference_segments": 2,
+      "sources": 1,
+      "limitations": [
+        "Source retrieval and authenticity are not verified.",
+        "Claim classification, entailment, completeness, freshness and truth require semantic review."
+      ]
+    }
+  },
+  {
+    "path": "b-audits/T10/audit.json",
+    "exit_code": 0,
+    "report": {
+      "status": "MECHANICAL_CHECKS_PASSED_NEEDS_SEMANTIC_REVIEW",
+      "draft_sha256": "6979d5d190d31d2852a47225e7d3a4db22dccb5eb8d539a6311be9f5ad7a3366",
+      "segments": 2,
+      "fact_or_inference_segments": 1,
+      "sources": 1,
+      "limitations": [
+        "Source retrieval and authenticity are not verified.",
+        "Claim classification, entailment, completeness, freshness and truth require semantic review."
+      ]
+    }
+  }
+]

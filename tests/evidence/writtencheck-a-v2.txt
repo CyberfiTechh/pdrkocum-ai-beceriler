@@ -1,0 +1,145 @@
+Browser tab: 4, Title: "Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT", URL: "https://writtencheck.com/tr/".
+0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/
+	1 link Description: İçeriğe geç, Value: writtencheck.com/tr/#main
+	2 container
+		3 link Description: WrittenCheck ana sayfa, Value: writtencheck.com/tr/
+		4 container Description: Ana menü, ID: siteNav
+			5 link Description: Yapay Zeka Dedektörü, Value: writtencheck.com/tr/
+			6 link Description: Nasıl çalışır, Value: writtencheck.com/how-it-works
+			7 link Description: API, Value: writtencheck.com/ai-detector-api
+			8 link Description: Hakkımızda, Value: writtencheck.com/about
+			9 link Description: İletişim, Value: writtencheck.com/contact
+		10 button (collapsed) Description: Dil seçin, Secondary Actions: Expand
+		11 button Description: Switch to dark mode, ID: themeToggle
+		12 link Description: Hesap, Value: writtencheck.com/account
+	13 container main
+		14 container
+			15 heading Yapay zeka dedektörü: Türkçe metinler için ücretsiz kontrol, Value: 1
+				16 text Yapay zeka dedektörü: Türkçe metinler için  ücretsiz  kontrol
+			17 text Bu yapay zeka dedektörü, ödevinizin, tezinizin ya da blog yazınızın ChatGPT, Claude veya Gemini gibi bir araçla yazılmış gibi okunup okunmadığını birkaç saniyede gösterir. Hangi cümlelerin şüpheli durduğunu da tek tek işaretler.
+			18 content list
+				19 text Ücretsiz, üyeliksiz
+				20 text Türkçeye özel model
+				21 text Cümle cümle sonuç
+				22 text Metniniz saklanmaz
+			23 container checker
+				24 container Description: Metniniz, ID: wcInputPane
+					25 text Metniniz
+					26 button (disabled) Yapıştır, Help: Metin yapıştır, ID: wcPaste
+					27 button Yükle, Help: Dosya yükleyin, ID: wcUpload
+					28 text Dil
+					29 pop up button (collapsed, settable) Dil, Value: Türkçe, ID: wcLanguage, Secondary Actions: Expand
+						30 menu
+							31 Dili algıla
+							32 İngilizce
+							33 Arapça
+							34 Çince
+							35 Fransızca
+							36 Almanca
+							37 Hintçe
+							38 Endonezce
+							39 İtalyanca
+							40 Japonca
+							41 Korece
+							42 Portekizce
+							43 Rusça
+							44 İspanyolca
+							45 Tagalogca (Filipince)
+							46 Tayca
+							47 (selected) Türkçe
+							48 Urduca
+					268 container wcMarked
+						269 container Bu cümle: %86 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							270 text Çalışma planını hazırlarken önce bu hafta hangi konuları bitirmek istediğini belirle.
+						271 container Bu cümle: %86 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							272 text Okul saatlerini ve diğer sorumluluklarını düşünerek çalışmaya ne kadar zaman ayırabileceğine bak.
+						273 container Bu cümle: %42 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							274 text Her güne aynı miktarda iş koymak zorunda değilsin; görevleri o günün koşullarına göre dağıt.
+						275 container Bu cümle: %55 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							276 text Dinlenmeye ve kişisel ihtiyaçlarına da zaman ayır.
+						277 container Bu cümle: %46 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							278 text Gün sonunda o gün tamamladığın çalışmaları gözden geçirerek planın uygulanabilir olup olmadığını değerlendir.
+						279 container Bu cümle: %64 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							280 text Tamamlayamadığın görevler varsa nedenlerini kısaca not et.
+						281 container Bu cümle: %84 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							282 text Bir konunun beklediğinden uzun sürmesiyle çalışmaya hiç başlamamış olmak farklı durumlar; bunları aynı şekilde değerlendirme.
+						283 container Bu cümle: %97 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							284 text Bu ayrım, planında neyi değiştireceğine karar verirken yol gösterebilir.
+						285 container Bu cümle: %96 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							286 text Gerektiğinde çalışma süresini ya da görevin kapsamını yeniden düzenlemeyi düşün.
+						287 container Bu cümle: %97 YZ benzerliği. İnsan yazısında görülen ifadeler (skoru düşürdü). Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							288 text Çözdüğün soru sayısının yanında, yanlışlarının nedenlerine de bak.
+						289 container Bu cümle: %97 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti)
+							290 text Hangi adımı anlamadığını belirlemek, bir sonraki çalışmada nereye dönmen gerektiğini gösterebilir.
+						291 container Bu cümle: %99 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							292 text Hafta sonunda bütün görevleri yeniden sıralamak yerine, hâlâ zorlandığın noktaları ve uygulayabildiğin kararları kısaca değerlendir.
+						293 container Bu cümle: %99 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							294 text Sonraki haftanın planını hazırlarken bu notlardan yararlan.
+						295 container Bu cümle: %99 YZ benzerliği. Yapay zeka yazısında görülen ifadeler (skoru yükseltti). İnsan yazısında görülen ifadeler (skoru düşürdü)
+							296 text Bunlar herkes için aynı biçimde işleyecek kesin kurallar değil; önerileri kendi koşullarına göre değiştirebilirsin.
+					297 text Kırmızı: yapay zekaya en çok benzeyen. Turuncu: bazı YZ işaretleri. Skorunu görmek için bir cümleye tıklayın.
+					59 text Örnek deneyin:
+					60 button Yapay zeka metni
+					61 button İnsan metni
+					298 text 153 / 3.000 kelime
+					299 button Metni düzenle, ID: wcEdit
+					63 button Temizle, ID: wcClear
+					64 button Metni kontrol et, ID: wcRun
+						300 text Metni kontrol et
+				66 container Description: Sonuç Yapay zeka benzerlik skoru yüzde 100, ID: wcResultPane
+					67 text Sonuç
+					301 container wcResult
+						302 container Yapay zeka benzerlik skoru yüzde 100
+						303 container
+							304 text Büyük olasılıkla yapay zeka
+						305 text İfadeler, yapay zeka modellerinin ürettiği metinlere çok benziyor.
+						306 text Güven:
+						307 text Yüksek
+						308 heading Olası aralık, Value: 3
+							309 text Olası aralık
+						310 text 92–100%
+						311 heading Cümle cümle, Value: 3
+							312 text Cümle cümle
+						313 text 14 cümle
+						314 container wcChart
+							315 container 14 cümlenin her birinin YZ benzerliği
+						316 text YZ'ye benzer
+						317 text 10
+						318 text Bazı işaretler
+						319 text 3
+						320 text İnsana benzer
+						321 text 1
+						322 content list
+							323 container
+								324 text Dil Türkçe
+							325 container
+								326 text Kontrol edilen kelime 153
+						327 heading Sinyal dökümü, Value: 3
+							328 text Sinyal dökümü
+						329 text 0 ile 100 arası, yüksek değer YZ'ye daha yakın
+						330 container Eğitim, öğretim, blog, pazarlama, araştırma ve birçok başka alandan insan ve yapay zeka yazılarıyla eğitilmiş bir transformer modeli. Yanıt verdiğinde puanı o belirler.
+							331 text Derin dil modeli
+							332 text 100
+						333 container Karakter, kelime seçimi, ritim ve yapı kalıplarını, ayrı tutulmuş insan ve yapay zeka metinleriyle karşılaştırır.
+							334 text Yazı kalıpları (yerleşik model)
+							335 text 100
+						336 container Belgenin ritmini, ifadelerini, tekrarlarını ve ayrıntılarını tek bir yüzey kalıbı sinyalinde toplar.
+							337 text Yüzey üslup kontrolü
+							338 text 9
+						339 container Metin boyunca cümle uzunluklarının ve başlangıçlarının ne kadar benzediği.
+							340 text Cümle tekdüzeliği
+							341 text 48
+						342 container Cilalı, kalıp geçiş ifadeleri ve yapay zeka yazısında sık görülen diğer kalıplar.
+							343 text Tahmin edilebilir ifadeler
+							344 text 20
+						345 heading Skoru ne etkiledi, Value: 3
+							346 text Skoru ne etkiledi
+						347 content list
+							348 container
+								349 text Yapay zeka yazısında görülen ifadeler  YZ yönüne itti “Sonraki haftanın planını”, “belirlemek, bir sonraki çalışmada”, “değil; önerileri kendi koşullarına”
+							350 container
+								351 text İnsan yazısında görülen ifadeler  insan yönüne itti “çalışmaya hiç başlamamış olmak”, “Bunlar”, “uygulayabildiğin”
+						352 button Sonuç yanlış mı? Bize bildirin
+						353 text Bu, yazı kalıplarına dayalı bir tahmindir, metni kimin yazdığının kanıtı değildir. Bir karar vermeden önce işaretlenen cümlelere ve bağlama bakın.
+			72 text %97,3 YZ metni yakalandı (14 Ekim 2026 testi) %0,22 insan metni yanlış işaretlendi 3.000 kelimeye kadar tek seferde 0 saklanan metin İnsan örneği: Ömer Seyfettin, «Kaşağı» (1919), kamu malı (Vikikaynak). Yapay zeka örneği: bu sayfa için bir yapay zeka modeli olan Claude tarafından yazıldı. 2 Ekim'deki yeniden eğitimden sonra, 3 Ekim 2026'da canlı araçla kontrol edildi: insan örneği %43 (aralık 23–63, güven düşük, Büyük olasılıkla insan yazımı); yapay zeka örneği %88 (aralık 80–96, güven yüksek, Büyük olasılıkla yapay zeka). Ömer Seyfettin'i 2 Ekim'de eklenen edebiyat metinleri arasında bulmadık, ama tanınmış eski yazarların başka eserleri daha önceki eğitim verilerinde yer alıyor olabilir. İnsan örneği kısa, yalnızca 93 kelime. Yeniden eğitimden önce 27 alıyordu, şimdi düşük güvenle 43 alıyor ve olası aralığı karışık bölgeye kadar uzanıyor. Kısa metinlerin neden daha az güvenilir olduğunu bu örnek iyi gösteriyor. Tek bir örnek doğruluğu ölçmez, yalnızca bir fikir verir.
+		73 container

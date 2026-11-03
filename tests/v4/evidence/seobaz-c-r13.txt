@@ -1,0 +1,66 @@
+Browser tab: 8, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 49-51, 260, 262
+~			259 text 1088 characters Queries left: 8
+~			46 button Analyze
++				262 text Analyze
++			263 text 32% AI PROBABILITY
++			264 text Most likely human-written
++			265 text Medium confidence Likely range: 21% - 43% Text type: Event announcement
++			266 text The text is a tidy announcement made of short, evenly paced sentences that cover many contingencies, including repeated disclaimers about unknowns. Measured AI patterns are absent and the genre favors this kind of plain structure, but the lack of personal or local detail keeps the evidence inconclusive.
++			267 container adSonuc
++				268 text 32% AI PROBABILITY
++				269 text Most likely human-written
++				270 text Medium confidence Likely range: 21% - 43% Text type: Event announcement Measurement breakdown Linguistic analysis, calculated independently of the model
++				271 text Sentence rhythm
++				272 text 43/100
++				273 text Sentence lengths show moderate variation (0.41); short sentences break up the rhythm.
++				274 text Pattern density
++				275 text 0/100
++				276 text No known AI patterns or connector pile-ups were found.
++				277 text Monotony of style
++				278 text 10/100
++				279 text Set predicate ("-dır/-dir") ratio 0%, sentence endings vary, different punctuation marks used: 3.
++				280 text Human traces
++				281 text 0/100
++				282 text No traces of personal experience, conversational language or typing noise were found.
++				283 text Signal measurements Values are calculated from the text; they are measurements, not labels
++				284 text SENTENCE RHYTHM
++				285 text Sentence length variability 0.41 Sentences of similar length 56% Share of short sentences 50% Paragraph length balance measured
++				286 text PATTERN DENSITY
++				287 text Matched set phrases 0 patterns Sentences starting with a connector 0/18 Ending with "-maktadır / -mektedir" 0 sentences Use of long dashes 0 found Formatting leftovers (**, ##, bullets) 0 marks Rule-of-three lists 0 sentences
++				288 text MONOTONY OF STYLE
++				289 text Sentences ending in "-dır / -dir" 0% Variety of sentence endings 0.72 Punctuation marks used 3/9 types Vocabulary variety 0.94 Repeated phrases 0%
++				290 text HUMAN TRACES
++				291 text Personal experience and conversational tone none found Typing irregularities none found Concrete data (numbers, dates, names) 3.1/100 words Most suspicious sentences Verified word for word in the text Kayıt yöntemiyle kontenjan açıklanmadı, buluşmanın süresi belli değil.
++				292 text The way it states missing information in a flat, systematic manner reads like a generated disclaimer.
++				293 text Katıldınız diye fotoğraf çekimine izin vermiş sayılmayacaksınız.
++				294 text This is an unusually precise, legalistic clarification for a casual library meetup.
++				295 text Bitmiş bir kitap aranmıyor: okuyup bitirdiğiniz de olur, yarıda bıraktığınız da.
++				296 text The balanced, symmetrical construction is polished and rhetorically tidy.
++				297 container
++					298 text Pazar günü saat 14.00'te kütüphanede okuma buluşması var. Yetişkinlere açık ve ücretsiz. İlk bölümde konuşmak isteyen önce kitabını kısaca tanıtacak, sonra kitap hakkında konuşulacak.  Bitmiş bir kitap aranmıyor: okuyup bitirdiğiniz de olur, yarıda bıraktığınız da.  Söz almak istemiyorsanız dinleyici olarak katılabilirsiniz.
+
+Kitabı yanınızda bulundurma zorunluluğu yok. İsterseniz getirin. Not tutacaksanız kendi defterinizi kullanabilirsiniz. Burada kitap satılmayacak; gelmek için bir kitap satın almak da gerekmiyor.
+
+Konuşurken birbirimizin sözünü kesmeyelim. Herkesin aynı düşüncede olmasını beklemiyoruz ama farklı yorumları da dinleyelim. Kitabın sonunu anlatacağınız yere geldiğinizde, anlatmadan önce haber vermenizi rica ediyoruz.
+
+ Kayıt yöntemiyle kontenjan açıklanmadı, buluşmanın süresi belli değil.  Bu konularda kesin bilgi veremiyoruz. Süreyle kayıt bilgisi belli olduğunda bu duyuru güncellenecek.
+
+Çekim yapılırsa katılımcılar önceden bilgilendirilecek. Fotoğrafta olmak istemeyenlerin isteğine uyulacak.  Katıldınız diye fotoğraf çekimine izin vermiş sayılmayacaksınız.
++				299 text Interpretation layer signals Language model assessment Uniform short sentences
++				300 text Most sentences are brief declaratives of 5-9 words, which gives an even, announcement-like rhythm with only moderate variation.
++				301 text Exhaustive coverage of edge cases
++				302 text The text covers attendance, books, notes, etiquette, spoilers, registration and photography in a tidy, almost checklist-like order, as if every possible question had been anticipated.
++				303 text Explicit disclaimers of unknowns
++				304 text Statements such as 'Bu konularda kesin bilgi veremiyoruz' and the promise to update the notice are very polished and cautious, which is typical of model output.
++				305 text No personal voice
++				306 text There are no personal anecdotes, local detail (library name, address, organizer), typos or casual asides; the tone stays neutral throughout.
++				307 text No typical AI connectors
++				308 text The text has no connector pile-ups, no stock AI phrases and no -dır endings, and its punctuation varies, which fits a careful human organizer.
++				309 text How to lower the score Specific to this text, based on measured findings 1 The text shows no trace of lived experience. Add a date, a number, a name or a single example from your own experience; that alone lowers the score noticeably. 2 Add concrete local detail such as the library's name, the room, and a contact person or phone number instead of generic wording. 3 Break the even rhythm with a warmer, more personal line, such as why the group started or a casual invitation like 'Gelin, birlikte okuyalım'. 4 Cut or merge some of the exhaustive rule-like sentences, and replace the cautious 'not yet announced' lines with a plain 'we will let you know soon'. WORDS 128 SENTENCES 18 AVG. SENTENCE 7.1 words RHYTHM VARIATION 0.41
++				310 text ⚠️ No AI detector can give a definitive result; this score is an indicator of probability, not proof. Do not rely on it alone for important decisions (academic assessment, hiring and so on).
++		311 AXWebArea reCAPTCHA, URL: google.com/recaptcha/api2/anchor?ar=1&k=6Ld3LuMqAAAAAG9vQOwUpHa7SPHeKoCZKJKPCu5p&co=aHR0cHM6Ly9zZW9iYXouY29tOjQ0Mw..&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&size=invisible&badge=bottomright&anchor-ms=20000&execute-ms=30000&cb=vx4p9snxxs06
++			312 text protected by 
++			313 text reCAPTCHA
+The focused UI element is 1 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector

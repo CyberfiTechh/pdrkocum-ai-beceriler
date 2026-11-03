@@ -1,0 +1,75 @@
+Browser tab: 4, Title: "Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT", URL: "https://writtencheck.com/tr/".
+0 AXWebArea Yapay Zeka Dedektörü Ücretsiz | AI Detector Türkçe, ChatGPT, URL: writtencheck.com/tr/
+	1 link Description: İçeriğe geç, Value: writtencheck.com/tr/#main
+	2 container
+		3 link Description: WrittenCheck ana sayfa, Value: writtencheck.com/tr/
+		4 container Description: Ana menü, ID: siteNav
+			5 link Description: Yapay Zeka Dedektörü, Value: writtencheck.com/tr/
+			6 link Description: Nasıl çalışır, Value: writtencheck.com/how-it-works
+			7 link Description: API, Value: writtencheck.com/ai-detector-api
+			8 link Description: Hakkımızda, Value: writtencheck.com/about
+			9 link Description: İletişim, Value: writtencheck.com/contact
+		10 button (collapsed) Description: Dil seçin, Secondary Actions: Expand
+		11 button Description: Switch to dark mode, ID: themeToggle
+		12 link Description: Hesap, Value: writtencheck.com/account
+	13 container main
+		14 container
+			15 heading Yapay zeka dedektörü: Türkçe metinler için ücretsiz kontrol, Value: 1
+				16 text Yapay zeka dedektörü: Türkçe metinler için  ücretsiz  kontrol
+			17 text Bu yapay zeka dedektörü, ödevinizin, tezinizin ya da blog yazınızın ChatGPT, Claude veya Gemini gibi bir araçla yazılmış gibi okunup okunmadığını birkaç saniyede gösterir. Hangi cümlelerin şüpheli durduğunu da tek tek işaretler.
+			18 content list
+				19 text Ücretsiz, üyeliksiz
+				20 text Türkçeye özel model
+				21 text Cümle cümle sonuç
+				22 text Metniniz saklanmaz
+			23 container checker
+				24 container Description: Metniniz, ID: wcInputPane
+					25 text Metniniz
+					26 button (disabled) Yapıştır, Help: Metin yapıştır, ID: wcPaste
+					27 button Yükle, Help: Dosya yükleyin, ID: wcUpload
+					28 text Dil
+					29 pop up button (collapsed, settable) Dil, Value: Türkçe, ID: wcLanguage, Secondary Actions: Expand
+						30 menu
+							31 Dili algıla
+							32 İngilizce
+							33 Arapça
+							34 Çince
+							35 Fransızca
+							36 Almanca
+							37 Hintçe
+							38 Endonezce
+							39 İtalyanca
+							40 Japonca
+							41 Korece
+							42 Portekizce
+							43 Rusça
+							44 İspanyolca
+							45 Tagalogca (Filipince)
+							46 Tayca
+							47 (selected) Türkçe
+							48 Urduca
+					268 text entry area (settable) Metniniz, ID: wcText, Value: Çalışma planını hazırlarken önce bu hafta hangi konuları tamamlamak istediğini belirleyebilirsin. Ardından okul saatlerini ve diğer sorumluluklarını düşünerek çalışmaya ne kadar zaman ayırabileceğine bak. Her güne aynı miktarda iş koymak zorunda değilsin; görevleri o günün koşullarına göre dağıtmayı deneyebilirsin.
+
+Günün sonunda neleri tamamladığını gözden geçirmek, planın uygulanabilir olup olmadığını görmene yardımcı olabilir. Yetişmeyen görevlerin yanına neden tamamlanmadıklarını kısaca not edebilirsin. Bir konunun beklediğinden uzun sürmesiyle çalışmaya hiç başlamamış olman farklı durumlar. Bunları değerlendirirken aradaki farkı dikkate alman iyi olur. Gerekiyorsa çalışmaya ayırdığın süreyi ya da görevin kapsamını yeniden düzenleyebilirsin.
+
+Çözdüğün soru sayısının yanında, yanlışlarının nedenlerine de bakmayı deneyebilirsin. Hangi adımı anlamadığını belirlemek, bir sonraki çalışmanda nereye dönmen gerektiğini gösterebilir. Planında dinlenmeye ve kişisel ihtiyaçlarına da zaman ayırabilirsin. Boş kalan saatleri değerlendirirken bunları da hesaba katman iyi olabilir.
+
+Hafta bittiğinde bütün görevleri baştan listelemek yerine kısa bir değerlendirme yapmayı deneyebilirsin: Hangi konularda zorlanmaya devam ediyorsun? Aldığın kararların hangilerini uygulayabildin? Bu notlardan gelecek haftanın planını hazırlarken yararlanabilirsin. Her şeyi uzun uzun yazman gerekmiyor; sürmekte olan güçlükleri ve uygulayabildiğin kararları kısaca değerlendirmen yeterli olabilir.
+
+Bunları herkes için aynı şekilde işleyen kesin bir yöntem olarak görme. Önerileri kendi koşullarına göre değiştirebilirsin.
+					59 text Örnek deneyin:
+					60 button Yapay zeka metni
+					61 button İnsan metni
+					269 text 187 / 3.000 kelime
+					63 button Temizle, ID: wcClear
+					64 button Metni kontrol et, ID: wcRun
+						270 text Metni kontrol et
+					271 text Sunucudan beklenmedik bir yanıt geldi. Biraz sonra tekrar deneyin.
+				66 container Description: Sonuç Kontrol ediliyor, ID: wcResultPane
+					67 text Sonuç
+					272 container wcResult
+						273 heading Sonucunuz burada görünecek, Value: 2
+							274 text Sonucunuz burada görünecek
+						275 text Bir yapay zeka benzerlik skoru, olası aralık, her cümlenin grafiği ve skoru neyin yükseltip düşürdüğü burada çıkar.
+			72 text %97,3 YZ metni yakalandı (14 Ekim 2026 testi) %0,22 insan metni yanlış işaretlendi 3.000 kelimeye kadar tek seferde 0 saklanan metin İnsan örneği: Ömer Seyfettin, «Kaşağı» (1919), kamu malı (Vikikaynak). Yapay zeka örneği: bu sayfa için bir yapay zeka modeli olan Claude tarafından yazıldı. 2 Ekim'deki yeniden eğitimden sonra, 3 Ekim 2026'da canlı araçla kontrol edildi: insan örneği %43 (aralık 23–63, güven düşük, Büyük olasılıkla insan yazımı); yapay zeka örneği %88 (aralık 80–96, güven yüksek, Büyük olasılıkla yapay zeka). Ömer Seyfettin'i 2 Ekim'de eklenen edebiyat metinleri arasında bulmadık, ama tanınmış eski yazarların başka eserleri daha önceki eğitim verilerinde yer alıyor olabilir. İnsan örneği kısa, yalnızca 93 kelime. Yeniden eğitimden önce 27 alıyordu, şimdi düşük güvenle 43 alıyor ve olası aralığı karışık bölgeye kadar uzanıyor. Kısa metinlerin neden daha az güvenilir olduğunu bu örnek iyi gösteriyor. Tek bir örnek doğruluğu ölçmez, yalnızca bir fikir verir.
+		73 container

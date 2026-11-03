@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "draft_file": "draft.txt",
+  "draft_sha256": "fc53db9d426b31080be078d250aaf53b73d2241c45e29b776e155fdd2dc60967",
+  "sources": [
+    {
+      "id": "s1",
+      "kind": "provided",
+      "path": "source.txt",
+      "sha256": "c12d5e07034d857cf38c35a95bc0ae2800a3bfa9f5ebd2bbb5941696ef5969d9",
+      "origin": "Kullanıcının verdiği tek kaynak ve görev bağlamı"
+    }
+  ],
+  "segments": [
+    {
+      "text": "Çalışmanın sınırı açık: Yalnızca gönüllülerin beyanları toplandı",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Bu çalışmada yalnızca gönüllülerin beyanlarını topladık."
+        }
+      ]
+    },
+    {
+      "text": "\n\nKaynak, çalışmanın kapsamını şu sözlerle belirtiyor: ",
+      "kind": "other",
+      "evidence": []
+    },
+    {
+      "text": "“Bu çalışmada yalnızca gönüllülerin beyanlarını topladık.”",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Bu çalışmada yalnızca gönüllülerin beyanlarını topladık."
+        }
+      ]
+    }
+  ]
+}

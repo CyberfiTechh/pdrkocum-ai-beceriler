@@ -1,0 +1,13 @@
+{
+  "SKILL.md": "23e9ec1186b13994c4320541753adc02e5b564c41f8499ca7da3facb7f084bcb",
+  "references/siki-dogrulama.md": "5e7fe7bfb9497e13bbd9825b028e3e4fbe07cc371e8c4a7832acd0102400c0fd",
+  "references/kanit-protokolu.md": "ae415a280316005b1df078acbb0894d145c7697a48ca5ad8b914d89d78ff0dd2",
+  "references/arastirma-dayanaklari.md": "017d58d9ecfdeb0647a3c3bc10d172ee36e1389dddcc38529ebb85aa7b3309c8",
+  "references/dedektor-deneyi.md": "add06485f220f54737636001ac879a82f1bd39aa29be5c0da81f882cdde204e3",
+  "references/turkce-uslup.md": "944c6ef7d3c2d253063411e026df7931fc0bc33ade7384b4e02db30958c6bca6",
+  "references/kalip-ve-yapi-rehberi.md": "768d0620d8ccb05404d1601d977f05d85b0264135418120b44d07ee7b6fc8126",
+  "references/ileri-dogrulama-kaynaklari.md": "98db84e22dbd4018a9e18b7cc2851dccf8a20c5befedab10c47338c5d6436607",
+  "references/v3-arastirma.md": "7b523adbbc0fb0136e9ba2920aa22e92360eda53d5633f0b436050dc4da23283",
+  "references/yerel-denetim.md": "6d3a45dee2648412ac1eab092ac047ff6c5a222522fcface76439f0cdf9496c0",
+  "scripts/evidence_gate.py": "494c0a203126f68ad91cdaf1ec99ece4f5e0cdc793a9af6f110706ba1efd1c18"
+}

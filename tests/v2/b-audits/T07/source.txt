@@ -1,0 +1,1 @@
+Fatura bilgisini kısa ve doğal yaz: Bir kitap 1.250,50 TL, üç kitap alındı. İndirim/kargo/vergi ilavesi yok. Toplamı hesaplayıp yaz.

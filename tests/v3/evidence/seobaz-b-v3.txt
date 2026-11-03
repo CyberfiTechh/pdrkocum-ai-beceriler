@@ -1,0 +1,76 @@
+Browser tab: 5, Title: "AI Content Detector with Turkish Support | Seobaz", URL: "https://seobaz.com/en/ai-content-detector".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 49-51, 259-263
+~			258 text 1316 characters Queries left: 9
+~			46 button Analyze
++				259 text Analyze
++			260 text 41% AI PROBABILITY
++			261 text Mixed: AI with human editing is likely
++			262 text Medium confidence Likely range: 30% - 52% Text type: Internal workplace email
++			263 text The email is clean, courteous and logically ordered, with several stacked reassurances and no concrete specifics, names or personal markers. Pattern markers and monotony are low and sentence lengths vary moderately, and the genre naturally encourages this formality, so the evidence is inconclusive.
++			264 container adSonuc
++				265 text 41% AI PROBABILITY
++				266 text Mixed: AI with human editing is likely
++				267 text Medium confidence Likely range: 30% - 52% Text type: Internal workplace email Measurement breakdown Linguistic analysis, calculated independently of the model
++				268 text Sentence rhythm
++				269 text 39/100
++				270 text Sentence lengths show moderate variation (0.42); short sentences break up the rhythm.
++				271 text Pattern density
++				272 text 15/100
++				273 text Patterns matched: 1 ("ayrıca"), 1/17 sentences open with a connector.
++				274 text Monotony of style
++				275 text 18/100
++				276 text Set predicate ("-dır/-dir") ratio 0%, sentence endings vary, different punctuation marks used: 3.
++				277 text Human traces
++				278 text 0/100
++				279 text No traces of personal experience, conversational language or typing noise were found.
++				280 text Signal measurements Values are calculated from the text; they are measurements, not labels
++				281 text SENTENCE RHYTHM
++				282 text Sentence length variability 0.42 Sentences of similar length 47% Share of short sentences 29% Paragraph length balance measured
++				283 text PATTERN DENSITY
++				284 text Matched set phrases 1 pattern Sentences starting with a connector 1/17 Ending with "-maktadır / -mektedir" 1 sentence Use of long dashes 0 found Formatting leftovers (**, ##, bullets) 0 marks Rule-of-three lists 0 sentences
++				285 text MONOTONY OF STYLE
++				286 text Sentences ending in "-dır / -dir" 0% Variety of sentence endings 0.59 Punctuation marks used 3/9 types Vocabulary variety 0.96 Repeated phrases 0%
++				287 text HUMAN TRACES
++				288 text Personal experience and conversational tone none found Typing irregularities none found Concrete data (numbers, dates, names) 0.0/100 words Evidence found Red: AI traces · Green: human traces ayrıca ×1 Most suspicious sentences Verified word for word in the text Henüz uygulama kararı almadık; nasıl bir düzenin işimize yarayacağını birlikte düşünmek istiyoruz.
++				289 text Smooth, balanced reassurance phrasing typical of generated corporate prose.
++				290 text Şu aşamada sizden herhangi bir dosyayı silmenizi ya da taşımanızı istemiyoruz.
++				291 text Preemptive disclaimer that anticipates every worry in an even tone.
++				292 text Taslak üzerinde uzlaşma sağlanmadan mevcut çalışma düzeninde değişiklik yapılmayacak.
++				293 text Formal, polished commitment sentence with no personal stake.
++				294 container
++					295 text Konu: Ortak dosya düzeni için görüşleriniz
+
+Merhaba,
+
+Ortak çalışma dosyalarını daha kolay bulabilmek için ekipçe kullanabileceğimiz bir klasör yapısını değerlendirmeyi planlıyoruz.  Henüz uygulama kararı almadık; nasıl bir düzenin işimize yarayacağını birlikte düşünmek istiyoruz. 
+
+İlk olarak dosyaların şu anda hangi başlıklar altında tutulduğuna ve benzer içeriklerin farklı yerlerde bulunup bulunmadığına bakmak istiyoruz. Bu incelemede kişisel notlarla ortak kullanılan belgeleri ayrı ele almayı öneriyoruz.  Şu aşamada sizden herhangi bir dosyayı silmenizi ya da taşımanızı istemiyoruz. 
+
+Mevcut düzende hangi dosya türlerini bulmakta zorlanıyorsunuz? Karşılaştığınız sorunları kısa ve somut notlarla paylaşmanızı rica ediyoruz. Bu notlar, ele alacağımız sorunları belirlememize yardımcı olacak. Belirli bir şablon kullanmanız gerekmiyor; mevcut klasör adlarını örnek vermeniz yeterli. Dosya içeriklerini veya özel bilgileri göndermenize gerek yok.
+
+Görüşlerinizi değerlendirdikten sonra ortak bir taslak hazırlayıp incelemeniz için sizinle paylaşmayı düşünüyoruz.  Taslak üzerinde uzlaşma sağlanmadan mevcut çalışma düzeninde değişiklik yapılmayacak. 
+
+Değerlendirme toplantısının tarihi henüz belli değil. Netleştiğinde ayrıca bilgi vereceğiz.
+
+Görüşleriniz ve katkılarınız için teşekkür ederiz.
+
+İyi çalışmalar.
+
++				296 text Interpretation layer signals Language model assessment Uniform polite register
++				297 text The tone stays courteous and even throughout, with no slips, informal asides or personal voice.
++				298 text Reassurance-heavy structure
++				299 text Repeated disclaimers such as no files to delete, no template needed and no private data required read like a tidy checklist of anticipated concerns.
++				300 text Neat paragraph logic
++				301 text Each of the four paragraphs covers one function (purpose, first step, request, next steps) with clean transitions and no tangents.
++				302 text No human traces
++				303 text There are no personal details, concrete folder names, names of colleagues or typing noise, and the text is entirely generic.
++				304 text Genre explains some regularity
++				305 text Formal internal announcements are often templated, so the orderly flow is partly expected and the pattern markers are almost absent.
++				306 text How to lower the score Specific to this text, based on measured findings 1 The text shows no trace of lived experience. Add a date, a number, a name or a single example from your own experience; that alone lowers the score noticeably. 2 Name one or two real folder or file problems, such as 'Proje_Final_v3 klasörünü bulamamak', in place of the generic 'bazı dosya türleri'. 3 Add a personal voice, such as a short line about who is writing and why this came up this week, and vary the sentence openings. 4 Replace some of the repeated disclaimers with one blunt sentence, and give the meeting a rough timeframe or a deadline for replies. WORDS 155 SENTENCES 17 AVG. SENTENCE 9.1 words RHYTHM VARIATION 0.42
++				307 text ⚠️ No AI detector can give a definitive result; this score is an indicator of probability, not proof. Do not rely on it alone for important decisions (academic assessment, hiring and so on).
++	308 container reCAPTCHA
++		309 AXWebArea reCAPTCHA, URL: google.com/recaptcha/api2/anchor?ar=1&k=6Ld3LuMqAAAAAG9vQOwUpHa7SPHeKoCZKJKPCu5p&co=aHR0cHM6Ly9zZW9iYXouY29tOjQ0Mw..&hl=en&v=bSuJ2xBC8cFy7pM4Z3Hu9boH&size=invisible&badge=bottomright&anchor-ms=20000&execute-ms=30000&cb=2zvbmzz49ns2
++			310 text protected by 
++			311 text reCAPTCHA
+The focused UI element is 1 AXWebArea AI Content Detector with Turkish Support | Seobaz, URL: seobaz.com/en/ai-content-detector

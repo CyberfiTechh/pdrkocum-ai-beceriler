@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "draft_file": "draft.txt",
+  "draft_sha256": "117ac6a6894e0f53b9c34ba55d3b5cf31c5d19ce1be2b984c4f363afb0045c33",
+  "sources": [
+    {
+      "id": "s1",
+      "kind": "provided",
+      "path": "source.txt",
+      "sha256": "388312212d3f92bb41563aa1e37f985cf65f1c715810cc35d0df07224351f493",
+      "origin": "Kullanıcının verdiği tek kaynak ve görev bağlamı"
+    }
+  ],
+  "segments": [
+    {
+      "text": "Toplantı, Atölye Salonu’nda ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "İkisinde de yer Atölye Salonu."
+        }
+      ]
+    },
+    {
+      "text": "saat 15.00’te yapılacak. ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "A: 'Toplantı 12 Kasım saat 15.00' B: 'Toplantı 13 Kasım saat 15.00'"
+        }
+      ]
+    },
+    {
+      "text": "Tarih bilgisi ise henüz net değil: ",
+      "kind": "uncertainty",
+      "evidence": []
+    },
+    {
+      "text": "Aynı yetkideki iki güncel belgede 12 Kasım ve 13 Kasım olarak geçiyor. ",
+      "kind": "fact",
+      "evidence": [
+        {
+          "source_id": "s1",
+          "quote": "Aynı yetkide iki güncel belge var: A: 'Toplantı 12 Kasım saat 15.00' B: 'Toplantı 13 Kasım saat 15.00'."
+        }
+      ]
+    },
+    {
+      "text": "Hangisinin son sürüm olduğu bilinmediğinden toplantı gününü kesin olarak duyuramıyoruz.",
+      "kind": "uncertainty",
+      "evidence": []
+    }
+  ]
+}
