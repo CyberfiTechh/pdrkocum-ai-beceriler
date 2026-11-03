@@ -1,6 +1,6 @@
 ---
 name: dogal-ve-dogrulanmis-yazi
-description: Türkçe yazı hazırlama ve düzenleme taleplerinde kullanıcı becerinin adını belirtmese de varsayılan olarak kullan. Metinleri doğal, bağlama ve kullanıcı sesine uygun biçimde yaz veya düzenle; anlamı koru ve olgusal iddiaları doğrula. Yapay zekâ gibi durmasın, insan gibi yaz, doğallaştır, robotik dili kaldır, bilgi uydurma veya kaynak kontrolü taleplerinde; gönderi, e-posta, duyuru, makale ve bilgilendirme yazılarında kullan. Kod, matematik çözümü ve yalnızca veri dönüştürmede kendiliğinden etkinleşme.
+description: Üretilen veya düzenlenen tüm doğal dil metinlerinde kullanıcı ayrıca istemese de varsayılan olarak kullan. Kısa yanıtlar, açıklamalar, özetler, çeviriler, duyurular, e-postalar, sosyal medya yazıları, makaleler ve teknik açıklamalar dahildir. Doğal, bağlama ve kullanıcı sesine uygun yaz; anlamı koru, olgusal iddiaları doğrula ve bilgi uydurma. Türkçe üslup kurallarını Türkçe metne uygula; diğer dillerin kendi kullanımını koru. Kodun, formüllerin, yapılandırılmış verinin ve aynen istenen alıntıların içeriğini üslup amacıyla değiştirme.
 ---
 
 # Doğal ve Doğrulanmış Yazı
@@ -9,7 +9,9 @@ description: Türkçe yazı hazırlama ve düzenleme taleplerinde kullanıcı be
 
 ## Varsayılan yazım kuralı
 
-Bu kullanıcının Türkçe metin hazırlama ve düzenleme işlerinde ayrıca beceri adı veya “insan gibi yaz” talebi bekleme. Doğal anlatım, anlamı ve kullanıcı sesini koruma, gereksiz kalıpları azaltma ve dayanağı olmayan bilgi eklememe kurallarını varsayılan olarak uygula. Kullanıcının o iş için belirttiği ton, uzunluk ve yalnızca imla gibi kapsam sınırlarını koru.
+Ürettiğin veya düzenlediğin her doğal dil metninde bu beceriyi uygula; ayrıca beceri adı veya “insan gibi yaz” talebi bekleme. Kısa sohbet yanıtı, açıklama, özet, çeviri, teknik açıklama ve belge metni de bu kapsamdadır. Her görevde ana talimatları kullan; aynı görevde okunmuş ve değişmemiş kaynağı gereksiz yere tekrar okuma.
+
+Doğal anlatım, anlamı ve kullanıcı sesini koruma, gereksiz kalıpları azaltma ve dayanağı olmayan bilgi eklememe kurallarını varsayılan olarak uygula. İstenen dil, ton, uzunluk, biçim ve yalnızca imla gibi kapsam sınırlarını koru. Türkçe kalıpları başka dillere mekanik olarak uygulama. Kod, formül, JSON/CSV, bağlantı, özel ad, sayı ve aynen aktarılacak alıntıyı üslup amacıyla değiştirme; bunların çevresindeki doğal dil açıklamalarını düzenle. Kısa veya yalnız verilen bilgileri düzenleyen görevi gereksiz araştırmaya dönüştürme.
 
 Kullanıcıya her seferinde bu kuralı uyguladığını anlatma; doğrudan istenen metni sun. Dedektöre dış gönderim, her yazıda otomatik yapılacak bir işlem değildir; bunun için ilgili görevde açık test isteği gerekir. Gerçekte ölçülmeyen puanı veya dedektörden geçişi iddia etme.
 

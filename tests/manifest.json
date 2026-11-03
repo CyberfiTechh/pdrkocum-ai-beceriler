@@ -1,8 +1,9 @@
 {
   "algorithm": "sha256",
   "files": {
-    ".agents/skills/dogal-ve-dogrulanmis-yazi/SKILL.md": "b7a369d7b4ae948670470dca6ce5a0028ba9aa85e7d226e668923cb20ed691b7",
-    ".agents/skills/dogal-ve-dogrulanmis-yazi/agents/openai.yaml": "69d30fdb0c1807f4ee59bde7c72652a55959c35186a8482e9f0b53ca9cb2a8b5",
+    ".agents/skills/dogal-ve-dogrulanmis-yazi/SKILL.md": "9d03f82a82a3e0d6ca422841359844c9358dadb28b7fef2b17aec5964bc1aa08",
+    ".agents/skills/dogal-ve-dogrulanmis-yazi/agents/openai.yaml": "e9e169630257ef392eb33b5d8122d8076578b885ffe4003416839ebf6cb4cab7",
+    ".agents/skills/dogal-ve-dogrulanmis-yazi/assets/AGENTS-yazi-kurali.md": "87f7aca8ddb5402d16637698da64e73f2aa3b27007e5bee7258fd434ff9e26a0",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/references/arastirma-dayanaklari.md": "017d58d9ecfdeb0647a3c3bc10d172ee36e1389dddcc38529ebb85aa7b3309c8",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/references/dedektor-deneyi.md": "052e201b23d454d167b700beafc3334a1b3f44d8256048454ee289a27564f142",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/references/ileri-dogrulama-kaynaklari.md": "98db84e22dbd4018a9e18b7cc2851dccf8a20c5befedab10c47338c5d6436607",
@@ -14,7 +15,9 @@
     ".agents/skills/dogal-ve-dogrulanmis-yazi/references/v3-arastirma.md": "7b523adbbc0fb0136e9ba2920aa22e92360eda53d5633f0b436050dc4da23283",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/references/yerel-denetim.md": "6d3a45dee2648412ac1eab092ac047ff6c5a222522fcface76439f0cdf9496c0",
     ".agents/skills/dogal-ve-dogrulanmis-yazi/scripts/evidence_gate.py": "494c0a203126f68ad91cdaf1ec99ece4f5e0cdc793a9af6f110706ba1efd1c18",
-    "README.md": "554f3a98252bee05eb2cb035898c2b460d23c2241a16a6e0d96b7b7a4a7165f3",
+    "AGENTS.md": "c4474e1d26b24199ab23eca58de41ad46f95bfd1ae991b64552542253d7f7237",
+    "KURULUM-PROMPTU.md": "9933b88778e1e42bbb1c0fbeb74384f7cfcdc06dd55cc2468a39d498fcd16984",
+    "README.md": "a9a9c24be1c8bb4559019b06d507a1be99ebbd1d8ecf87bce2f4937ff5bd2c2b",
     "tests/SONUCLAR.md": "234a72d469c74fc103ebbb222b5671471ddcf7b8f772ad0c5420b3efb326503e",
     "tests/detector-runs.json": "03a5148f4507f13f719c15097faeddd8bc43478ddd7c82c1e7c809337e8eb9ab",
     "tests/evidence/seobaz-a-before.txt": "533e9fe0757cf33191465fda18c6ad644e921d786bcf6d1ce2c493be5ea588fd",

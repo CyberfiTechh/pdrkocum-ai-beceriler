@@ -37,6 +37,12 @@ Son metne bağlı iddia–kaynak kaydı, alıntı kontrolü, sayı/koşul koruma
 
 İlk yazım turunda 11 örnek ölçütleri karşıladı, bir örnekte tekrar bulundu; düzeltme sonrası üç yeni hedefli örnek geçti. Küçük örneklemdeki sonuçlar gelecekte hatasızlık garantisi değildir. Bu tur yeni dedektör ölçümü yapılmadı.
 
+## Her metinde varsayılan kullanım
+
+[Kopyalanabilir kurulum promptunu aç](KURULUM-PROMPTU.md). Prompt hem beceriyi kişisel kapsamda kurmayı hem de etkin kalıcı talimatlara yazım kuralını eklemeyi ister. Bu depodaki [AGENTS.md](AGENTS.md) yalnız bu depo içinde geçerlidir; genel kullanım için kullanıcı kapsamındaki kurulum ayrıca yapılır. Kurulu olması tek başına her görevde çağrılacağını garanti etmez.
+
+Kapsam kısa yanıtlar, açıklamalar, çeviriler ve teknik açıklamalar dahil bütün doğal dil metinleridir. Kod/veri ve aynen istenen alıntılar korunur. Yerel genel kural için becerinin `assets/AGENTS-yazi-kurali.md` dosyası kullanılır. Kalıcı ayarı olmayan yönetilen ortamlarda bu sınır açıkça bildirilir.
+
 ## Codex'te kullanma
 
 Bu depoyu indirdikten sonra Codex'i depo klasöründe açın. Beceri bu klasörün `.agents/skills` dizinindedir.
